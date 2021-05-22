@@ -2956,6 +2956,34 @@
   ],
   "chooseYourColor": [
     {
+      "catalogue": "Rothchord – Sizzling Red",
+      "date": "2021-04-19T00:00:00",
+      "artist": "Rothchord",
+      "albumName": "Sizzling Red",
+      "tracklist": "null",
+      "description": "Artist: Rothchord\nColor: Sizzling Red\nGenre: Dub Techno",
+      "bandcamp": "https://spclnch.bandcamp.com/track/sizzling-red",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/rothchord-sizzling-red",
+      "flat.audio": "null",
+      "youtube": "null",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=2306867830/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/sizzling-red"
+        }
+      ],
+      "imageId": "Rothchord-Sizzling-Red.jpg",
+      "remix": [],
+      "type": "choose-your-color",
+      "id": "sizzling-red"
+    },
+    {
       "catalogue": "Dub Portrait – Blue Pigment",
       "date": "2021-04-01T00:00:00",
       "artist": "Dub Portrait",
