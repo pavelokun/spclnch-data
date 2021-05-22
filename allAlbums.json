@@ -2,7 +2,7 @@
   "albums": [
     {
       "catalogue": "SL31",
-      "date": "04-08-2021",
+      "date": "2021-04-08T00:00:00",
       "artist": "Ikosaeder",
       "albumName": "Left Right Hell",
       "tracklist": "01 Obsessive Prevailing\n02 Dub Dimensions\n03 Clever Shooter\n04 Distress Signal\n05 Dub Dimensions (Schulz Audio remix)\n06 Clever Shooter (Kooscha remix)",
@@ -50,7 +50,7 @@
     },
     {
       "catalogue": "SL30",
-      "date": "03-18-2021",
+      "date": "2021-03-18T00:00:00",
       "artist": "Marcibagoly",
       "albumName": "Airy Tales",
       "tracklist": "01 Jet Stream (05:44)\n02 We're Flying (06:48)\n03 Snowstorm (05:28)\n04 Jet Stream (R.Hz remix) (10:28)\n05 Snowstorm (R.Hz remix) (09:17)",
@@ -94,7 +94,7 @@
     },
     {
       "catalogue": "SL29",
-      "date": "02-25-2021",
+      "date": "2021-02-25T00:00:00",
       "artist": "Special Zip",
       "albumName": "Minimal Antagonist",
       "tracklist": "01 Minimal Antagonist (06:47)\n02 Bingo (08:05)\n03 Ufologist (06:44)\n04 Ufologist (Asvajit remix) (06:30)\n05 Bingo (Nigel Perera remix) (06:56)",
@@ -138,7 +138,7 @@
     },
     {
       "catalogue": "SL28",
-      "date": "02-04-2021",
+      "date": "2021-02-04T00:00:00",
       "artist": "Federsen",
       "albumName": "Ataraxia",
       "tracklist": "01 Illusion Fusion (07:14)\n02 Wanderer Fusion (09:01)\n03 Golden Rule (07:48)\n04 Temporal Fusion (07:46)\n05 Temporal Fusion (Altone remix) (07:27)",
@@ -182,7 +182,7 @@
     },
     {
       "catalogue": "SPCLNCH02",
-      "date": "01-19-2021",
+      "date": "2021-01-19T00:00:00",
       "artist": "Basicnoise",
       "albumName": "Consequences",
       "tracklist": "a1 Consequences (06:12)\na2 Consequences (Echoton remix) (06:40)\nb1 Subsequence (07:37)\nb2 Subsequence (Kooscha remix) (07:14)",
@@ -222,7 +222,7 @@
     },
     {
       "catalogue": "SL27",
-      "date": "01-14-2021",
+      "date": "2021-01-14T00:00:00",
       "artist": "Altone",
       "albumName": "Hypnotizing Spiral",
       "tracklist": "01 Bubble Pattern (07:24)\n02 Cold Draft (06:24)\n03 Rusted House (06:04)\n04 Wet Format (07:35)\n05 Cold Draft (Federsen remix) (07:37)",
@@ -266,7 +266,7 @@
     },
     {
       "catalogue": "SL2020",
-      "date": "12-31-2020",
+      "date": "2020-12-31T00:00:00",
       "artist": "Various Artists",
       "albumName": "The Best of spclnch 2020",
       "tracklist": "01 Ohrwert – Soliton (07:20)\n02 Marcibagoly – Wish I Could (Special Zip remix) (06:46)\n03 Schulz Audio – Everyday (06:56)\n04 Heavenchord – Two (10:00)\n05 Upwellings – Nebula Escape (06:27)\n06 Flying Cobra – The Coldest Year (Marcibagoly remix) (05:55)\n07 Luss – Journey (Upwellings remix) (08:00)\n08 Alexander Bogdanov – Elevation (10:07)\n09 Kooscha – Forma (09:16)\n10 Upwellings – Igneous (07:21)\n11 Subset –The Alien Script (Basicnoise remix) (07:40)\n12 Liuos – Zeta Potential (Luss remix) (08:22)\n13 Schulz Audio – Waxing Moon (05:35)",
@@ -348,7 +348,7 @@
     },
     {
       "catalogue": "SL26",
-      "date": "12-24-2020",
+      "date": "2020-12-24T00:00:00",
       "artist": "Schulz Audio",
       "albumName": "Lunar Cycle",
       "tracklist": "01 Waxing Moon (05:35)\n02 Full Moon (05:56)\n03 Waning Moon (05:27)\n04 Full Moon (Asvajit remix) (06:54)\n05 Full Moon (Addex remix) (09:10)",
@@ -392,7 +392,7 @@
     },
     {
       "catalogue": "SL25",
-      "date": "12-03-2020",
+      "date": "2020-12-03T00:00:00",
       "artist": "Liuos",
       "albumName": "Charged Particles",
       "tracklist": "01 Zeta Potential (07:56)\n02 Molecular Orbitals (07:26)\n03 Delta Minus (07:43)\n04 Zeta Potential (Luss remix) (08:22)\n05 Zeta Potencial (Special Zip remix) (07:25)",
@@ -436,7 +436,7 @@
     },
     {
       "catalogue": "SL24",
-      "date": "11-12-2020",
+      "date": "2020-11-12T00:00:00",
       "artist": "Subset",
       "albumName": "Pattern Juggler",
       "tracklist": "01 RTW1350 (06:51)\n02 Orlan 19 (06:47)\n03 Pattern Juggler (07:30)\n04 The Alien Script (06:18)\n05 The Alien Script (Basicnoise remix) (07:40)",
@@ -480,7 +480,7 @@
     },
     {
       "catalogue": "SL23",
-      "date": "10-22-2020",
+      "date": "2020-10-22T00:00:00",
       "artist": "Upwellings",
       "albumName": "Mineralization's Dubs",
       "tracklist": "01 Igneous (07:21)\n02 Metamorphic (07:29)\n03 Sedimentary (08:00)\n04 Sedimentary (Alexander Bogdanov remix) (06:27)",
@@ -520,7 +520,7 @@
     },
     {
       "catalogue": "SL22",
-      "date": "09-24-2020",
+      "date": "2020-09-24T00:00:00",
       "artist": "Kooscha",
       "albumName": "Forma",
       "tracklist": "01 Forma (09:16)\n02 Dehn Invariant (08:58)\n03 Normals (07:10)\n04 Dehn Invariant (Altone remix) (06:18)\n05 Normals (DP-6 remix) (06:10)",
@@ -564,7 +564,7 @@
     },
     {
       "catalogue": "SL21",
-      "date": "09-03-2020",
+      "date": "2020-09-03T00:00:00",
       "artist": "Alexander Bogdanov",
       "albumName": "Elevation",
       "tracklist": "01 Elevation (10:07)\n02 Shortcut Road (06:43)\n03 Last Night (07:43)\n04 Shortcut Road (Schulz Audio remix) (06:40)",
@@ -604,7 +604,7 @@
     },
     {
       "catalogue": "SL20",
-      "date": "08-13-2020",
+      "date": "2020-08-13T00:00:00",
       "artist": "Luss",
       "albumName": "Moments",
       "tracklist": "01 Moments (10:41)\n02 Restless (06:31)\n03 Journey (06:51)\n04 Journey (Upwellings remix) (08:00)",
@@ -644,7 +644,7 @@
     },
     {
       "catalogue": "SPCLNCH01",
-      "date": "06-12-2020",
+      "date": "2020-06-12T00:00:00",
       "artist": "Echoton",
       "albumName": "Mind Machine",
       "tracklist": "a Mind Machine (09:48)\nb1 Theta Rhythm (08:23)\nb2 Theta Rhythm (Basicnoise remix) (06:35)",
@@ -680,7 +680,7 @@
     },
     {
       "catalogue": "SL19",
-      "date": "06-04-2020",
+      "date": "2020-06-04T00:00:00",
       "artist": "Flying Cobra",
       "albumName": "Under The Shadow Of Saturn",
       "tracklist": "01 Under The Shadow Of Saturn (05:31)\n02 The Coldest Year (05:25)\n03 The Coldest Year (Marcibagoly remix) (05:55)",
@@ -716,7 +716,7 @@
     },
     {
       "catalogue": "SL18",
-      "date": "05-14-2020",
+      "date": "2020-05-14T00:00:00",
       "artist": "Upwellings",
       "albumName": "Nebula Escape",
       "tracklist": "01 Vela Dust (06:42)\n02 Crossing Dumbbell (06:58)\n03 Nebula Escape (06:27)\n04 Nebula Escape (Fingers In The Noise remix) (06:12)",
@@ -756,7 +756,7 @@
     },
     {
       "catalogue": "SL17",
-      "date": "04-23-2020",
+      "date": "2020-04-23T00:00:00",
       "artist": "Heavenchord",
       "albumName": "Healing Lullabies",
       "tracklist": "01 One (16:07)\n02 Two (10:00)\n03 Three (08:46)\n04 Four (10:08)\n05 Five (12:36)\n06 Six (03:13)",
@@ -804,7 +804,7 @@
     },
     {
       "catalogue": "SL16",
-      "date": "04-02-2020",
+      "date": "2020-04-02T00:00:00",
       "artist": "Various Artists",
       "albumName": "Pictures From Life",
       "tracklist": "01 Upwellings – Dark Cloud Riddim (06:42)\n02 Kooscha – Kenopsia (07:21)\n03 Ohrwert – Vade (06:45)\n04 Alexander Bogdanov – My Dear Ketu (07:19)\n05 Echoton – Depth Of Field (10:10)\n06 Schulz Audio – Turing Test (06:09)\n07 Basicnoise – Sequential (06:24)\n08 Thomas Carmody – Morning Fog (Skytechnic remix) (08:11)\n09 Special Zip – Simple (04:47)\n10 Marcibagoly – Mystery Of Love (07:18)\n11 Heavenchord – Skoro Vesna (08:41)\n12 Drifted – Sinister Dub (03:08)",
@@ -876,7 +876,7 @@
     },
     {
       "catalogue": "SL15",
-      "date": "03-12-2020",
+      "date": "2020-03-12T00:00:00",
       "artist": "Schulz Audio",
       "albumName": "Everyday",
       "tracklist": "01 RNG (08:48)\n02 Espace (06:34)\n03 Everyday (06:56)\n04 Everyday (Alexander Bogdanov remix) (06:56)\n05 Everyday (Drifting.Dubs remix) (07:18)",
@@ -920,7 +920,7 @@
     },
     {
       "catalogue": "SL14",
-      "date": "02-20-2020",
+      "date": "2020-02-20T00:00:00",
       "artist": "Marcibagoly",
       "albumName": "Tales of Sadness and Happiness",
       "tracklist": "01 Nostalgia (04:28)\n02 Wish I Could (06:13)\n03 Floating In Deep Space (05:21)\n04 Wish I Could (Special Zip remix) (06:46)",
@@ -960,7 +960,7 @@
     },
     {
       "catalogue": "SL13",
-      "date": "01-30-2020",
+      "date": "2020-01-30T00:00:00",
       "artist": "Ohrwert",
       "albumName": "Soliton",
       "tracklist": "01 Soliton (07:20)\n02 Lyft (06:10)\n03 Motivus (05:38)\n04 Motivus (Schulz Audio Remix) (04:53)\n05 Motivus (Heavenchord Remix) (06:48)",
@@ -1004,7 +1004,7 @@
     },
     {
       "catalogue": "SL12",
-      "date": "01-09-2020",
+      "date": "2020-01-09T00:00:00",
       "artist": "AmaG & Tender H",
       "albumName": "Across The Meridian",
       "tracklist": "01 Singularity (06:24)\n02 Spheres Connection (05:46)\n03 Under Stunning (07:12)\n04 Side By Side (05:46)",
@@ -1044,7 +1044,7 @@
     },
     {
       "catalogue": "SL2019",
-      "date": "12-26-2019",
+      "date": "2019-12-26T00:00:00",
       "artist": "Various Artists",
       "albumName": "The Best of spclnch 2019",
       "tracklist": "01 Kooscha – Self Aware (05:42)\n02 Marcibagoly – Feher Rozsa (05:45)\n03 Kpsh – Aquanaut (Alex Sfetcu Remix) (07:19)\n04 Altone – Vestiges (07:08)\n05 Basicnoise – Redshift (8Lives Remix) (04:45)\n06 Drifted – Tranquility (08:26)\n07 Maclab – Outside (Asvajit Remix) (07:32)\n08 Skytechnic – Phantom (06:42)\n09 Upwellings – Barn Door Slam (06:27)\n10 Thomas Carmody & Khlev – Save Me (Vøsne Redemption) (09:48)\n11 Zgomot – Celestial Beings (Echoton Remix) (09:18)\n12 Alexander Bogdanov – Mercury In Retrograde (07:09)\n13 Special Zip – Arctic Dub (05:12)",
@@ -1120,7 +1120,7 @@
     },
     {
       "catalogue": "SL11",
-      "date": "12-19-2019",
+      "date": "2019-12-19T00:00:00",
       "artist": "Alexander Bogdanov & Special Zip",
       "albumName": "Contact",
       "tracklist": "01 Alexander Bogdanov - Mercury In Retrograde (07:09)\n02 Alexander Bogdanov - Recognize It (07:22)\n03 Special Zip – Arctic Dub (05:12)\n04 Special Zip – Wormhole (06:20)",
@@ -1160,7 +1160,7 @@
     },
     {
       "catalogue": "SL10",
-      "date": "11-28-2019",
+      "date": "2019-11-28T00:00:00",
       "artist": "Zgomot",
       "albumName": "Celestial Beings",
       "tracklist": "01 Celestial Beings (08:56)\n02 Celestial Beings (Echoton Remix) (09:18)\n03 Sinapse (05:57)",
@@ -1196,7 +1196,7 @@
     },
     {
       "catalogue": "SL09",
-      "date": "11-07-2019",
+      "date": "2019-11-07T00:00:00",
       "artist": "Thomas Carmody & Khlev",
       "albumName": "Save Me",
       "tracklist": "01 Save Me (04:13)\n02 Save Me (Vøsne Redemption) (09:48)\n03 Save Me (Kpsh Remix) (06:13)\n04 Save Me (Alex Sfetcu Remix) (08:08)",
@@ -1236,7 +1236,7 @@
     },
     {
       "catalogue": "SL08",
-      "date": "10-17-2019",
+      "date": "2019-10-17T00:00:00",
       "artist": "Upwellings",
       "albumName": "Illusory Fog",
       "tracklist": "01 Barn Door Slam (06:27)\n02 Barn Door Slam (Basicnoise Reconstruction) (07:58)\n03 Illusory Fog (07:13)\n04 Illusory Fog (Kooscha Remix) (07:17)",
@@ -1276,7 +1276,7 @@
     },
     {
       "catalogue": "SL07",
-      "date": "09-26-2019",
+      "date": "2019-09-26T00:00:00",
       "artist": "Skytechnic",
       "albumName": "Q Factory",
       "tracklist": "01 Elastic Dub (07:12)\n02 Phantom (06:42)\n03 Algorithm (06:56)\n04 Algorithm (Kooscha Remix) (07:39)",
@@ -1316,7 +1316,7 @@
     },
     {
       "catalogue": "SL06",
-      "date": "09-05-2019",
+      "date": "2019-09-05T00:00:00",
       "artist": "Maclab",
       "albumName": "Outside",
       "tracklist": "01 No Change (07:03)\n02 Outside (06:16)\n03 Outside (Asvajit Remix) (07:32)",
@@ -1352,7 +1352,7 @@
     },
     {
       "catalogue": "SL05",
-      "date": "08-15-2019",
+      "date": "2019-08-15T00:00:00",
       "artist": "Drifted",
       "albumName": "Tranquility",
       "tracklist": "01 Addicted (06:53)\n02 Tranquility (08:26)\n03 Tranquility (Echoton Remix) (11:34)\n04 Tranquility (Asvajit Remix) (06:10)",
@@ -1392,7 +1392,7 @@
     },
     {
       "catalogue": "SL04",
-      "date": "07-25-2019",
+      "date": "2019-07-25T00:00:00",
       "artist": "Various Artists",
       "albumName": "Time",
       "tracklist": "01 Marcibagoly – Aerosol (05:29)\n02 Basicnoise – Redshift (09:38)\n03 Altone – Vestiges (07:08)\n04 Heavenchord – Breaks And Chords (06:33)\n05 Alex Sfetcu – Celestial (08:32)\n06 Marcibagoly – Aerosol (R.Hz Remix) (08:11)\n07 Basicnoise – Redshift (8Lives Remix) (04:45)\n08 Altone – Vestiges (Kirill Torno Remix) (07:08)\n09 Heavenchord – Breaks And Chords (G-Day Remix) (06:22)\n10 Alex Sfetcu – Celestial (Versilov Remix) (05:25)",
@@ -1456,7 +1456,7 @@
     },
     {
       "catalogue": "SL03",
-      "date": "07-04-2019",
+      "date": "2019-07-04T00:00:00",
       "artist": "Kpsh & Alex Sfetcu",
       "albumName": "Aquanaut / Proud Wanderer",
       "tracklist": "01 Kpsh – Aquanaut (07:52)\n02 Kpsh – Aquanaut (Alex Sfetcu Remix) (07:19)\n03 Alex Sfetcu – Proud Wanderer (09:17)\n04 Alex Sfetcu – Proud Wanderer (Kpsh Remix) (08:49)",
@@ -1496,7 +1496,7 @@
     },
     {
       "catalogue": "SL02",
-      "date": "06-13-2019",
+      "date": "2019-06-13T00:00:00",
       "artist": "Marcibagoly",
       "albumName": "Tales From Flowers",
       "tracklist": "01 Pulsatilla (04:19)\n02 Stipae (06:20)\n03 Feher Rozsa (05:45)\n04 Feher Rozsa (Dancing In The Sunlight Version) (05:57)",
@@ -1536,7 +1536,7 @@
     },
     {
       "catalogue": "SL01",
-      "date": "05-23-2019",
+      "date": "2019-05-23T00:00:00",
       "artist": "Kooscha",
       "albumName": "Reflections",
       "tracklist": "01 Distant (05:49)\n02 Reflections (06:31)\n03 Self Aware (05:42)\n04 Unfazed (06:39)",
@@ -1578,7 +1578,7 @@
   "podcasts": [
     {
       "catalogue": "51",
-      "date": "02-23-2021",
+      "date": "2021-02-23T00:00:00",
       "artist": "Federsen",
       "albumName": "spclnch podcast #51",
       "tracklist": "null",
@@ -1605,7 +1605,7 @@
     },
     {
       "catalogue": "50",
-      "date": "02-18-2021",
+      "date": "2021-02-18T00:00:00",
       "artist": "M-Eject",
       "albumName": "spclnch podcast #50",
       "tracklist": "null",
@@ -1632,7 +1632,7 @@
     },
     {
       "catalogue": "49",
-      "date": "01-11-2021",
+      "date": "2021-01-11T00:00:00",
       "artist": "Quadrant Soundscape",
       "albumName": "spclnch podcast #49",
       "tracklist": "null",
@@ -1659,7 +1659,7 @@
     },
     {
       "catalogue": "48",
-      "date": "01-05-2021",
+      "date": "2021-01-05T00:00:00",
       "artist": "Giriu Dvasios",
       "albumName": "spclnch podcast #48",
       "tracklist": "null",
@@ -1686,7 +1686,7 @@
     },
     {
       "catalogue": "47",
-      "date": "10-25-2020",
+      "date": "2020-10-25T00:00:00",
       "artist": "Thomas Carmody",
       "albumName": "spclnch podcast #47",
       "tracklist": "null",
@@ -1713,7 +1713,7 @@
     },
     {
       "catalogue": "46",
-      "date": "10-15-2020",
+      "date": "2020-10-15T00:00:00",
       "artist": "airkey",
       "albumName": "spclnch podcast #46",
       "tracklist": "null",
@@ -1740,7 +1740,7 @@
     },
     {
       "catalogue": "45",
-      "date": "09-07-2020",
+      "date": "2020-09-07T00:00:00",
       "artist": "Anton Kubikov",
       "albumName": "spclnch podcast #45",
       "tracklist": "null",
@@ -1767,7 +1767,7 @@
     },
     {
       "catalogue": "44",
-      "date": "09-02-2020",
+      "date": "2020-09-02T00:00:00",
       "artist": "T. Fitzgerald",
       "albumName": "spclnch podcast #44",
       "tracklist": "null",
@@ -1794,7 +1794,7 @@
     },
     {
       "catalogue": "43",
-      "date": "08-16-2020",
+      "date": "2020-08-16T00:00:00",
       "artist": "Monosphere",
       "albumName": "spclnch podcast #43",
       "tracklist": "null",
@@ -1821,7 +1821,7 @@
     },
     {
       "catalogue": "42",
-      "date": "07-17-2020",
+      "date": "2020-07-17T00:00:00",
       "artist": "Matthias Lindner",
       "albumName": "spclnch podcast #42",
       "tracklist": "null",
@@ -1848,7 +1848,7 @@
     },
     {
       "catalogue": "41",
-      "date": "07-12-2020",
+      "date": "2020-07-12T00:00:00",
       "artist": "Duboko Deep",
       "albumName": "spclnch podcast #41",
       "tracklist": "null",
@@ -1875,7 +1875,7 @@
     },
     {
       "catalogue": "40",
-      "date": "07-03-2020",
+      "date": "2020-07-03T00:00:00",
       "artist": "subd",
       "albumName": "spclnch podcast #40",
       "tracklist": "null",
@@ -1902,7 +1902,7 @@
     },
     {
       "catalogue": "39",
-      "date": "05-30-2020",
+      "date": "2020-05-30T00:00:00",
       "artist": "Thomas Carmody",
       "albumName": "spclnch podcast #39",
       "tracklist": "null",
@@ -1929,7 +1929,7 @@
     },
     {
       "catalogue": "38",
-      "date": "04-09-2020",
+      "date": "2020-04-09T00:00:00",
       "artist": "Drifting.Dubs",
       "albumName": "spclnch podcast #38",
       "tracklist": "null",
@@ -1956,7 +1956,7 @@
     },
     {
       "catalogue": "37",
-      "date": "04-05-2020",
+      "date": "2020-04-05T00:00:00",
       "artist": "Flying Cobra",
       "albumName": "spclnch podcast #37",
       "tracklist": "null",
@@ -1983,7 +1983,7 @@
     },
     {
       "catalogue": "36",
-      "date": "03-29-2020",
+      "date": "2020-03-29T00:00:00",
       "artist": "Argonaut",
       "albumName": "spclnch podcast #36",
       "tracklist": "null",
@@ -2010,7 +2010,7 @@
     },
     {
       "catalogue": "35",
-      "date": "03-23-2020",
+      "date": "2020-03-23T00:00:00",
       "artist": "Drifted",
       "albumName": "spclnch podcast #35",
       "tracklist": "null",
@@ -2037,7 +2037,7 @@
     },
     {
       "catalogue": "34",
-      "date": "03-04-2020",
+      "date": "2020-03-04T00:00:00",
       "artist": "Kød",
       "albumName": "spclnch podcast #34",
       "tracklist": "null",
@@ -2064,7 +2064,7 @@
     },
     {
       "catalogue": "33",
-      "date": "02-26-2020",
+      "date": "2020-02-26T00:00:00",
       "artist": "Thomas Carmody",
       "albumName": "spclnch podcast #33",
       "tracklist": "null",
@@ -2091,7 +2091,7 @@
     },
     {
       "catalogue": "32",
-      "date": "02-18-2020",
+      "date": "2020-02-18T00:00:00",
       "artist": "Marcibagoly",
       "albumName": "spclnch podcast #32",
       "tracklist": "null",
@@ -2118,7 +2118,7 @@
     },
     {
       "catalogue": "31",
-      "date": "02-01-2020",
+      "date": "2020-02-01T00:00:00",
       "artist": "Kpsh",
       "albumName": "spclnch podcast #31",
       "tracklist": "null",
@@ -2145,7 +2145,7 @@
     },
     {
       "catalogue": "30",
-      "date": "01-27-2020",
+      "date": "2020-01-27T00:00:00",
       "artist": "Kooscha",
       "albumName": "spclnch podcast #30",
       "tracklist": "null",
@@ -2172,7 +2172,7 @@
     },
     {
       "catalogue": "29",
-      "date": "11-18-2019",
+      "date": "2019-11-18T00:00:00",
       "artist": "Minube",
       "albumName": "spclnch podcast #29",
       "tracklist": "null",
@@ -2199,7 +2199,7 @@
     },
     {
       "catalogue": "28",
-      "date": "11-13-2019",
+      "date": "2019-11-13T00:00:00",
       "artist": "Thomas Carmody",
       "albumName": "spclnch podcast #28",
       "tracklist": "null",
@@ -2226,7 +2226,7 @@
     },
     {
       "catalogue": "27",
-      "date": "10-28-2019",
+      "date": "2019-10-28T00:00:00",
       "artist": "Kvark",
       "albumName": "spclnch podcast #27",
       "tracklist": "null",
@@ -2253,7 +2253,7 @@
     },
     {
       "catalogue": "26",
-      "date": "10-23-2019",
+      "date": "2019-10-23T00:00:00",
       "artist": "Matija",
       "albumName": "spclnch podcast #26",
       "tracklist": "null",
@@ -2280,7 +2280,7 @@
     },
     {
       "catalogue": "25",
-      "date": "10-11-2019",
+      "date": "2019-10-11T00:00:00",
       "artist": "Khlev",
       "albumName": "spclnch podcast #25",
       "tracklist": "null",
@@ -2307,7 +2307,7 @@
     },
     {
       "catalogue": "24",
-      "date": "10-08-2019",
+      "date": "2019-10-08T00:00:00",
       "artist": "Masupilami",
       "albumName": "spclnch podcast #24",
       "tracklist": "null",
@@ -2334,7 +2334,7 @@
     },
     {
       "catalogue": "23",
-      "date": "10-03-2019",
+      "date": "2019-10-03T00:00:00",
       "artist": "Upwellings",
       "albumName": "spclnch podcast #23",
       "tracklist": "null",
@@ -2361,7 +2361,7 @@
     },
     {
       "catalogue": "22",
-      "date": "09-30-2019",
+      "date": "2019-09-30T00:00:00",
       "artist": "Groovedawg",
       "albumName": "spclnch podcast #22",
       "tracklist": "null",
@@ -2388,7 +2388,7 @@
     },
     {
       "catalogue": "21",
-      "date": "09-23-2019",
+      "date": "2019-09-23T00:00:00",
       "artist": "Verzila",
       "albumName": "spclnch podcast #21",
       "tracklist": "null",
@@ -2415,7 +2415,7 @@
     },
     {
       "catalogue": "20",
-      "date": "09-18-2019",
+      "date": "2019-09-18T00:00:00",
       "artist": "Thomas Carmody",
       "albumName": "spclnch podcast #20",
       "tracklist": "null",
@@ -2442,7 +2442,7 @@
     },
     {
       "catalogue": "19",
-      "date": "09-10-2019",
+      "date": "2019-09-10T00:00:00",
       "artist": "Kpsh",
       "albumName": "spclnch podcast #19",
       "tracklist": "null",
@@ -2469,7 +2469,7 @@
     },
     {
       "catalogue": "18",
-      "date": "09-04-2019",
+      "date": "2019-09-04T00:00:00",
       "artist": "Genning",
       "albumName": "spclnch podcast #18",
       "tracklist": "null",
@@ -2496,7 +2496,7 @@
     },
     {
       "catalogue": "17",
-      "date": "08-30-2019",
+      "date": "2019-08-30T00:00:00",
       "artist": "Cold Tear Records",
       "albumName": "spclnch podcast #17",
       "tracklist": "null",
@@ -2523,7 +2523,7 @@
     },
     {
       "catalogue": "16",
-      "date": "08-26-2019",
+      "date": "2019-08-26T00:00:00",
       "artist": "RZVN",
       "albumName": "spclnch podcast #16",
       "tracklist": "null",
@@ -2550,7 +2550,7 @@
     },
     {
       "catalogue": "15",
-      "date": "08-18-2019",
+      "date": "2019-08-18T00:00:00",
       "artist": "tyts-tyts",
       "albumName": "spclnch podcast #15",
       "tracklist": "null",
@@ -2577,7 +2577,7 @@
     },
     {
       "catalogue": "14",
-      "date": "08-07-2019",
+      "date": "2019-08-07T00:00:00",
       "artist": "DIEGOLUIZ",
       "albumName": "spclnch podcast #14",
       "tracklist": "null",
@@ -2604,7 +2604,7 @@
     },
     {
       "catalogue": "13",
-      "date": "08-02-2019",
+      "date": "2019-08-02T00:00:00",
       "artist": "Marcibagoly",
       "albumName": "spclnch podcast #13",
       "tracklist": "null",
@@ -2631,7 +2631,7 @@
     },
     {
       "catalogue": "12",
-      "date": "07-27-2019",
+      "date": "2019-07-27T00:00:00",
       "artist": "airkey",
       "albumName": "spclnch podcast #12",
       "tracklist": "null",
@@ -2658,7 +2658,7 @@
     },
     {
       "catalogue": "11",
-      "date": "07-17-2019",
+      "date": "2019-07-17T00:00:00",
       "artist": "M-Eject",
       "albumName": "spclnch podcast #11",
       "tracklist": "null",
@@ -2685,7 +2685,7 @@
     },
     {
       "catalogue": "10",
-      "date": "07-13-2019",
+      "date": "2019-07-13T00:00:00",
       "artist": "Kirill Torno",
       "albumName": "spclnch podcast #10",
       "tracklist": "null",
@@ -2712,7 +2712,7 @@
     },
     {
       "catalogue": "9",
-      "date": "07-08-2019",
+      "date": "2019-07-08T00:00:00",
       "artist": "Drifting.Dubs",
       "albumName": "spclnch podcast #09",
       "tracklist": "null",
@@ -2739,7 +2739,7 @@
     },
     {
       "catalogue": "8",
-      "date": "06-27-2019",
+      "date": "2019-06-27T00:00:00",
       "artist": "Robert Ostan",
       "albumName": "spclnch podcast #08",
       "tracklist": "null",
@@ -2766,7 +2766,7 @@
     },
     {
       "catalogue": "7",
-      "date": "06-21-2019",
+      "date": "2019-06-21T00:00:00",
       "artist": "JorDee",
       "albumName": "spclnch podcast #07",
       "tracklist": "null",
@@ -2793,7 +2793,7 @@
     },
     {
       "catalogue": "6",
-      "date": "06-11-2019",
+      "date": "2019-06-11T00:00:00",
       "artist": "Flying Cobra",
       "albumName": "spclnch podcast #06",
       "tracklist": "null",
@@ -2820,7 +2820,7 @@
     },
     {
       "catalogue": "5",
-      "date": "06-03-2019",
+      "date": "2019-06-03T00:00:00",
       "artist": "Thomas Carmody",
       "albumName": "spclnch podcast #05",
       "tracklist": "null",
@@ -2847,7 +2847,7 @@
     },
     {
       "catalogue": "4",
-      "date": "05-29-2019",
+      "date": "2019-05-29T00:00:00",
       "artist": "Sebes",
       "albumName": "spclnch podcast #04",
       "tracklist": "null",
@@ -2874,7 +2874,7 @@
     },
     {
       "catalogue": "3",
-      "date": "05-21-2019",
+      "date": "2019-05-21T00:00:00",
       "artist": "Skytechnic",
       "albumName": "spclnch podcast #03",
       "tracklist": "null",
@@ -2901,7 +2901,7 @@
     },
     {
       "catalogue": "2",
-      "date": "05-17-2019",
+      "date": "2019-05-17T00:00:00",
       "artist": "Nicolas Barnes",
       "albumName": "spclnch podcast #02",
       "tracklist": "null",
@@ -2928,7 +2928,7 @@
     },
     {
       "catalogue": "1",
-      "date": "05-10-2019",
+      "date": "2019-05-10T00:00:00",
       "artist": "Kooscha",
       "albumName": "spclnch podcast #01",
       "tracklist": "null",
@@ -2957,7 +2957,7 @@
   "chooseYourColor": [
     {
       "catalogue": "Dub Portrait – Blue Pigment",
-      "date": "04-01-2021",
+      "date": "2021-04-01T00:00:00",
       "artist": "Dub Portrait",
       "albumName": "Blue Pigment",
       "tracklist": "null",
@@ -2985,7 +2985,7 @@
     },
     {
       "catalogue": "Upwellings – Polished Pine",
-      "date": "03-26-2021",
+      "date": "2021-03-26T00:00:00",
       "artist": "Upwellings",
       "albumName": "Polished Pine",
       "tracklist": "null",
@@ -3013,7 +3013,7 @@
     },
     {
       "catalogue": "Francisco Aguado – Amethyst",
-      "date": "03-12-2021",
+      "date": "2021-03-12T00:00:00",
       "artist": "Francisco Aguado",
       "albumName": "Amethyst",
       "tracklist": "null",
@@ -3041,7 +3041,7 @@
     },
     {
       "catalogue": "Ikosaeder - Xanadu",
-      "date": "02-14-2021",
+      "date": "2021-02-14T00:00:00",
       "artist": "Ikosaeder",
       "albumName": "Xanadu",
       "tracklist": "null",
@@ -3069,7 +3069,7 @@
     },
     {
       "catalogue": "Kpsh - Pansy Purple",
-      "date": "12-20-2020",
+      "date": "2020-12-20T00:00:00",
       "artist": "Kpsh",
       "albumName": "Pansy Purple",
       "tracklist": "null",
@@ -3097,7 +3097,7 @@
     },
     {
       "catalogue": "Skytechnic - Cool Grey",
-      "date": "11-26-2020",
+      "date": "2020-11-26T00:00:00",
       "artist": "Skytechnic",
       "albumName": "Cool Grey",
       "tracklist": "null",
@@ -3125,7 +3125,7 @@
     },
     {
       "catalogue": "Dott. Santafeo - Satin Sheen Gold",
-      "date": "10-06-2020",
+      "date": "2020-10-06T00:00:00",
       "artist": "Dott. Santafeo",
       "albumName": "Satin Sheen Gold",
       "tracklist": "null",
@@ -3153,7 +3153,7 @@
     },
     {
       "catalogue": "Altone - Super Pink",
-      "date": "09-29-2020",
+      "date": "2020-09-29T00:00:00",
       "artist": "Altone",
       "albumName": "Super Pink",
       "tracklist": "null",
@@ -3181,7 +3181,7 @@
     },
     {
       "catalogue": "Le Code - Independence",
-      "date": "09-21-2020",
+      "date": "2020-09-21T00:00:00",
       "artist": "Le Code",
       "albumName": "Independence",
       "tracklist": "null",
@@ -3209,7 +3209,7 @@
     },
     {
       "catalogue": "Marcibagoly - Blue Jeans",
-      "date": "09-12-2020",
+      "date": "2020-09-12T00:00:00",
       "artist": "Marcibagoly",
       "albumName": "Blue Jeans",
       "tracklist": "null",
@@ -3237,7 +3237,7 @@
     },
     {
       "catalogue": "Lejazz - Orange Soda",
-      "date": "09-05-2020",
+      "date": "2020-09-05T00:00:00",
       "artist": "Lejazz",
       "albumName": "Orange Soda",
       "tracklist": "null",
@@ -3265,7 +3265,7 @@
     },
     {
       "catalogue": "BT Gate X-138 - Space Cadet",
-      "date": "08-29-2020",
+      "date": "2020-08-29T00:00:00",
       "artist": "BT Gate X-138",
       "albumName": "Space Cadet",
       "tracklist": "null",
@@ -3293,7 +3293,7 @@
     },
     {
       "catalogue": "R.Hz - Paolo Veronese Green",
-      "date": "08-11-2020",
+      "date": "2020-08-11T00:00:00",
       "artist": "R.Hz",
       "albumName": "Paolo Veronese Green",
       "tracklist": "null",
@@ -3321,7 +3321,7 @@
     },
     {
       "catalogue": "Are Morica - Irresistible",
-      "date": "07-31-2020",
+      "date": "2020-07-31T00:00:00",
       "artist": "Are Morica",
       "albumName": "Irresistible",
       "tracklist": "null",
@@ -3349,7 +3349,7 @@
     },
     {
       "catalogue": "Alexander Bogdanov - Dark Cornflower Blue",
-      "date": "07-25-2020",
+      "date": "2020-07-25T00:00:00",
       "artist": "Alexander Bogdanov",
       "albumName": "Dark Cornflower Blue",
       "tracklist": "null",
@@ -3377,7 +3377,7 @@
     },
     {
       "catalogue": "Kooscha - Moss Green",
-      "date": "07-15-2020",
+      "date": "2020-07-15T00:00:00",
       "artist": "Kooscha",
       "albumName": "Moss Green",
       "tracklist": "null",
@@ -3405,7 +3405,7 @@
     },
     {
       "catalogue": "Upwellings - Eminence",
-      "date": "06-14-2020",
+      "date": "2020-06-14T00:00:00",
       "artist": "Upwellings",
       "albumName": "Eminence",
       "tracklist": "null",
@@ -3433,7 +3433,7 @@
     },
     {
       "catalogue": "Liuos - Up Maroon",
-      "date": "06-08-2020",
+      "date": "2020-06-08T00:00:00",
       "artist": "Liuos",
       "albumName": "Up Maroon",
       "tracklist": "null",
@@ -3461,7 +3461,7 @@
     },
     {
       "catalogue": "Flying Cobra - Tyrian Purple",
-      "date": "05-20-2020",
+      "date": "2020-05-20T00:00:00",
       "artist": "Flying Cobra",
       "albumName": "Tyrian Purple",
       "tracklist": "null",
@@ -3489,7 +3489,7 @@
     },
     {
       "catalogue": "Heavenchord - Jasmine",
-      "date": "05-10-2020",
+      "date": "2020-05-10T00:00:00",
       "artist": "Heavenchord",
       "albumName": "Jasmine",
       "tracklist": "null",
@@ -3517,7 +3517,7 @@
     },
     {
       "catalogue": "Basicnoise - Electric Blue",
-      "date": "05-05-2020",
+      "date": "2020-05-05T00:00:00",
       "artist": "Basicnoise",
       "albumName": "Electric Blue / Consequences (Takuya Morita remix)",
       "tracklist": "null",
@@ -3545,7 +3545,7 @@
     },
     {
       "catalogue": "Schulz Audio - Mauve",
-      "date": "05-02-2020",
+      "date": "2020-05-02T00:00:00",
       "artist": "Schulz Audio",
       "albumName": "Mauve",
       "tracklist": "null",
@@ -3573,7 +3573,7 @@
     },
     {
       "catalogue": "Basicnoise - Turquoise",
-      "date": "04-28-2020",
+      "date": "2020-04-28T00:00:00",
       "artist": "Basicnoise",
       "albumName": "Turquoise / Consequences (Kooscha remix)",
       "tracklist": "null",
@@ -3601,7 +3601,7 @@
     },
     {
       "catalogue": "Lofidub - Silver",
-      "date": "04-20-2020",
+      "date": "2020-04-20T00:00:00",
       "artist": "Lofidub",
       "albumName": "Silver",
       "tracklist": "null",
@@ -3629,7 +3629,7 @@
     },
     {
       "catalogue": "Avguchenko - Flax",
-      "date": "04-13-2020",
+      "date": "2020-04-13T00:00:00",
       "artist": "Avguchenko",
       "albumName": "Flax",
       "tracklist": "null",
@@ -3657,7 +3657,7 @@
     },
     {
       "catalogue": "Drifting.Dubs - Laurel Green",
-      "date": "04-01-2020",
+      "date": "2020-04-01T00:00:00",
       "artist": "Drifting.Dubs",
       "albumName": "Laurel Green",
       "tracklist": "null",
@@ -3685,7 +3685,7 @@
     },
     {
       "catalogue": "Tender H - Mint Cream",
-      "date": "03-06-2020",
+      "date": "2020-03-06T00:00:00",
       "artist": "Tender H",
       "albumName": "Mint Cream",
       "tracklist": "null",
@@ -3713,7 +3713,7 @@
     },
     {
       "catalogue": "Heavenchord - Rich Brilliant Lavender",
-      "date": "02-08-2020",
+      "date": "2020-02-08T00:00:00",
       "artist": "Heavenchord",
       "albumName": "Rich Brilliant Lavender",
       "tracklist": "null",
@@ -3741,7 +3741,7 @@
     },
     {
       "catalogue": "Malik Faquir - Very Light Tangelo",
-      "date": "11-26-2019",
+      "date": "2019-11-26T00:00:00",
       "artist": "Malik Faquir",
       "albumName": "Very Light Tangelo",
       "tracklist": "null",
@@ -3769,7 +3769,7 @@
     },
     {
       "catalogue": "Heavenchord & Amanita Phalloides - Pale Aqua",
-      "date": "11-20-2019",
+      "date": "2019-11-20T00:00:00",
       "artist": "Heavenchord & Amanita Phalloides",
       "albumName": "Pale Aqua",
       "tracklist": "null",
@@ -3797,7 +3797,7 @@
     },
     {
       "catalogue": "Drifted - Smoky Black",
-      "date": "11-16-2019",
+      "date": "2019-11-16T00:00:00",
       "artist": "Drifted",
       "albumName": "Smoky Black",
       "tracklist": "null",
@@ -3825,7 +3825,7 @@
     },
     {
       "catalogue": "Echoton - Sunset Orange",
-      "date": "11-05-2019",
+      "date": "2019-11-05T00:00:00",
       "artist": "Echoton",
       "albumName": "Sunset Orange",
       "tracklist": "null",
@@ -3853,7 +3853,7 @@
     },
     {
       "catalogue": "Vosne - Eerie Black",
-      "date": "10-31-2019",
+      "date": "2019-10-31T00:00:00",
       "artist": "Vøsne",
       "albumName": "Eerie Black",
       "tracklist": "null",
@@ -3881,7 +3881,7 @@
     },
     {
       "catalogue": "Genning - Tufts Blue",
-      "date": "10-21-2019",
+      "date": "2019-10-21T00:00:00",
       "artist": "Genning",
       "albumName": "Tufts Blue",
       "tracklist": "null",
@@ -3909,7 +3909,7 @@
     },
     {
       "catalogue": "JBZ - Spanish Viridian",
-      "date": "10-15-2019",
+      "date": "2019-10-15T00:00:00",
       "artist": "JBZ",
       "albumName": "Spanish Viridian",
       "tracklist": "null",
@@ -3937,7 +3937,7 @@
     },
     {
       "catalogue": "Flying Cobra - Brink Pink",
-      "date": "09-20-2019",
+      "date": "2019-09-20T00:00:00",
       "artist": "Flying Cobra",
       "albumName": "Brink Pink",
       "tracklist": "null",
@@ -3965,7 +3965,7 @@
     },
     {
       "catalogue": "Groovedawg - Magic Mint",
-      "date": "09-11-2019",
+      "date": "2019-09-11T00:00:00",
       "artist": "Groovedawg",
       "albumName": "Magic Mint",
       "tracklist": "null",
@@ -3993,7 +3993,7 @@
     },
     {
       "catalogue": "Altone - Deep Green (Thomas Carmody reshape)",
-      "date": "09-02-2019",
+      "date": "2019-09-02T00:00:00",
       "artist": "Altone",
       "albumName": "Deep Green (Thomas Carmody reshape)",
       "tracklist": "null",
@@ -4021,7 +4021,7 @@
     },
     {
       "catalogue": "Altone - Onyx",
-      "date": "08-21-2019",
+      "date": "2019-08-21T00:00:00",
       "artist": "Altone",
       "albumName": "Onyx",
       "tracklist": "null",
@@ -4049,7 +4049,7 @@
     },
     {
       "catalogue": "Kooscha - Deep Koamaru",
-      "date": "08-12-2019",
+      "date": "2019-08-12T00:00:00",
       "artist": "Kooscha",
       "albumName": "Deep Koamaru",
       "tracklist": "null",
@@ -4077,7 +4077,7 @@
     },
     {
       "catalogue": "Basicnoise - Coral",
-      "date": "08-05-2019",
+      "date": "2019-08-05T00:00:00",
       "artist": "Basicnoise",
       "albumName": "Coral",
       "tracklist": "null",
@@ -4105,7 +4105,7 @@
     },
     {
       "catalogue": "Zub - Thistle",
-      "date": "07-30-2019",
+      "date": "2019-07-30T00:00:00",
       "artist": "Zub",
       "albumName": "Thistle",
       "tracklist": "null",
@@ -4133,7 +4133,7 @@
     },
     {
       "catalogue": "R.Hz - Japanese Indigo",
-      "date": "07-23-2019",
+      "date": "2019-07-23T00:00:00",
       "artist": "R.Hz",
       "albumName": "Japanese Indigo",
       "tracklist": "null",
@@ -4161,7 +4161,7 @@
     },
     {
       "catalogue": "Skytechnic - Desire",
-      "date": "07-15-2019",
+      "date": "2019-07-15T00:00:00",
       "artist": "Skytechnic",
       "albumName": "Desire",
       "tracklist": "null",
@@ -4189,7 +4189,7 @@
     },
     {
       "catalogue": "Marcibagoly - Dim Gray",
-      "date": "07-11-2019",
+      "date": "2019-07-11T00:00:00",
       "artist": "Marcibagoly",
       "albumName": "Dim Gray",
       "tracklist": "null",
@@ -4217,7 +4217,7 @@
     },
     {
       "catalogue": "Liuos - Up Forest Green",
-      "date": "07-01-2019",
+      "date": "2019-07-01T00:00:00",
       "artist": "Liuos",
       "albumName": "Up Forest Green",
       "tracklist": "null",
@@ -4245,7 +4245,7 @@
     },
     {
       "catalogue": "Amanita Phalloides & Heavenchord - Magenta Haze",
-      "date": "06-24-2019",
+      "date": "2019-06-24T00:00:00",
       "artist": "Amanita Phalloides & Heavenchord",
       "albumName": "Magenta Haze",
       "tracklist": "null",
@@ -4273,7 +4273,7 @@
     },
     {
       "catalogue": "ALA - Dark Sky Blue",
-      "date": "06-18-2019",
+      "date": "2019-06-18T00:00:00",
       "artist": "ALA",
       "albumName": "Dark Sky Blue",
       "tracklist": "null",
@@ -4301,7 +4301,7 @@
     },
     {
       "catalogue": "Drifting.Dubs - Licorice",
-      "date": "06-09-2019",
+      "date": "2019-06-09T00:00:00",
       "artist": "Drifting.Dubs",
       "albumName": "Licorice",
       "tracklist": "null",
@@ -4329,7 +4329,7 @@
     },
     {
       "catalogue": "Naarky - Light Orchid",
-      "date": "05-31-2019",
+      "date": "2019-05-31T00:00:00",
       "artist": "Naarky",
       "albumName": "Light Orchid",
       "tracklist": "null",
@@ -4357,7 +4357,7 @@
     },
     {
       "catalogue": "dubtommy - Turtle Green",
-      "date": "05-27-2019",
+      "date": "2019-05-27T00:00:00",
       "artist": "dubtommy",
       "albumName": "Turtle Green",
       "tracklist": "null",
@@ -4385,7 +4385,7 @@
     },
     {
       "catalogue": "Kooscha - Rose Taupe",
-      "date": "05-20-2019",
+      "date": "2019-05-20T00:00:00",
       "artist": "Kooscha",
       "albumName": "Rose Taupe",
       "tracklist": "null",
@@ -4413,7 +4413,7 @@
     },
     {
       "catalogue": "Francisco Fuentes - Pale Carmine",
-      "date": "05-13-2019",
+      "date": "2019-05-13T00:00:00",
       "artist": "Francisco Fuentes",
       "albumName": "Pale Carmine",
       "tracklist": "null",
@@ -4441,7 +4441,7 @@
     },
     {
       "catalogue": "Kpsh - Rich Black",
-      "date": "05-08-2019",
+      "date": "2019-05-08T00:00:00",
       "artist": "Kpsh",
       "albumName": "Rich Black",
       "tracklist": "null",
