@@ -1577,6 +1577,33 @@
   ],
   "podcasts": [
     {
+      "catalogue": "52",
+      "date": "2021-04-13T00:00:00",
+      "artist": "Genning",
+      "albumName": "spclnch podcast #52",
+      "tracklist": "null",
+      "description": "Welcome to the next episode of our podcast, the guest of which was the progressive musician and DJ from Yekaterinburg Genning. The exclusive vinyl mix includes compositions by Floppy Sounds, Eddie Richards, Audio Soul Project, 16B and Rafael Gomez.",
+      "bandcamp": "null",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-52-genning",
+      "flat.audio": "https://flat.audio/spclnch/spclnch-podcast-no-52-genning",
+      "youtube": "null",
+      "mixcloud": "https://www.mixcloud.com/spclnch/spclnch-podcast-52-genning/",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1028581570&color=%23000000&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "52.jpg",
+      "remix": [],
+      "type": "podcasts",
+      "id": "spclnch-podcast-52"
+    },
+    {
       "catalogue": "51",
       "date": "2021-02-23T00:00:00",
       "artist": "Federsen",
