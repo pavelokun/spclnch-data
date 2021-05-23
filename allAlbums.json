@@ -2956,6 +2956,34 @@
   ],
   "chooseYourColor": [
     {
+      "catalogue": "Dott.Santafeo – Caput Mortuum",
+      "date": "2021-05-06T00:00:00",
+      "artist": "Dott.Santafeo",
+      "albumName": "Caput Mortuum",
+      "tracklist": "null",
+      "description": "Artist: Dott.Santafeo\nColor: Caput Mortuum\nGenre: Dub Techno / Deep House",
+      "bandcamp": "https://spclnch.bandcamp.com/track/caput-mortuum",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/dott-santafeo-caput-mortuum",
+      "flat.audio": "null",
+      "youtube": "null",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=2287856222/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/caput-mortuum"
+        }
+      ],
+      "imageId": "Dott-Santafeo-Caput-Mortuum.jpeg",
+      "remix": [],
+      "type": "choose-your-color",
+      "id": "caput-mortuum"
+    },
+    {
       "catalogue": "R.Hz – Razzmatazz",
       "date": "2021-04-27T00:00:00",
       "artist": "R.Hz",
@@ -2981,7 +3009,7 @@
       "imageId": "R-Hz-Razzmatazz.jpg",
       "remix": [],
       "type": "choose-your-color",
-      "id": "Razzmatazz"
+      "id": "razzmatazz"
     },
     {
       "catalogue": "Rothchord – Sizzling Red",
