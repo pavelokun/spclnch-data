@@ -2956,6 +2956,34 @@
   ],
   "chooseYourColor": [
     {
+      "catalogue": "R.Hz – Razzmatazz",
+      "date": "2021-04-27T00:00:00",
+      "artist": "R.Hz",
+      "albumName": "Razzmatazz",
+      "tracklist": "null",
+      "description": "Artist: R.Hz\nColor: Razzmatazz\nGenre: Dub Techno",
+      "bandcamp": "https://spclnch.bandcamp.com/track/razzmatazz",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/rhz-razzmatazz",
+      "flat.audio": "null",
+      "youtube": "null",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=3428797571/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/razzmatazz"
+        }
+      ],
+      "imageId": "R-Hz-Razzmatazz.jpeg",
+      "remix": [],
+      "type": "choose-your-color",
+      "id": "Razzmatazz"
+    },
+    {
       "catalogue": "Rothchord – Sizzling Red",
       "date": "2021-04-19T00:00:00",
       "artist": "Rothchord",
