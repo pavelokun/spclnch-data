@@ -3113,6 +3113,33 @@
   ],
   "chooseYourColor": [
     {
+      "catalogue": "Liuos – Umber",
+      "date": "2021-06-05T00:00:00",
+      "artist": "Liuos",
+      "albumName": "Umber",
+      "description": "Artist: Liuos\nColor: Umber\nGenre: Dub Techno",
+      "bandcamp": "https://spclnch.bandcamp.com/track/umber",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/liuos-umber",
+      "flat.audio": "null",
+      "youtube": "null",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=3252987425/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/umber"
+        }
+      ],
+      "imageId": "Liuos-Umber.jpeg",
+      "remix": [],
+      "type": "choose-your-color",
+      "id": "umber"
+    },
+    {
       "catalogue": "Kooscha – Xiketic",
       "date": "2021-05-20T00:00:00",
       "artist": "Kooscha",
