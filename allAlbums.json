@@ -3112,6 +3112,33 @@
     }
   ],
   "chooseYourColor": [
+     {
+      "catalogue": "Bruit Blanc – Fern Green",
+      "date": "2021-06-19T00:00:00",
+      "artist": "Bruit Blanc",
+      "albumName": "Fern Green",
+      "description": "Artist: Bruit Blanc\nColor: Fern Green\nGenre: Dub Techno / Deep House",
+      "bandcamp": "https://spclnch.bandcamp.com/track/fern-green",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/bruit-blanc-fern-green",
+      "flat.audio": "null",
+      "youtube": "null",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=2684130549/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/fern-green"
+        }
+      ],
+      "imageId": "Bruit-Blanc-Fern-Green.jpeg",
+      "remix": [],
+      "type": "choose-your-color",
+      "id": "fern-green"
+    },
     {
       "catalogue": "Liuos – Umber",
       "date": "2021-06-05T00:00:00",
