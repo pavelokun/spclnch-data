@@ -3164,6 +3164,33 @@
     }
   ],
   "chooseYourColor": [
+    {
+      "catalogue": "am.tape – Metallic Seaweed",
+      "date": "2021-07-11T00:00:00",
+      "artist": "am.tape",
+      "albumName": "Metallic Seaweed",
+      "description": "Artist: am.tape\nColor: Metallic Seaweed\nGenre: Ambient / Dub Techno",
+      "bandcamp": "https://spclnch.bandcamp.com/track/metallic-seaweed",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/amtape-metallic-seaweed",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=Yypl_4_t1kE",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=2252168236/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/metallic-seaweed"
+        }
+      ],
+      "imageId": "amtape-Metallic-Seaweed.jpeg",
+      "remix": [],
+      "type": "choose-your-color",
+      "id": "metallic-seaweed"
+    },
      {
       "catalogue": "Bruit Blanc – Fern Green",
       "date": "2021-06-19T00:00:00",
