@@ -1707,6 +1707,32 @@
   ],
   "podcasts": [
     {
+      "catalogue": "56",
+      "date": "2021-07-16T00:00:00",
+      "artist": "airkey",
+      "albumName": "spclnch podcast #56",
+      "description": "As always carefully, artfully and smoothly, airkey sends us on this incredible journey, consisting of compositions by such authors as Mikael Delta, Octal Industries & Ohm, Deepkomplekt, Alan Backdrop, Ted Amber and many others.",
+      "bandcamp": "null",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-56-airkey",
+      "flat.audio": "https://flat.audio/spclnch/spclnch-podcast-no-56-airkey",
+      "youtube": "https://www.youtube.com/watch?v=hTvvAf8Xasc",
+      "mixcloud": "https://www.mixcloud.com/spclnch/spclnch-podcast-56-airkey/",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1088731423&color=%23000000&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "56.jpeg",
+      "remix": [],
+      "type": "podcasts",
+      "id": "spclnch-podcast-56"
+    },
+    {
       "catalogue": "55",
       "date": "2021-07-05T00:00:00",
       "artist": "M-Eject",
