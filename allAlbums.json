@@ -1,6 +1,37 @@
 {
   "albums": [
     {
+      "catalogue": "SL34",
+      "date": "2021-08-05T00:00:00",
+      "artist": "Kooscha",
+      "albumName": "Time Dilation",
+      "description": "The bustling activity of the Earth colonizers had long since died out, so no one could be found on the deserted streets of «Spaceport 15» except astromechanical droids – local law enforcement officers. Spacelunch was looking for something special here, rather than an answer to another puzzle.\n\nBy mixing the serum reagents to study the space-time continuum, the professor hoped to gain access to the primordial hearth and reassign internal directives. After taking the right dosage, he habitually looked at his partner and, barely uttering a word, felt a soft isoteric glow.\n\n– The chosen path is not accidental, my friend.\n– Cat? Did you just say that?!\n– The universe will take care of everything, just listen to yourself...",
+      "bandcamp": "https://spclnch.bandcamp.com/album/time-dilation",
+      "spotify": "https://open.spotify.com/album/5Z4Qfxgi6LDbxZeRDfjxMp?si=1gDDTiWTTreerieuP0TnYA",
+      "appleMusic": "https://music.apple.com/tr/album/dub-ratio/1569162571",
+      "beatport": "https://www.beatport.com/release/dub-ratio/3403723",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/teaser-kooscha-time-dilation-sl34",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=Km2Fnk7j2q0&list=PL-avZEKaOJ95ffTC5xnDYUh13GCNJ1HWu",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=379887263/size=small/bgcol=ffffff/linkcol=0687f5/track=3540827218/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/time-dilation"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=379887263/size=small/bgcol=ffffff/linkcol=0687f5/track=2533274582/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/time-dilation"
+        }
+      ],
+      "imageId": "SL34.jpeg",
+      "remix": ["Basicnoise"],
+      "type": "albums",
+      "id": "time-dilation"
+    },
+    {
       "catalogue": "SL33",
       "date": "2021-05-27T00:00:00",
       "artist": "R.Hz",
