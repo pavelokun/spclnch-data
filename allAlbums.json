@@ -1738,6 +1738,32 @@
   ],
   "podcasts": [
     {
+      "catalogue": "57",
+      "date": "2021-07-28T00:00:00",
+      "artist": "Tom Larson",
+      "albumName": "spclnch podcast #57",
+      "description": "The guest of the 57th episode of our podcast is Tom Larson, DJ and music collector from the German city of Sonneberg. An excellent dub techno compilation, including tracks from Christoph Schindling, Ohrwert, Altone, Frank Hellmond, EL Choop and many others.",
+      "bandcamp": "null",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-57-tom-larson",
+      "flat.audio": "https://flat.audio/spclnch/spclnch-podcast-no-57-tom-larson",
+      "youtube": "https://www.youtube.com/watch?v=lhTfwyk7IDA",
+      "mixcloud": "https://www.mixcloud.com/spclnch/spclnch-podcast-57-tom-larson/",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1095523396&color=%23000000&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "57.jpeg",
+      "remix": [],
+      "type": "podcasts",
+      "id": "spclnch-podcast-57"
+    },
+    {
       "catalogue": "56",
       "date": "2021-07-16T00:00:00",
       "artist": "airkey",
