@@ -1750,6 +1750,32 @@
   ],
   "podcasts": [
     {
+      "catalogue": "58",
+      "date": "2021-08-10T00:00:00",
+      "artist": "Bruit Blanc",
+      "albumName": "spclnch podcast #58",
+      "description": "The angry compilation originates in the heart of the alien mind, intending to give birth to a race of a higher order. To create a private code, Bruit Blanc uses acoustic greetings from extraterrestrial civilizations. The encrypted methods of Zaur Pseush, Lyosha Bolgarin, Vadim Indigo and Alexey Filin set a mercurial movement and a somewhat provocative character of the dub-almanac.",
+      "bandcamp": "null",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-58-bruit-blanc",
+      "flat.audio": "https://flat.audio/spclnch/spclnch-podcast-no-58-bruit-blanc",
+      "youtube": "https://www.youtube.com/watch?v=vQ3PO9yW_jY",
+      "mixcloud": "https://www.mixcloud.com/spclnch/spclnch-podcast-58-bruit-blanc/",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1103347057&color=%23000000&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "58.jpeg",
+      "remix": [],
+      "type": "podcasts",
+      "id": "spclnch-podcast-58"
+    },
+    {
       "catalogue": "57",
       "date": "2021-07-28T00:00:00",
       "artist": "Tom Larson",
