@@ -1777,6 +1777,32 @@
   ],
   "podcasts": [
     {
+      "catalogue": "59",
+      "date": "2021-08-20T00:00:00",
+      "artist": "Giacomo Pellegrino",
+      "albumName": "spclnch podcast #59",
+      "description": "Giacomo Pellegrino's magical psilocybin forest whispers stories that are too tempting to pass by. An oasis in the middle of a cold space wilderness meets with a pleasant disorientation and weightlessness.\n\nAn hour surrounded by percussive cicadas and firefly pads is enough for maximum exacerbation of the auditory receptors. Here, on the fluorescent edge, the Auckland brothers Chaos In The CBD, abbots Luke Hess and Federsen, prepare their potions. The exploration of parallel worlds is in full swing!",
+      "bandcamp": "null",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-59-giacomo-pellegrino",
+      "flat.audio": "https://flat.audio/spclnch/spclnch-podcast-no-59-giacomo-pellegrino",
+      "youtube": "https://www.youtube.com/watch?v=eBUH9298uBo",
+      "mixcloud": "https://www.mixcloud.com/spclnch/spclnch-podcast-59-giacomo-pellegrino/",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1109563078&color=%23000000&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "59.jpeg",
+      "remix": [],
+      "type": "podcasts",
+      "id": "spclnch-podcast-59"
+    },
+    {
       "catalogue": "58",
       "date": "2021-08-10T00:00:00",
       "artist": "Bruit Blanc",
