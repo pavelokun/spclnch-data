@@ -3339,6 +3339,33 @@
   ],
   "chooseYourColor": [
     {
+      "catalogue": "Davor Tosovic – Ruby Red",
+      "date": "2021-08-27T00:00:00",
+      "artist": "Davor Tosovic",
+      "albumName": "Ruby Red",
+      "description": "null",
+      "bandcamp": "https://spclnch.bandcamp.com/track/ruby-red",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/davor-tosovic-ruby-red",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=77UXWkcGprE",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=182637363/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/ruby-red"
+        }
+      ],
+      "imageId": "Davor-Tosovic-Ruby-Red.jpeg",
+      "remix": [],
+      "type": "choose-your-color",
+      "id": "ruby-red"
+    },
+    {
       "catalogue": "am.tape – Metallic Seaweed",
       "date": "2021-07-11T00:00:00",
       "artist": "am.tape",
