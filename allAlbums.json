@@ -7,18 +7,30 @@
       "albumName": "Alpha Centauri",
       "description": "Having successfully requested a landing on one of the orbits of Alpha Centauri, the adventure hunters set a course for the Smoring Valley. This friendly people had been under the yoke of the invaders for many years, until the rebel movement was led by their Queen – the guardian of the elements.\n\nSkirting the dunes with the rusted remains of launch vehicles, the whirlwinds of a psychokinetic storm and radioactive swamps, the exhausting road ran to the foot of the lighthouse.\n\n– It's not safe to come around here right now, but I know what you're looking for. Follow the tides of the Green Moon.\n\n«Not this one...», – Spacelunch realized how high a price he would have to pay for the Seer amulet.",
       "bandcamp": "https://spclnch.bandcamp.com/album/alpha-centauri",
-      "spotify": "null",
-      "appleMusic": "null",
-      "beatport": "null",
+      "spotify": "https://open.spotify.com/album/48bgDQ99J4Eh7153UVFIOo?si=KSqCcTQJQ1amx4y2Ft3Kaw&dl_branch=1",
+      "appleMusic": "https://music.apple.com/au/album/alpha-centauri-ep/1582794871",
+      "beatport": "https://www.beatport.com/release/alpha-centauri/3489185",
       "deejayDe": "null",
       "junoRecords": "null",
-      "soundcloud": "https://soundcloud.com/spclnch/teaser-dott-santafeo-kaan-elitok-alpha-centauri-sl35",
+      "soundcloud": "https://soundcloud.com/spclnch/sets/dott-santafeo-kaan-elitok",
       "flat.audio": "null",
-      "youtube": "null",
+      "youtube": "https://www.youtube.com/watch?v=kHTYhNmLME8&list=PL-avZEKaOJ95_NMlWUAteqE2gfein5Y1w",
       "mixcloud": "null",
       "embed": [
         {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4280167715/size=small/bgcol=ffffff/linkcol=0687f5/track=3731650534/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/alpha-centauri"
+        },
+        {
           "src": "https://bandcamp.com/EmbeddedPlayer/album=4280167715/size=small/bgcol=ffffff/linkcol=0687f5/track=1465378313/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/alpha-centauri"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4280167715/size=small/bgcol=ffffff/linkcol=0687f5/track=2976403540/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/alpha-centauri"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4280167715/size=small/bgcol=ffffff/linkcol=0687f5/track=3909764318/transparent=true/",
           "href": "https://spclnch.bandcamp.com/album/alpha-centauri"
         }
       ],
