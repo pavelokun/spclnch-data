@@ -1789,6 +1789,32 @@
   ],
   "podcasts": [
     {
+      "catalogue": "60",
+      "date": "2021-09-10T00:00:00",
+      "artist": "Thomas Carmody",
+      "albumName": "spclnch podcast #60",
+      "description": "In an underwater odyssey through the depths of the microcosm, Thomas Carmody is bound to look around more than once. Many rare species and supernatural phenomena coexist without any conflict in the turbulent flow of music.\n\nDoes the immersion remain an accident, or are these decorations skillfully arranged by the Creator, peeping with delicate curiosity? Maybe our world is not a huge quantum ocean at all, but just a small aquarium?\n\nThe employees of the hydrophysical division: Dubonautik, Subset and Ikosaeder descend into the abyss on a swift bathyscaphe to scan the level of 60 leagues with dub-sounders.",
+      "bandcamp": "null",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-60-thomas-carmody",
+      "flat.audio": "https://flat.audio/spclnch/spclnch-podcast-no-60-thomas-carmody",
+      "youtube": "https://www.youtube.com/watch?v=LGE9eI8ziyw",
+      "mixcloud": "https://www.mixcloud.com/spclnch/spclnch-podcast-60-thomas-carmody/",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1122381349&color=%23000000&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "60.jpeg",
+      "remix": [],
+      "type": "podcasts",
+      "id": "spclnch-podcast-60"
+    },
+    {
       "catalogue": "59",
       "date": "2021-08-20T00:00:00",
       "artist": "Giacomo Pellegrino",
