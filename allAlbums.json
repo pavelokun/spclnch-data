@@ -3377,6 +3377,33 @@
   ],
   "chooseYourColor": [
     {
+      "catalogue": "Nicolas Barnes – Blue Violet Color Wheel",
+      "date": "2021-09-20T00:00:00",
+      "artist": "Nicolas Barnes",
+      "albumName": "Blue Violet Color Wheel",
+      "description": " ",
+      "bandcamp": "https://spclnch.bandcamp.com/track/blue-violet-color-wheel",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/nicolas-barnes-blue-violet-color-wheel",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=Pfxu2iBSG4U&t=8s",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=1736726838/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/blue-violet-color-wheel"
+        }
+      ],
+      "imageId": "Nicolas-Barnes-Blue-Violet-Color-Wheel.jpeg",
+      "remix": [],
+      "type": "choose-your-color",
+      "id": "blue-violet-color-wheel"
+    },
+    {
       "catalogue": "Davor Tosovic – Ruby Red",
       "date": "2021-08-27T00:00:00",
       "artist": "Davor Tosovic",
