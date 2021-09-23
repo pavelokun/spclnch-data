@@ -1,5 +1,48 @@
 {
   "albums": [
+    {
+      "catalogue": "SL36",
+      "date": "2021-09-23T00:00:00",
+      "artist": "am.tape",
+      "albumName": "Mutual Forms",
+      "description": "\"A shock dose of tranquilizers will allow you to maintain concentration for some time,\" Spacelunch said carefully, \"the most terrible thing in this situation will be the loss of sanity. The tides of the Green Moon cause the strongest hallucinations when influencing the hypotolamus.\"\n\nThe music led the inexorable hunters with an invisible hand, balancing in each the beginning and the end, the twilight of the shadow side of the moon and the energy of solar flares — Yin and Yang. The poisonous formaldehyde cloud began to dissipate. Cat cast a confused glance at the body, which was no longer the same, but still obeyed him...\n\n\"Damn it, we succeeded! Superpower has been studied!\" SpaceCat exclaimed enthusiastically. The mission revolved around a simple truth: to see one part of yourself, you need to see the other, which means that only harmony and balance open up new trajectories in the knowledge of space.",
+      "bandcamp": "https://spclnch.bandcamp.com/album/mutual-forms",
+      "spotify": "https://open.spotify.com/album/5ymIMOKgMMvFLTJYye3Mlb?si=iHzMorcAQfOq0kjLGAADdg&dl_branch=1",
+      "appleMusic": "https://music.apple.com/au/album/mutual-forms/1585973366",
+      "beatport": "https://www.beatport.com/release/mutual-forms/3509017",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/sets/am-tape-mutual-forms-sl36",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=jteVoQ3oMsQ&list=PL-avZEKaOJ97y2J0ToY49MxlwXQgY4EkU",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1916697287/size=small/bgcol=ffffff/linkcol=0687f5/track=1343857664/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/mutual-forms"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1916697287/size=small/bgcol=ffffff/linkcol=0687f5/track=3457080820/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/mutual-forms"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1916697287/size=small/bgcol=ffffff/linkcol=0687f5/track=3249248588/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/mutual-forms"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1916697287/size=small/bgcol=ffffff/linkcol=0687f5/track=1250092605/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/mutual-forms"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1916697287/size=small/bgcol=ffffff/linkcol=0687f5/track=2025553622/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/mutual-forms"
+        }
+      ],
+      "imageId": "SL36.jpeg",
+      "remix": ["Kooscha", "Subset"],
+      "type": "albums",
+      "id": "mutual-forms"
+    },
      {
       "catalogue": "SL35",
       "date": "2021-09-02T00:00:00",
