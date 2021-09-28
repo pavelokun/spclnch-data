@@ -1832,6 +1832,32 @@
   ],
   "podcasts": [
     {
+      "catalogue": "61",
+      "date": "2021-09-28T00:00:00",
+      "artist": "Alexey Filin (DP-6)",
+      "albumName": "spclnch podcast #61",
+      "description": "The inaccessible slopes have long been familiar with the spontaneous echo flooding a huge network of exoplanetary gorges. No wonder, as this is dub.\n\nPadawan Alexey Filin has long been a master of the DP-6 Order. Taming the natural call of music, he makes a steep ascent to the observation deck of the neurophysical system. From here, a new cycle of the generation of sound constellations is clearly visible. The senses recognize and absorb their essence thanks to the guides of the world of electronic processes — Upwellings, Traumer and Ludowick.",
+      "bandcamp": "null",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-61-alexey-filin-dp-6",
+      "flat.audio": "https://flat.audio/spclnch/spclnch-podcast-no-61-alexey-filin-dp-6",
+      "youtube": "https://www.youtube.com/watch?v=8pbpPa7p9kw",
+      "mixcloud": "https://www.mixcloud.com/spclnch/spclnch-podcast-61-alexey-filin-dp-6/",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1132432321&color=%23000000&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "61.jpeg",
+      "remix": [],
+      "type": "podcasts",
+      "id": "spclnch-podcast-61"
+    },
+    {
       "catalogue": "60",
       "date": "2021-09-10T00:00:00",
       "artist": "Thomas Carmody",
