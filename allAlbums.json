@@ -3446,6 +3446,33 @@
   ],
   "chooseYourColor": [
     {
+      "catalogue": "Dive Craft – Old Gold",
+      "date": "2021-10-11T00:00:00",
+      "artist": "Dive Craft",
+      "albumName": "Old Gold",
+      "description": " ",
+      "bandcamp": "https://spclnch.bandcamp.com/track/old-gold",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/dive-craft-old-gold",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=LGyGURoiUT0",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=3149062044/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/old-gold"
+        }
+      ],
+      "imageId": "Dive-Craft-Old-Gold.jpeg",
+      "remix": [],
+      "type": "choose-your-color",
+      "id": "dive-craft-old-gold"
+    },
+    {
       "catalogue": "Nicolas Barnes – Blue Violet Color Wheel",
       "date": "2021-09-20T00:00:00",
       "artist": "Nicolas Barnes",
