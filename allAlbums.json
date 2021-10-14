@@ -1,6 +1,49 @@
 {
   "albums": [
     {
+      "catalogue": "SL37",
+      "date": "2021-10-14T00:00:00",
+      "artist": "Mielafon",
+      "albumName": "Labyrinth",
+      "description": "The path to the sacred altar at the foot of the mountain of Monuments wound through the ruins of the Dead City that resembled an ancient Phoenician settlement. There was only one thing that was alarming here — strong landscape distortions. The web of streets and blocks weaved endless patterns, rounding the corners and drawing strange, sometimes impossible geometry. Dilapidated palace towers with mysterious frescoes and time-worn colonnades reminded of a once prosperous state. The smell of decay and the cold shade of the fortress walls reminded of the times of padishahs and sultans who greedily fought for the throne.\n\n- What are you thinking about all the time?! - Spacelunch exclaimed nervously, anticipating the answer in advance.\n- Well, do you remember the last time something like this happened and...\nThe professor cut him off in disgust:\n- Come on, it's all over with him!\n- To find a way out, we must activate mechanisms that change the route, - Cat immediately noticed.\n- But this is possible only with the help of the hectopod – the totem of optical illusions, you know?",
+      "bandcamp": "https://spclnch.bandcamp.com/album/labyrinth",
+      "spotify": "https://open.spotify.com/album/0wJBku9lcaXrL4v94AdigU?si=wUqRsp0YSQ63sd1lqw84Ew&dl_branch=1",
+      "appleMusic": "https://music.apple.com/us/album/labyrinth/1589056299",
+      "beatport": "https://www.beatport.com/release/labyrinth/3536848",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/sets/mielafon-labyrinth-sl37",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=IzgKbmEHOZQ&list=PL-avZEKaOJ96Ujloh8C_a-mSR2MOU3uK6",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=445011356/size=small/bgcol=ffffff/linkcol=0687f5/track=3864129529/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/labyrinth"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=445011356/size=small/bgcol=ffffff/linkcol=0687f5/track=97705509/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/labyrinth"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=445011356/size=small/bgcol=ffffff/linkcol=0687f5/track=1417918947/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/labyrinth"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=445011356/size=small/bgcol=ffffff/linkcol=0687f5/track=1605640710/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/labyrinth"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=445011356/size=small/bgcol=ffffff/linkcol=0687f5/track=1398789743/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/labyrinth"
+        }
+      ],
+      "imageId": "SL37.jpeg",
+      "remix": ["R.Hz", "Alexander Bogdanov"],
+      "type": "albums",
+      "id": "labyrinth"
+    },
+    {
       "catalogue": "SL36",
       "date": "2021-09-23T00:00:00",
       "artist": "am.tape",
