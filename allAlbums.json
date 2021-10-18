@@ -1875,6 +1875,32 @@
   ],
   "podcasts": [
     {
+      "catalogue": "62",
+      "date": "2021-10-18T00:00:00",
+      "artist": "Ekstendia",
+      "albumName": "spclnch podcast #62",
+      "description": "The gravitational slingshot delivered the manned probe \"Ekstendia\" to the interstellar electron cloud. Analysis systems record a veil of moderate, rhythmic vibrations near the entrance to the Wormhole.\n\nFlowing in a relaxed way between the points of perception and physical states, the auditory flow is built by Nicolas Barnes, Raytek and Schulz Audio. The saturated spectral composition activates the plasticity of dance and neural network effects.",
+      "bandcamp": "null",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-62-ekstendia",
+      "flat.audio": "https://flat.audio/spclnch/spclnch-podcast-no-62-ekstendia",
+      "youtube": "https://www.youtube.com/watch?v=joXFoThenl0",
+      "mixcloud": "https://www.mixcloud.com/spclnch/spclnch-podcast-62-ekstendia/",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1143784300&color=%23000000&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "62.jpeg",
+      "remix": [],
+      "type": "podcasts",
+      "id": "spclnch-podcast-62"
+    },
+    {
       "catalogue": "61",
       "date": "2021-09-28T00:00:00",
       "artist": "Alexey Filin (DP-6)",
