@@ -3515,6 +3515,33 @@
   ],
   "chooseYourColor": [
     {
+      "catalogue": "Dechoes – Dark Jungle Green",
+      "date": "2021-10-25T00:00:00",
+      "artist": "Dechoes",
+      "albumName": "Dark Jungle Green",
+      "description": " ",
+      "bandcamp": "https://spclnch.bandcamp.com/track/dark-jungle-green",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/dechoes-dark-jungle-green",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=TnGx4I_AB5E",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=3345759110/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/dark-jungle-green"
+        }
+      ],
+      "imageId": "Dechoes-Dark-Jungle-Green.jpeg",
+      "remix": [],
+      "type": "choose-your-color",
+      "id": "dechoes-dark-jungle-green"
+    },
+    {
       "catalogue": "Dive Craft – Old Gold",
       "date": "2021-10-11T00:00:00",
       "artist": "Dive Craft",
