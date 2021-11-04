@@ -1,6 +1,49 @@
 {
   "albums": [
     {
+      "catalogue": "SL38",
+      "date": "2021-11-04T00:00:00",
+      "artist": "Microlot",
+      "albumName": "Echoes Of The Past",
+      "description": "- What the hell is this...?!\n- I... I don't know... Do you see it too?\n- Believe it or not, I do see it! Well, get ready, you vile overgrown clam!!!\n- Cat, remove the splitter, the gun won't help anymore...\n\nThe echoes of the past in the blink of an eye turned the feeling of slight confusion into a complete stupor. Gripped by the horror of the memories, the space stalkers froze in front of a black mass with nasty, slimy hanging tentacles. The growing confusion was completely ingrained in their minds and was becoming more pronounced by the minute.\n\nSticky tar-like drops were falling loudly from the ceiling. It was as if someone had turned off the light and shuffled the measurement deck overnight. The despair reached its climax when hundreds of blade-sharp suckers hung down at arm's length. Death agony or last chance?\n\n- Hey... Do you hear me? We need an antidote! - Spacelunch moved abruptly.\n- It was an honor for me to fight side by side with such an amazing partner...\n- Damn it, I'll try to free my hands.\n\nSometimes desperate adventures tend to come to an end. Apparently, one of them is closer to the completion than ever...",
+      "bandcamp": "https://spclnch.bandcamp.com/album/echoes-of-the-past",
+      "spotify": "https://open.spotify.com/album/6hnp23Zs3c2ofiVLNR3cdd?si=bVupMqncRm-sXmjFRvh--g",
+      "appleMusic": "https://music.apple.com/us/album/echoes-of-the-past/1592290676",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/sets/microlot-echoes-of-the-past",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=dDRoVjLf2xY&list=PL-avZEKaOJ97ugNSAVA8uT2PuLlWg-KAO",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3444314360/size=small/bgcol=ffffff/linkcol=0687f5/track=3223229172/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/echoes-of-the-past"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3444314360/size=small/bgcol=ffffff/linkcol=0687f5/track=3635842135/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/echoes-of-the-past"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3444314360/size=small/bgcol=ffffff/linkcol=0687f5/track=1839096798/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/echoes-of-the-past"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3444314360/size=small/bgcol=ffffff/linkcol=0687f5/track=3574388447/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/echoes-of-the-past"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3444314360/size=small/bgcol=ffffff/linkcol=0687f5/track=1742924055/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/echoes-of-the-past"
+        }
+      ],
+      "imageId": "SL38.jpeg",
+      "remix": ["Ikosaeder", "Upwellings"],
+      "type": "albums",
+      "id": "echoes-of-the-past"
+    },
+    {
       "catalogue": "SL37",
       "date": "2021-10-14T00:00:00",
       "artist": "Mielafon",
