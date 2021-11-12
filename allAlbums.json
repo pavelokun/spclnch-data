@@ -1918,6 +1918,32 @@
   ],
   "podcasts": [
     {
+      "catalogue": "63",
+      "date": "2021-11-12T00:00:00",
+      "artist": "Topology",
+      "albumName": "spclnch podcast #63",
+      "description": "Having traveled millions of light-years, Topology's analog configurations flicker far beyond the Milky Way. In a secluded place in the middle of a cold relic spot, the uniform flow of drums falls in time with the natural algorithms of the body. Spontaneous introspections of Barac, Zefzeed and Dubfound open free access to the intergalactic pool party. Welcome!",
+      "bandcamp": "null",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-63-topology",
+      "flat.audio": "https://flat.audio/spclnch/spclnch-podcast-no-63-topology",
+      "youtube": "https://www.youtube.com/watch?v=gH4lij8kvJ8",
+      "mixcloud": "https://www.mixcloud.com/spclnch/spclnch-podcast-63-topology/",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1158800314&color=%23000000&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "63.jpeg",
+      "remix": [],
+      "type": "podcasts",
+      "id": "spclnch-podcast-63"
+    },
+    {
       "catalogue": "62",
       "date": "2021-10-18T00:00:00",
       "artist": "Ekstendia",
