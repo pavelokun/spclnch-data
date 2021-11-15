@@ -3584,6 +3584,33 @@
   ],
   "chooseYourColor": [
     {
+      "catalogue": "Ekstendia – Bright Navy Blue",
+      "date": "2021-11-15T00:00:00",
+      "artist": "Ekstendia",
+      "albumName": "Bright Navy Blue",
+      "description": " ",
+      "bandcamp": "https://spclnch.bandcamp.com/track/bright-navy-blue",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/ekstendia-bright-navy-blue",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=4wfYcV3PRgM",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=1967113679/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/bright-navy-blue"
+        }
+      ],
+      "imageId": "Ekstendia-Bright-Navy-Blue.jpeg",
+      "remix": [],
+      "type": "choose-your-color",
+      "id": "ekstendia-bright-navy-blue"
+    },
+    {
       "catalogue": "Dear Stream, – Candy Pink",
       "date": "2021-11-06T00:00:00",
       "artist": "Dear Stream,",
