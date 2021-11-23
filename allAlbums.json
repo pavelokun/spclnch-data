@@ -1918,6 +1918,32 @@
   ],
   "podcasts": [
     {
+      "catalogue": "64",
+      "date": "2021-11-23T00:00:00",
+      "artist": "Giriu Dvasios",
+      "albumName": "spclnch podcast #64",
+      "description": "Many spatial sectors are closed in a time loop which is conducting the search of ideal proportions from the beginning of times. Whether it is the works on ancient geometry or a treatise on the golden ratio, everything in the universe is infinitely striving for harmony.\n\nThe genius of the Etruscan engineering and the Aztec masonry is integrated into the multilevel optimization of Giriu Dvasios. The depicted object is divided into simple elements and reconstructed in a new guise. Greetings from Orlan 19 from the musical designers: Slownoise, Paolo Lucchi, Joergmueller.",
+      "bandcamp": "null",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-64-giriu-dvasios",
+      "flat.audio": "https://flat.audio/spclnch/spclnch-podcast-no-64-giriu-dvasios",
+      "youtube": "https://www.youtube.com/watch?v=2dqdUgGweNs",
+      "mixcloud": "https://www.mixcloud.com/spclnch/spclnch-podcast-64-giriu-dvasios/",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1165161595&color=%23000000&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "64.jpeg",
+      "remix": [],
+      "type": "podcasts",
+      "id": "spclnch-podcast-64"
+    },
+    {
       "catalogue": "63",
       "date": "2021-11-12T00:00:00",
       "artist": "Topology",
