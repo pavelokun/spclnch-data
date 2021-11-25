@@ -1,6 +1,49 @@
 {
   "albums": [
     {
+      "catalogue": "SL39",
+      "date": "2021-11-25T00:00:00",
+      "artist": "Ludowick",
+      "albumName": "Metropolis",
+      "description": "Somewhere in the vicinity of Spaceport 15.\n\n– You got so high last time, – Spacelunch said jokingly.\n– Don't tell me, I thought the Minimal Antagonist was alive.\n– Hush, fluffy, we should stay incognito at least until we meet with the informant. Don't jump to conclusions — I think that everything happened for a reason.\n\nThe streets of Chinatown attracted by the smells of exotic cuisine, what cannot be said about the sudden appearance of the detectives. Anyone who even occasionally felt the inquisitive eyes on them shied away from them. Sellers of all sorts of things were fussily whispering and continuously watching every step of the uninvited guests. The whole block seemed to know about the ongoing investigation. Looking around intently, the professor suddenly came across the strange but very familiar tracks.\n\n\"It can't be... the credentials and password turned out to be fake! Cat, follow me!\" – Spacelunch made a note in his diary and walked rapidly along the stalls. He knew that the truth was somewhere nearby.",
+      "bandcamp": "https://spclnch.bandcamp.com/album/metropolis",
+      "spotify": "https://open.spotify.com/album/4RXromc0rQc26ecboCEkoc?si=U381gEqQSE28bH9ATBTmFA",
+      "appleMusic": "https://music.apple.com/us/album/metropolis/1596267122",
+      "beatport": "https://www.beatport.com/release/metropolis/3575731",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/sets/ludowick-metropolis-sl39",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=1ZGLLUg3U1Q&list=PL-avZEKaOJ971zDPEM9pUpnLfimcTrG2u",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1553295300/size=small/bgcol=ffffff/linkcol=0687f5/track=2039257288/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/metropolis"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1553295300/size=small/bgcol=ffffff/linkcol=0687f5/track=1754487903/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/metropolis"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1553295300/size=small/bgcol=ffffff/linkcol=0687f5/track=1966406101/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/metropolis"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1553295300/size=small/bgcol=ffffff/linkcol=0687f5/track=1936947324/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/metropolis"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1553295300/size=small/bgcol=ffffff/linkcol=0687f5/track=2297210972/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/metropolis"
+        }
+      ],
+      "imageId": "SL39.jpeg",
+      "remix": ["DP-6"],
+      "type": "albums",
+      "id": "metropolis"
+    },
+    {
       "catalogue": "SL38",
       "date": "2021-11-04T00:00:00",
       "artist": "Microlot",
