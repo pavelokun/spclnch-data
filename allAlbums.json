@@ -3653,6 +3653,33 @@
   ],
   "chooseYourColor": [
     {
+      "catalogue": "R.Hz – Forest Green Traditional",
+      "date": "2021-12-04T00:00:00",
+      "artist": "R.Hz",
+      "albumName": "Forest Green Traditional",
+      "description": " ",
+      "bandcamp": "https://spclnch.bandcamp.com/track/forest-green-traditional",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/rhz-forest-green-traditional",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=yE_T4eBPfVs",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=1816280867/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/forest-green-traditional"
+        }
+      ],
+      "imageId": "R-Hz-Forest-Green-Traditional.jpeg",
+      "remix": [],
+      "type": "choose-your-color",
+      "id": "r-hz-forest-green-traditional"
+    },
+    {
       "catalogue": "Ekstendia – Bright Navy Blue",
       "date": "2021-11-15T00:00:00",
       "artist": "Ekstendia",
