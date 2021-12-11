@@ -3653,6 +3653,33 @@
   ],
   "chooseYourColor": [
     {
+      "catalogue": "Dmytro Bobryk – Tiffany Blue",
+      "date": "2021-12-11T00:00:00",
+      "artist": "Dmytro Bobryk",
+      "albumName": "Tiffany Blue",
+      "description": " ",
+      "bandcamp": "https://spclnch.bandcamp.com/track/tiffany-blue",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/dmytro-bobryk-tiffany-blue",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=DVqs1vdwg6k",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=3617662958/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/tiffany-blue"
+        }
+      ],
+      "imageId": "Dmytro-Bobryk-Tiffany-Blue.jpeg",
+      "remix": [],
+      "type": "choose-your-color",
+      "id": "dmytro-bobryk-tiffany-blue"
+    },
+    {
       "catalogue": "Vosne & User Agent – Big Dip Oruby",
       "date": "2021-12-07T00:00:00",
       "artist": "Vosne & User Agent",
