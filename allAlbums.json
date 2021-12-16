@@ -1,6 +1,45 @@
 {
   "albums": [
     {
+      "catalogue": "SL40",
+      "date": "2021-12-16T00:00:00",
+      "artist": "Martin Schulte & Giacomo Pellegrino",
+      "albumName": "Night City",
+      "description": "The mysterious tracks led to the place where all the exoplanetary bohemians gathered. The signs, shimmering with multicolored diodes, rattled in unison with the rhythm of the dancefloor. The vibration seeped out from behind the doors and was noticeably felt in the chest area. The entrance to the club was securely guarded.\n\n– Do you see this huge caterpillar? As soon as he turns away, I'll give the signal. Stay tuned.\n– Yeah, they only serve in special detachments. On Alien-TV, they said that their hearing was not very good — Cat was in slight confusion and tried to calm himself with reasoning.\n– We are waiting, a little more… Go ahead!\n\nThe surprise effect failed immediately after the astonished face of security appeared in the sights. Everyone froze, looking at each other in confusion.\n\n– Hey, where are you going?\n– Melvin...?! My friend, I can't believe my eyes!!! Who would have thought...\n– You know. After leaving the Aerospace Corporation, I'm wary of harassment. And you, I see, obviously have not come to dance.\n– Hats off, you're a master of conspiracy, but... We have almost fried you!\n\nMelvin remained silent for a long time. The moment has come to reveal a lot of unexpected details.",
+      "bandcamp": "https://spclnch.bandcamp.com/album/night-city",
+      "spotify": "https://open.spotify.com/album/4Fi3MRPMtlxWVIVNNqHPC4?si=bYuuaGX2TSOvx6ZMpPzQXQ",
+      "appleMusic": "https://music.apple.com/us/album/night-city-ep/1599722649",
+      "beatport": "https://www.beatport.com/release/night-city/3595135",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/sets/martin-schulte-giacomo",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=To3trTRb1Ag&list=PL-avZEKaOJ94_25LqFDz_RI_0ng1p4_rU",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=467650305/size=small/bgcol=ffffff/linkcol=0687f5/track=2624114322/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/night-city"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=467650305/size=small/bgcol=ffffff/linkcol=0687f5/track=4027589542/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/night-city"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=467650305/size=small/bgcol=ffffff/linkcol=0687f5/track=231699918/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/night-city"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=467650305/size=small/bgcol=ffffff/linkcol=0687f5/track=1222860069/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/night-city"
+        }
+      ],
+      "imageId": "SL40.jpeg",
+      "remix": ["Basicnoise", "Dive Craft"],
+      "type": "albums",
+      "id": "night-city"
+    },
+    {
       "catalogue": "SL39",
       "date": "2021-11-25T00:00:00",
       "artist": "Ludowick",
