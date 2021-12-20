@@ -3692,6 +3692,33 @@
   ],
   "chooseYourColor": [
     {
+      "catalogue": "Skytechnic – Blue Violet Crayola",
+      "date": "2021-12-20T00:00:00",
+      "artist": "Skytechnic",
+      "albumName": "Blue Violet Crayola",
+      "description": " ",
+      "bandcamp": "https://spclnch.bandcamp.com/track/blue-violet-crayola",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/skytechnic-blue-violet-crayola",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=P6nmcqB3QCM",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=2254091071/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/blue-violet-crayola"
+        }
+      ],
+      "imageId": "Skytechnic-Blue-Violet-Crayola.jpeg",
+      "remix": [],
+      "type": "choose-your-color",
+      "id": "skytechnic-blue-violet-crayola"
+    },
+    {
       "catalogue": "Dmytro Bobryk – Tiffany Blue",
       "date": "2021-12-11T00:00:00",
       "artist": "Dmytro Bobryk",
