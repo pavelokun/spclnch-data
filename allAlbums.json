@@ -1,6 +1,93 @@
 {
   "albums": [
     {
+      "catalogue": "SL2021",
+      "date": "2021-12-30T00:00:00",
+      "artist": "Various Artists",
+      "albumName": "The Best of spclnch 2021",
+      "description": "Making a loop around a cluster of yellow dwarfs, red giants and interstellar gas, the launched satellite returns to the Solar System once a year with a selection of the most important discoveries. On board is a traditional New Year's gift — a carefully assembled compilation of tracks from 2021.\n\nWe immensely appreciate the professionalism of the musicians and the dedication of everyone involved in the evolution of the project! Let the next earth cycle become the personification of love and care for everyone! The adventure continues!",
+      "bandcamp": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2021",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "null",
+      "flat.audio": "null",
+      "youtube": "null",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3970188333/size=small/bgcol=ffffff/linkcol=0687f5/track=1781867450/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2021"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3970188333/size=small/bgcol=ffffff/linkcol=0687f5/track=3921306772/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2021"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3970188333/size=small/bgcol=ffffff/linkcol=0687f5/track=2820334794/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2021"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3970188333/size=small/bgcol=ffffff/linkcol=0687f5/track=2720407301/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2021"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3970188333/size=small/bgcol=ffffff/linkcol=0687f5/track=3364120071/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2021"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3970188333/size=small/bgcol=ffffff/linkcol=0687f5/track=3931952754/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2021"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3970188333/size=small/bgcol=ffffff/linkcol=0687f5/track=3249174570/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2021"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3970188333/size=small/bgcol=ffffff/linkcol=0687f5/track=664533333/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2021"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3970188333/size=small/bgcol=ffffff/linkcol=0687f5/track=449928590/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2021"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3970188333/size=small/bgcol=ffffff/linkcol=0687f5/track=1191368819/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2021"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3970188333/size=small/bgcol=ffffff/linkcol=0687f5/track=2237084592/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2021"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3970188333/size=small/bgcol=ffffff/linkcol=0687f5/track=2078672032/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2021"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3970188333/size=small/bgcol=ffffff/linkcol=0687f5/track=2150709757/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2021"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3970188333/size=small/bgcol=ffffff/linkcol=0687f5/track=2616199672/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2021"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3970188333/size=small/bgcol=ffffff/linkcol=0687f5/track=1701600534/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2021"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3970188333/size=small/bgcol=ffffff/linkcol=0687f5/track=1903049339/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2021"
+        }
+      ],
+      "imageId": "SL2021.jpeg",
+      "remix": [],
+      "type": "albums",
+      "id": "the-best-of-spclnch-2021"
+    },
+    {
       "catalogue": "SL40",
       "date": "2021-12-16T00:00:00",
       "artist": "Martin Schulte & Giacomo Pellegrino",
