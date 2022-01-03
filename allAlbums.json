@@ -3805,6 +3805,33 @@
   ],
   "chooseYourColor": [
     {
+      "catalogue": "Giacomo Pellegrino – Cinnabar",
+      "date": "2022-01-03T00:00:00",
+      "artist": "Giacomo Pellegrino",
+      "albumName": "Cinnabar",
+      "description": " ",
+      "bandcamp": "https://spclnch.bandcamp.com/track/cinnabar",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/giacomo-pellegrino-cinnabar",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=7GwwwOKA0ME",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=1088578899/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/cinnabar"
+        }
+      ],
+      "imageId": "Giacomo-Pellegrino-Cinnabar.jpeg",
+      "remix": [],
+      "type": "choose-your-color",
+      "id": "giacomo-pellegrino-cinnabar"
+    },
+    {
       "catalogue": "Skytechnic – Blue Violet Crayola",
       "date": "2021-12-20T00:00:00",
       "artist": "Skytechnic",
