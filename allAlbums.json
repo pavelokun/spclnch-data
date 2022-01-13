@@ -1,6 +1,49 @@
 {
   "albums": [
     {
+      "catalogue": "SL41",
+      "date": "2022-01-13T00:00:00",
+      "artist": "Dive Craft",
+      "albumName": "Unstable Balance",
+      "description": "The painstaking preparation for the photon march took place in advance in chamber conditions. The seriousness of intentions was confirmed by loads of flasks, test tubes and neatly arranged reagents which require extreme concentration. The deductive-analytical board displayed a sequential chain of important events and complex chemical equations. The slightest oversight could lead to the disintegration of unstable elements.\n\nCat couldn't take his eyes out of the honed movements of the Spacelunch. In the minds of both flashed a whirlpool of thoughts, ranging from genetic engineering and varieties of crystal lattices, down to doubts and a desire to have a delicious dinner. A sleepless night in the mobile laboratory was supposed to bear fruit. However, to steal important data marked \"secret\", it will take much more time and effort than expected.",
+      "bandcamp": "https://spclnch.bandcamp.com/album/unstable-balance",
+      "spotify": "https://open.spotify.com/album/7k6slV1pQOIwhFbUcknFj2?si=2JGbsFoFS7apN4by3V2CqQ",
+      "appleMusic": "https://music.apple.com/us/album/unstable-balance/1603217685",
+      "beatport": "https://www.beatport.com/release/unstable-balance/3611110",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/sets/dive-craft-unstable-balance",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=PyB8eprtYvQ&list=PL-avZEKaOJ96247TtyufpcQ1akLV9-9VI",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=872375974/size=small/bgcol=ffffff/linkcol=0687f5/track=2238982615/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/unstable-balance"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=872375974/size=small/bgcol=ffffff/linkcol=0687f5/track=2432166544/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/unstable-balance"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=872375974/size=small/bgcol=ffffff/linkcol=0687f5/track=1734576668/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/unstable-balance"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=872375974/size=small/bgcol=ffffff/linkcol=0687f5/track=3317086200/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/unstable-balance"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=872375974/size=small/bgcol=ffffff/linkcol=0687f5/track=3671111828/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/unstable-balance"
+        }
+      ],
+      "imageId": "SL41.jpeg",
+      "remix": ["R.Hz"],
+      "type": "albums",
+      "id": "unstable-balance"
+    },
+    {
       "catalogue": "SL2021",
       "date": "2021-12-30T00:00:00",
       "artist": "Various Artists",
