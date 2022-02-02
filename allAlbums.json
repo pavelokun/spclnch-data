@@ -3874,6 +3874,33 @@
   ],
   "chooseYourColor": [
     {
+      "catalogue": "Star_Dub – Harvest Gold / Dusty Dub (Kooscha remix)",
+      "date": "2022-02-02T00:00:00",
+      "artist": "Star_Dub",
+      "albumName": "Harvest Gold / Dusty Dub (Kooscha remix)",
+      "description": "An elegant full-length silhouette began to shine at the gold mines of a multicolored magazine. On the centerfold is a thoughtful reproduction from the land of OZ. The misty Bundesdub is illustrated with streamlined shapes and a soft rhythmic structure.",
+      "bandcamp": "https://spclnch.bandcamp.com/track/harvest-gold-dusty-dub-kooscha-remix",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/star_dub-harvest-gold-dusty-dub-kooscha-remix",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=dC4oyUJ71Yw",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=2631702990/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/harvest-gold-dusty-dub-kooscha-remix"
+        }
+      ],
+      "imageId": "Star-Dub-Harvest-Gold.jpeg",
+      "remix": ["Kooscha"],
+      "type": "choose-your-color",
+      "id": "star-dub-harvest-gold"
+    },
+    {
       "catalogue": "Park – French Violet",
       "date": "2022-01-26T00:00:00",
       "artist": "Park",
