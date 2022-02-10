@@ -1,6 +1,49 @@
 {
   "albums": [
     {
+      "catalogue": "SL42",
+      "date": "2022-02-10T00:00:00",
+      "artist": "Ekstendia",
+      "albumName": "Hemisphere Ratio",
+      "description": "Bogged down in a pile of archival documents and adstracts from alchemical synopses, Spacelunch fell asleep unnoticed. Concentrated reading dragged him into the world of dreams which, as usual, was at his favorite desk. However, someone didn't want to stop there.\n\nNaively inspired by the legend of homunculi, Cat decided to personally assess the activity of neurotransmitters in the ionized gas environment. The old experiments of their parasientific cooperation on the influence of information fields on the cerebral hemispheres were considered incomplete. Isn't this a reason for new experiments on the mental platform? As soon as the trial sample was subjected to intense exposure of the plasmaballs, tightly clamped in restless paws, there was a resounding click.\n\nBy chance, the professor's dream turned out to be less sensitive than it might seem at first glance. Jumping up after a piercing \"meow\", he felt the sharp smell of electrified wool: \"Hey, buddy, are you okay?! Please be careful with the Tesla radiation!\"",
+      "bandcamp": "https://spclnch.bandcamp.com/album/hemisphere-ratio",
+      "spotify": "https://open.spotify.com/album/5Lkqvq2iADcYUzkKHHOtab?si=m8XakbT1Q_SYKo0IU1Ux1A",
+      "appleMusic": "https://music.apple.com/us/album/hemisphere-ratio/1607114932",
+      "beatport": "https://www.beatport.com/release/hemisphere-ratio/3638238",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/sets/ekstendia-hemisphere-ratio",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=sB0DchzRJ2M&list=PL-avZEKaOJ94qky_wYJT-zRnwgo0UZN3U",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4055722105/size=small/bgcol=ffffff/linkcol=0687f5/track=1250064785/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/hemisphere-ratio"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4055722105/size=small/bgcol=ffffff/linkcol=0687f5/track=3802805683/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/hemisphere-ratio"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4055722105/size=small/bgcol=ffffff/linkcol=0687f5/track=2070690316/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/hemisphere-ratio"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4055722105/size=small/bgcol=ffffff/linkcol=0687f5/track=3985801876/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/hemisphere-ratio"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4055722105/size=small/bgcol=ffffff/linkcol=0687f5/track=1411141235/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/hemisphere-ratio"
+        }
+      ],
+      "imageId": "SL42.jpeg",
+      "remix": ["Schulz Audio"],
+      "type": "albums",
+      "id": "hemisphere-ratio"
+    },
+    {
       "catalogue": "SL41",
       "date": "2022-01-13T00:00:00",
       "artist": "Dive Craft",
