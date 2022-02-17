@@ -3917,6 +3917,33 @@
   ],
   "chooseYourColor": [
     {
+      "catalogue": "Ikosaeder – Solid Pink",
+      "date": "2022-02-17T00:00:00",
+      "artist": "Ikosaeder",
+      "albumName": "Solid Pink",
+      "description": "Joey Rösler honors the high standards of the German music industry, carefully replicating them in his style. The austerity of the outlines conceals the harmony of the keyboard, the warmth of the morning wind and the contemplation of the centuries-old cypresses. Expressively bustling life is reflected in the color interpretation from the Ruhr region.",
+      "bandcamp": "https://spclnch.bandcamp.com/track/solid-pink",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/ikosaeder-solid-pink",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=1wrxSbYeHhI",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=2026893104/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/solid-pink"
+        }
+      ],
+      "imageId": "Ikosaeder-Solid-Pink.jpeg",
+      "remix": [],
+      "type": "choose-your-color",
+      "id": "ikosaeder-solid-pink"
+    },
+    {
       "catalogue": "Garibe – Medium Candy Apple Red",
       "date": "2022-02-07T00:00:00",
       "artist": "Garibe",
