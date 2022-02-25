@@ -3917,6 +3917,33 @@
   ],
   "chooseYourColor": [
     {
+      "catalogue": "Mjulev – Lime Green",
+      "date": "2022-02-25T00:00:00",
+      "artist": "Mjulev",
+      "albumName": "Lime Green",
+      "description": "A native of the country of countless lakes, villages and high-altitude Alps goes on a full-length sci-fi voyage. A platform arcade game doesn't experience technical limitations, belonging to the same dimension as the mystery of the third planet. The advanced sound design offers an interesting physical model within the stereo emulation in a form of a set of difficulty levels and modes. Start!",
+      "bandcamp": "https://spclnch.bandcamp.com/track/lime-green",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/mjulev-lime-green",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=TvDih2WM1yc",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=4247193501/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/lime-green"
+        }
+      ],
+      "imageId": "Mjulev-Lime-Green.jpeg",
+      "remix": [],
+      "type": "choose-your-color",
+      "id": "mjulev-lime-green"
+    },
+    {
       "catalogue": "Ikosaeder – Solid Pink",
       "date": "2022-02-17T00:00:00",
       "artist": "Ikosaeder",
