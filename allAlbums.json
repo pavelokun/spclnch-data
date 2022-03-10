@@ -1,6 +1,49 @@
 {
   "albums": [
     {
+      "catalogue": "SL43",
+      "date": "2022-03-10T00:00:00",
+      "artist": "Star_Dub",
+      "albumName": "Dusty Dubs",
+      "description": "Instantly, everything was covered with a veil of toxic fog. Suffocating fumes rolled into the respirators in dense corrosive clouds, which made it difficult for Cat to make out the readings of the holographic gas analyzer. The surface of the Mesozoic planet has an aggressive chemical composition, so finding a radioisotope generator stuck here is not an easy task.\n\nFortunately, a twilight pterosarius with an unusual structure of the respiratory system, who was tamed by Spacelunch in one of his travels, appeared out of nowhere. Its massive, webbed wings serve as the walls of a vacuum capsule, and its lungs, like a filter, create an atmosphere familiar to humans. The help turned out to be very useful. It's time to focus on the clicks of the dosimeter and detect the power source.",
+      "bandcamp": "https://spclnch.bandcamp.com/album/dusty-dubs",
+      "spotify": "https://open.spotify.com/album/5DvR0M7Y7xY2md4DLPHnTS?si=3BtmcMTKRZaA0gcu868how",
+      "appleMusic": "https://music.apple.com/us/album/dusty-dubs/1611744306",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/sets/star_dub-dusty-dubs-w-kooscha",
+      "flat.audio": "null",
+      "youtube": "null",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2814835634/size=small/bgcol=ffffff/linkcol=0687f5/track=3785415155/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/dusty-dubs"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2814835634/size=small/bgcol=ffffff/linkcol=0687f5/track=525129769/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/dusty-dubs"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2814835634/size=small/bgcol=ffffff/linkcol=0687f5/track=3359954004/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/dusty-dubs"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2814835634/size=small/bgcol=ffffff/linkcol=0687f5/track=76109528/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/dusty-dubs"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2814835634/size=small/bgcol=ffffff/linkcol=0687f5/track=3358828444/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/dusty-dubs"
+        }
+      ],
+      "imageId": "SL43.jpeg",
+      "remix": ["Kooscha", "Upwellings"],
+      "type": "albums",
+      "id": "dusty_dubs"
+    },
+    {
       "catalogue": "SL42",
       "date": "2022-02-10T00:00:00",
       "artist": "Ekstendia",
