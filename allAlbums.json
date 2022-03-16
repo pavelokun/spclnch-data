@@ -3986,6 +3986,33 @@
   ],
   "chooseYourColor": [
     {
+      "catalogue": "Thomas Carmody – Dark Purple",
+      "date": "2022-03-16T00:00:00",
+      "artist": "Thomas Carmody",
+      "albumName": "Dark Purple",
+      "description": "And here's Thomas. Driven by the desire for orderliness, he discovers borderline states of the tangible and the ghostly, the explicit and the secret, the habitual and the abstract. The mysterious forms are tightly intertwined with the extraterrestrial predilections, creating an aura of inexplicability.",
+      "bandcamp": "https://spclnch.bandcamp.com/track/dark-purple",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/thomas-carmody-dark-purple",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=nDnQNC7inX4",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=2624003174/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/dark-purple"
+        }
+      ],
+      "imageId": "Thomas-Carmody-Dark-Purple.jpeg",
+      "remix": [],
+      "type": "choose-your-color",
+      "id": "thomas-carmody-dark-purple"
+    },
+    {
       "catalogue": "Mjulev – Lime Green",
       "date": "2022-02-25T00:00:00",
       "artist": "Mjulev",
