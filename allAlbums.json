@@ -3986,6 +3986,33 @@
   ],
   "chooseYourColor": [
     {
+      "catalogue": "Microlot – Liver Chestnut",
+      "date": "2022-03-25T00:00:00",
+      "artist": "Microlot",
+      "albumName": "Liver Chestnut",
+      "description": "The crystal-clear plot is enriched by the dawning Australian sun. Score sketches with shy dreams and soft freshness are luring into the open arms of warming therapy. A great reason for cultivating peace and expanding your musical horizons.",
+      "bandcamp": "https://spclnch.bandcamp.com/track/liver-chestnut",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/microlot-liver-chestnut",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=E1RRhUWHPZg",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=2805782135/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/liver-chestnut"
+        }
+      ],
+      "imageId": "Microlot-Liver-Chestnut.jpeg",
+      "remix": [],
+      "type": "choose-your-color",
+      "id": "microlot-liver-chestnut"
+    },
+    {
       "catalogue": "Thomas Carmody – Dark Purple",
       "date": "2022-03-16T00:00:00",
       "artist": "Thomas Carmody",
