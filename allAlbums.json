@@ -3986,6 +3986,33 @@
   ],
   "chooseYourColor": [
     {
+      "catalogue": "Sony Synth – Lava",
+      "date": "2022-03-31T00:00:00",
+      "artist": "Sony Synth",
+      "albumName": "Lava",
+      "description": "The faded pictures show an assertive breakbeat, which is gushing with drum beats and is deifying love. The energy of beauty, penetrated by the dancefloor passion, can be heard from the fascinating sidewalks of Khreshchatyk. The masterpiece concept is painted with rich spring colors and an atmosphere of freedom.",
+      "bandcamp": "https://spclnch.bandcamp.com/track/lava",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/sony-synth-lava",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=W988UzoBCgM",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=2250737094/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/lava"
+        }
+      ],
+      "imageId": "Sony-Synth-Lava.jpeg",
+      "remix": [],
+      "type": "choose-your-color",
+      "id": "sony-synth-lava"
+    },
+    {
       "catalogue": "Microlot – Liver Chestnut",
       "date": "2022-03-25T00:00:00",
       "artist": "Microlot",
