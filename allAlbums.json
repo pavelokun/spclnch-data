@@ -1,6 +1,85 @@
 {
   "albums": [
     {
+      "catalogue": "SL44",
+      "date": "2022-04-07T00:00:00",
+      "artist": "Various Artists",
+      "albumName": "Archive B",
+      "description": "The sabotage in the dungeons of a secluded flying prison is what really excites the mind. The deserters who committed a crime against the sound routine were detained here. A complex string of security cameras and fingerprint sensors left no choice. The access to the data library, which had been violently confiscated from prisoners, was only possible through a small window at the top of the dome.\n\n\"Well, just a little bit more...\", slightly biting his tongue to restrain the desire to rip the transparent armour open, Spacelunch filigreed his part of the work with a high-precision glass-cutter laser and a pair of suction cups. Drops of sweat traitorously rolled down his face, urging him to make it before the unintentional triggering of the security alarm.\n\nThe creaking of the bare cable on which Cat was descending was interrupted by loud thoughts about spys' failures and doubtless courage. The complex analysis of incoming information had a vulnerability – it reacted only to the smooth skin, so it turned out to be completely powerless in front of the agile, furry paws. Who knows what else will be found among the myriad of shelves, intriguing with their secrets…",
+      "bandcamp": "https://spclnch.bandcamp.com/album/archive-b",
+      "spotify": "https://open.spotify.com/album/4rWrjzoEwxGT9RltF2REWB?si=5efdaK8ARlGMRUq2t0CTCg",
+      "appleMusic": "https://music.apple.com/us/album/archive-b/1617045182",
+      "beatport": "https://www.beatport.com/release/archive-b/3704390",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/sets/various-artists-archive-b-sl44",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=Rv7yam3nMzE&list=PL-avZEKaOJ97XMOOQ-jgfT-A2IBr0CyvA",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1700317558/size=small/bgcol=ffffff/linkcol=0687f5/track=1872948666/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-b"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1700317558/size=small/bgcol=ffffff/linkcol=0687f5/track=2409680623/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-b"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1700317558/size=small/bgcol=ffffff/linkcol=0687f5/track=3018228482/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-b"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1700317558/size=small/bgcol=ffffff/linkcol=0687f5/track=2600096432/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-b"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1700317558/size=small/bgcol=ffffff/linkcol=0687f5/track=1642033206/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-b"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1700317558/size=small/bgcol=ffffff/linkcol=0687f5/track=1714453709/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-b"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1700317558/size=small/bgcol=ffffff/linkcol=0687f5/track=2443907251/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-b"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1700317558/size=small/bgcol=ffffff/linkcol=0687f5/track=669208905/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-b"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1700317558/size=small/bgcol=ffffff/linkcol=0687f5/track=720873016/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-b"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1700317558/size=small/bgcol=ffffff/linkcol=0687f5/track=704564731/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-b"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1700317558/size=small/bgcol=ffffff/linkcol=0687f5/track=1981703930/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-b"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1700317558/size=small/bgcol=ffffff/linkcol=0687f5/track=3210812739/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-b"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1700317558/size=small/bgcol=ffffff/linkcol=0687f5/track=403405200/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-b"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1700317558/size=small/bgcol=ffffff/linkcol=0687f5/track=1581103816/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-b"
+        }
+      ],
+      "imageId": "SL44.jpeg",
+      "remix": [],
+      "type": "albums",
+      "id": "archive-b"
+    },
+    {
       "catalogue": "SL43",
       "date": "2022-03-10T00:00:00",
       "artist": "Star_Dub",
