@@ -1,6 +1,49 @@
 {
   "albums": [
     {
+      "catalogue": "SL45",
+      "date": "2022-05-05T00:00:00",
+      "artist": "Ikosaeder",
+      "albumName": "The Inner Fire",
+      "description": "Episodes of sacred rites held near the bygone Indian reservation were emerging in Spacelunch's memory. According to the legend of the Sumerians, the sacred altar at the foot of the mountain of monuments hid the secrets of thousands of customs. Is it a lot or not? It is impossible to predict how the story could have continued if it had not been for the ritual with the potion made of the Ayahuasca./n/nThe ceremony of reunion with the spirits of nature allowed barely noticeable sprouts to grow inside the consciousness — harbingers of a huge storm that knocks down and mercilessly shatters the mind like an empty bottle against stones. Defenceless humility and love in response to the laughter of the universe is the only chance to feel freedom, be alone with yourself and warm your neighbours with the inner fire.",
+      "bandcamp": "https://spclnch.bandcamp.com/album/the-inner-fire",
+      "spotify": "https://open.spotify.com/album/2SeXEQxOAvOx8c80pVFNyu?si=dSPq83MkRNu6y5ZpD8yYKQ",
+      "appleMusic": "https://music.apple.com/us/album/the-inner-fire/1621262712",
+      "beatport": "https://www.beatport.com/release/the-inner-fire/3730099",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/sets/ikosaeder-the-inner-fire-w",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=UTFru6y4sB0&list=PL-avZEKaOJ95M-bL2lkjIhXXYCVZb-ZJP",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2278433252/size=small/bgcol=ffffff/linkcol=0687f5/track=3450855962/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-inner-fire"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2278433252/size=small/bgcol=ffffff/linkcol=0687f5/track=2603684515/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-inner-fire"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2278433252/size=small/bgcol=ffffff/linkcol=0687f5/track=4135176779/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-inner-fire"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2278433252/size=small/bgcol=ffffff/linkcol=0687f5/track=1493984854/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-inner-fire"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2278433252/size=small/bgcol=ffffff/linkcol=0687f5/track=1197103861/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-inner-fire"
+        }
+      ],
+      "imageId": "SL45.jpeg",
+      "remix": ["Alexander Bogdanov"],
+      "type": "albums",
+      "id": "the-inner-fire"
+    },
+    {
       "catalogue": "SL44",
       "date": "2022-04-07T00:00:00",
       "artist": "Various Artists",
