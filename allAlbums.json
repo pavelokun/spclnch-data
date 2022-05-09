@@ -4134,6 +4134,33 @@
   ],
   "chooseYourColor": [
     {
+      "catalogue": "Ajnkana – Dark Byzantium",
+      "date": "2022-05-09T00:00:00",
+      "artist": "Ajnkana",
+      "albumName": "Dark Byzantium",
+      "description": "The dark legacy of the bygone empire is not only the fall of Constantinople and the greed of the ruling nobility. It's more than that. The collision of echoes of the past and the technologies of the present creates a special rhythmic geometry. Professional sound engineering skills bring field recordings to a new aesthetic level. Modern antiquity is blowing from the shores of foggy Albion.",
+      "bandcamp": "https://spclnch.bandcamp.com/track/dark-byzantium",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/ajnkana-dark-byzantium",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=y2SbmilUNrk",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=3563940433/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/dark-byzantium"
+        }
+      ],
+      "imageId": "Ajnkana-Dark-Byzantium.jpeg",
+      "remix": [],
+      "type": "choose-your-color",
+      "id": "ajnkana-dark-byzantium"
+    },
+    {
       "catalogue": "Tersi Maison – Apple Green",
       "date": "2022-04-20T00:00:00",
       "artist": "Tersi Maison",
