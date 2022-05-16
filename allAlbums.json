@@ -4134,6 +4134,33 @@
   ],
   "chooseYourColor": [
     {
+      "catalogue": "Saumon – Salmon",
+      "date": "2022-05-16T00:00:00",
+      "artist": "Saumon",
+      "albumName": "Salmon",
+      "description": "Eccentric jazz improvisations ignite the lost hopes. The evening promenade, the bridges of the Seine and even the underground ossuary are all full of innocence. You can see a mystery in everything. With an unhurried gait, the unity of contradictions is walking barefoot on cobblestone sidewalks.",
+      "bandcamp": "https://spclnch.bandcamp.com/track/salmon",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/saumon-salmon",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=MngMOeFNvVg&t=1s",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=1344451260/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/salmon"
+        }
+      ],
+      "imageId": "Saumon-Salmon.jpeg",
+      "remix": [],
+      "type": "choose-your-color",
+      "id": "saumon-salmon"
+    },
+    {
       "catalogue": "Ajnkana – Dark Byzantium",
       "date": "2022-05-09T00:00:00",
       "artist": "Ajnkana",
