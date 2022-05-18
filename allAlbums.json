@@ -2338,6 +2338,32 @@
   ],
   "podcasts": [
     {
+      "catalogue": "68",
+      "date": "2022-05-18T00:00:00",
+      "artist": "Frederik (Stately Records)",
+      "albumName": "spclnch podcast #68",
+      "description": "An hour and a half tour of the Earth Museum ended in a miniature of the black-and-white light district, pulsating with a ridge of gingerbread houses. A hauntology-like cast of the former vital activity was restored remotely using ultrasonic blasters. Reconstructors Luna Ludmila, Roger Gerressen and Anton Kubikov transform the data, creating multifactorial prototypes of the Old World cities.",
+      "bandcamp": "null",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-68-frederik-stately-records",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=RuB1Pqggfus",
+      "mixcloud": "https://www.mixcloud.com/spclnch/spclnch-podcast-68-frederik-stately-records/",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1270554517&color=%23000000&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "68.jpeg",
+      "remix": [],
+      "type": "podcasts",
+      "id": "spclnch-podcast-68"
+    },
+    {
       "catalogue": "67",
       "date": "2022-04-29T00:00:00",
       "artist": "Deadbeat",
