@@ -4160,6 +4160,33 @@
   ],
   "chooseYourColor": [
     {
+      "catalogue": "Nicolas Barnes – Red Violet Crayola",
+      "date": "2022-05-26T00:00:00",
+      "artist": "Nicolas Barnes",
+      "albumName": "Red Violet Crayola",
+      "description": "A night walk along the Baltic Sea coast awakens a pagan fear of the elements. The wavering amber wind penetrates the smoldering body and makes it burn even brighter. The cozy alley smells of rye dough and smoked lamprey, and the neon-pink backlight is filled with warm oil. Everyone will find peace here.",
+      "bandcamp": "https://spclnch.bandcamp.com/track/red-violet-crayola",
+      "spotify": "null",
+      "appleMusic": "null",
+      "beatport": "null",
+      "deejayDe": "null",
+      "junoRecords": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/nicolas-barnes-red-violet-crayola",
+      "flat.audio": "null",
+      "youtube": "https://www.youtube.com/watch?v=Vp-nF_cSjWM",
+      "mixcloud": "null",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=4055466613/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/red-violet-crayola"
+        }
+      ],
+      "imageId": "Nicolas-Barnes-Red-Violet-Crayola.jpeg",
+      "remix": [],
+      "type": "choose-your-color",
+      "id": "nicolas-barnes-red-violet-crayola"
+    },
+    {
       "catalogue": "Saumon – Salmon",
       "date": "2022-05-16T00:00:00",
       "artist": "Saumon",
