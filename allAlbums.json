@@ -7073,37 +7073,7 @@
       }
     }
   ],
-  "spclnchRecommends": [
-    {
-      "id": "spclnch-podcast-00",
-      "albumName": "spclnch podcast #00",
-      "artist": "Kooscha",
-      "catalogue": "1",
-      "date": "2019-05-10T00:00:00",
-      "description": "Kooscha, a producer and DJ from Australia's largest and first city, Sydney, opens a series of podcasts about intelligent electronic music with his fresh, danceable, carefully selected and mixed musical journey.\nFeaturing music from Star_Dub, Alma, Kooscha, Raynes, Petter Preston and various others. Enjoy!",
-      "embed": [
-        {
-          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/618677586&color=%23000000&inverse=false&auto_play=false&show_user=true"
-        }
-      ],
-      "imageId": "01.jpg",
-      "remix": [],
-      "type": "spclnch-recommends",
-      "social": {
-        "youtube": "null",
-        "spotify": "null",
-        "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-01-kooscha",
-        "mixcloud": "https://www.mixcloud.com/spclnch/spclnch-podcast-01-kooscha/",
-        "junoRecords": "null",
-        "flat.audio": "https://flat.audio/spclnch/spclnch-podcast-no-01-kooscha",
-        "deejayDe": "null",
-        "bandcamp": "null",
-        "beatport": "null",
-        "appleMusic": "null",
-        "buyDownload": "null"
-      }
-    }
-  ],
+  "spclnchRecommends": [],
   "description": [
     {
       "title": "",
