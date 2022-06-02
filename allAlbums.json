@@ -1,6 +1,56 @@
 {
   "albums": [
     {
+      "catalogue": "SL46",
+      "date": "2022-06-02T00:00:00",
+      "artist": "R.Hz",
+      "albumName": "Mindscript",
+      "description": "Alternative uploading of scripts into the cerebral cortex has long been serving as a protection against the disastrous consequences of neurodegeneration. The sessions involve the introduction of updated software directly through the patient's energy field. During the Third Constellation War, the Smorings got the unspoken biohacking technologies from local looters who offered everything that came to hand.\n\n— ...After all, I was a leading researcher of the observatory, and they treated me like this! Outrageous!\n— Try to distract yourself, I need to connect to your nervous system. May the force of the elements be with us.\n\nThe Queen closed her eyes and gradually fell into a trance. A languid voice began to pronounce incantations in a strange language, to the beat of which Cat was snoring absently. The phrases resonated and stuck together. Healing psionic currents slid over Spacelunch's head, creating colored hyperspace kaleidoscopes in the darkness of his closed eyes.\n\n\"Hmm, the Voynich manuscript? The old man Bacon would be delighted right now...\", — out-of-body experiences gradually subsided under dark glasses. A ringing silence hung around, which meant a complete shutdown of internal navigation. Failure to reinstall is fraught not only with disorientation, but also with the erasure of all skills. A few seconds remained to prevent the complete disintegration of the personality…",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3416641273/size=small/bgcol=ffffff/linkcol=0687f5/track=4200219729/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/mindscript"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3416641273/size=small/bgcol=ffffff/linkcol=0687f5/track=1536611251/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/mindscript"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3416641273/size=small/bgcol=ffffff/linkcol=0687f5/track=4120390367/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/mindscript"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3416641273/size=small/bgcol=ffffff/linkcol=0687f5/track=2422470622/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/mindscript"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3416641273/size=small/bgcol=ffffff/linkcol=0687f5/track=2767132544/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/mindscript"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3416641273/size=small/bgcol=ffffff/linkcol=0687f5/track=229768046/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/mindscript"
+        }
+      ],
+      "imageId": "SL46.jpeg",
+      "remix": ["dubtommy", "Ohm"],
+      "type": "albums",
+      "id": "mindscript",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=4uQe9KsikPA&list=PL-avZEKaOJ96ovUnBDUowN6-SjaSBNeYZ",
+        "spotify": "https://open.spotify.com/album/2Q6ptZRyJHljzZwib70xcI?si=JMNIday_TXCXyC6azKa8qQ",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/r-hz-mindscript-w-dubtommy-ohm",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/mindscript",
+        "beatport": "https://www.beatport.com/release/mindscript/3760674",
+        "appleMusic": "https://music.apple.com/us/album/mindscript/1626300975",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL45",
       "date": "2022-05-05T00:00:00",
       "artist": "Ikosaeder",
