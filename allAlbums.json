@@ -7123,7 +7123,37 @@
       }
     }
   ],
-  "spclnchRecommends": [],
+  "spclnchRecommends": [
+  {
+      "catalogue": "Ohm & Octal Industries – Girl Called Lola [LYR008]",
+      "date": "2022-02-05T00:00:00",
+      "artist": "Ohm & Octal Industries",
+      "albumName": "Girl Called Lola [LYR008]",
+      "description": "From the remote times of the Middle Ages, shrouded in a dense fog of legends, comes the polymer ambient techno of the order of \"Fire and Ice\". A noble Nordic alliance and its chivalrous courage throw the whole world at the feet of a gentle princess. Her name is Lola.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1210240399&color=%23000000&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "Ohm-Octal Industries-Girl-Called-Lola-LYR008.jpeg",
+      "remix": [],
+      "type": "spclnch-recommends",
+      "id": "ohm-octal-industries-girl-called-lola-lyr008",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=9y023mjdAGs",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-recommends-ohm-octal-industries-girl-called-lola-lyr008",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "https://lyssnarecords.bandcamp.com/album/searching"
+      }
+    }
+  ],
   "description": [
     {
       "title": "",
