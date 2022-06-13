@@ -7154,6 +7154,35 @@
   ],
   "spclnchRecommends": [
     {
+      "catalogue": "Soela – Fledgling [OHM004]",
+      "date": "2022-06-13T00:00:00",
+      "artist": "Soela",
+      "albumName": "Fledgling [OHM004]",
+      "description": "The refined technique reproduces feminine lines which meaningfully hide under an elegant veil. Adding a velvety kick, immersing bass and pure spatial melodism to a refreshing drink, the Berlin artist creates a subtle aftertaste for traditional Icelandic cuisine. Every detail is clearly readable, evoking the venerable atmosphere of the classical house.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1286493595&color=%23000000&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "Soela-Fledgling-OHM004.jpeg",
+      "remix": [],
+      "type": "spclnch-recommends",
+      "id": "soela-fledgling-ohm004",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=dNNpuVBLj3c",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-recommends-soela-fledgling-ohm004",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "https://www.decks.de/track/various_artists-ohm_series_4/cj3-sx"
+      }
+    },
+    {
       "catalogue": "Anton Kubikov – Ping Plong",
       "date": "2022-06-10T00:00:00",
       "artist": "Anton Kubikov",
