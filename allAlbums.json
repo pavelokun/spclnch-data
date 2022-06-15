@@ -7154,6 +7154,35 @@
   ],
   "spclnchRecommends": [
     {
+      "catalogue": "Mikael Delta – A New Beginning [CTR162]",
+      "date": "2022-06-15T00:00:00",
+      "artist": "Mikael Delta",
+      "albumName": "A New Beginning [CTR162]",
+      "description": "A fragile mental state is imprinted on the canvas of life. The Balkan lullaby puts you to sleep thanks to an ethereal enveloping saxophone, hovering among massive dubby clumps and fat analog riffs. An avant-garde handwriting combines the archaic of warm memories and the inspiration of a modern underground stage.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1288024642&color=%23000000&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "Mikael-Delta-A-New-Beginning-CTR162.jpeg",
+      "remix": [],
+      "type": "spclnch-recommends",
+      "id": "mikael-delta-a-new-beginning-ctr162",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=XJaqaFj8vxw",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-recommends-mikael-delta-a-new-beginning-ctr162",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "https://coldtearrecords.bandcamp.com/album/mikael-delta-a-new-beginning"
+      }
+    },
+    {
       "catalogue": "Soela – Fledgling [OHM004]",
       "date": "2022-06-13T00:00:00",
       "artist": "Soela",
