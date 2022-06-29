@@ -4602,6 +4602,36 @@
   ],
   "chooseYourColor": [
     {
+      "catalogue": "Post Apocalyptic – Dartmouth Green",
+      "date": "2022-06-29T00:00:00",
+      "artist": "Post Apocalyptic",
+      "albumName": "Dartmouth Green",
+      "description": "Stretched as a purposely slowed-down pulse that highlights the hissing of a storage device. This listening artefact recreates a vivid impression of the friction of the film passing through a magnetic head. The plastic textures fuse the worlds of tactile perception and life-giving digital abundance.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=3634663375/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/dartmouth-green"
+        }
+      ],
+      "imageId": "Post-Apocalyptic-Dartmouth-Green.jpeg",
+      "remix": [],
+      "type": "choose-your-color",
+      "id": "post-apocalyptic-dartmouth-green",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=2qHsoCzjlrU",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/post-apocalyptic-dartmouth-green",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/track/dartmouth-green",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "Nicolas Barnes – Red Violet Crayola",
       "date": "2022-05-26T00:00:00",
       "artist": "Nicolas Barnes",
