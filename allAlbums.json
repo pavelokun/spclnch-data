@@ -1,6 +1,56 @@
 {
   "albums": [
     {
+      "catalogue": "SL47",
+      "date": "2022-06-30T00:00:00",
+      "artist": "Moodeep",
+      "albumName": "Unknown Elements",
+      "description": "\"On the scale of the nano-world, each of us is a universe that consists of perturbations of the wavy environment. Its elements structurally repeat each other up to a certain limit, until a change in values gives rise to a new property ...\" — Spacelunch was enthusiastically introducing the scientific pop to his partner, who was a reputed lover of philosophical references to physics. Although such stories tended to reproduce themselves, this was an exceptional case — the entrance hall of the Biomolecular Institute of Venus served as a classroom, where many outstanding minds were schooled after the explosion of the Large Hadron Collider.\n\nClimbing the enlarged DNA model as a library ladder, the professor thought about standards of different orders and the launch of an electromagnetic installation that allows reducing the size of objects by billions of times. With the installation of an artery in the background, Cat jumped from one erythrocyte to another, concentrating before each next manoeuvre. On the eve of crucial but dangerous tests, all interactions looked as relaxed as possible, but it was necessary to take all the risks into account.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2465824116/size=small/bgcol=ffffff/linkcol=0687f5/track=1082812921/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/unknown-elements"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2465824116/size=small/bgcol=ffffff/linkcol=0687f5/track=1629550488/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/unknown-elements"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2465824116/size=small/bgcol=ffffff/linkcol=0687f5/track=3721938121/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/unknown-elements"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2465824116/size=small/bgcol=ffffff/linkcol=0687f5/track=344030704/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/unknown-elements"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2465824116/size=small/bgcol=ffffff/linkcol=0687f5/track=2820541315/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/unknown-elements"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2465824116/size=small/bgcol=ffffff/linkcol=0687f5/track=2112070624/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/unknown-elements"
+        }
+      ],
+      "imageId": "SL47.jpeg",
+      "remix": ["Martin Jarl", "Bruit Blanc", "Deemkeyne"],
+      "type": "albums",
+      "id": "unknownelements",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mDqSqBqpM2O8ONwkMKFuYOrk_Pew2cpe4",
+        "spotify": "https://open.spotify.com/album/3eVlAFTle74iOZktpAKuEH?si=WqQjONnsSquWE4jFQ4iGqg",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/moodeep-unknown-elements-w",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/unknown-elements",
+        "beatport": "https://www.beatport.com/release/unknown-elements/3785297",
+        "appleMusic": "https://music.apple.com/us/album/unknown-elements/1630891687",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL46",
       "date": "2022-06-02T00:00:00",
       "artist": "R.Hz",
