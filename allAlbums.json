@@ -7293,6 +7293,35 @@
   ],
   "spclnchRecommends": [
     {
+      "catalogue": "Anton Kubikov – Tegevattegela",
+      "date": "2022-07-11T00:00:00",
+      "artist": "Anton Kubikov",
+      "albumName": "Tegevattegela",
+      "description": "A spiritual seance of an electronic contact medium leaves deftly marks on the dusty surface of conservatism. Chilling machine replicas, a roll call of mystical glitches, paranormal distortions and atypical transformations make one dive into the gloomy aesthetics of a trance. These mind games, with their meticulously thought-out digital recording errors and hardware failures, have never been so seductive.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1303175008&color=%23000000&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "Anton-Kubikov-Tegevattegela.jpeg",
+      "remix": [],
+      "type": "spclnch-recommends",
+      "id": "anton-kubikov-tegevattegela",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=1gt_a_AR5WQ&t=1s",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-recommends-anton-kubikov-tegevattegela",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "https://kubikov.bandcamp.com/album/medlena-telega-2"
+      }
+    },
+    {
       "catalogue": "Mantsche – Deltoid [LEAP009]",
       "date": "2022-07-07T00:00:00",
       "artist": "Mantsche",
