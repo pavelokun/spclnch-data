@@ -1,6 +1,52 @@
 {
   "albums": [
     {
+      "catalogue": "SL48",
+      "date": "2022-07-28T00:00:00",
+      "artist": "Trance Boy",
+      "albumName": "Just A Glimpse",
+      "description": "The study of the basics of cytology and genetics is difficult to conduct without a diligent attitude to details and increased energy consumption. Tired of the biomechanics of blood circulation, Cat shifted the focus of attention to relaxation. With each passing second, his eyelids grew heavier and speech got slower, acquiring an ever more fragmented and distant color.\n\nThe borderline state inevitably led one deep into oneself — into the directory of log files with descriptions of favorite objects and events, incoherently hinting at the tricks of the subconscious. A single stream of propofol whirls pulled into the realm of Morpheus, while the floating visualizations bribed with their realism. A painfully familiar image with the outlines of curls and dark frames appeared literally out of nothing:\n— Hey, buddy, can we watch your dream together?\n— Just a glimpse, there is not so much time…",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3726233661/size=small/bgcol=ffffff/linkcol=0687f5/track=966801446/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/just-a-glimpse"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3726233661/size=small/bgcol=ffffff/linkcol=0687f5/track=323356087/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/just-a-glimpse"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3726233661/size=small/bgcol=ffffff/linkcol=0687f5/track=723531360/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/just-a-glimpse"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3726233661/size=small/bgcol=ffffff/linkcol=0687f5/track=758081687/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/just-a-glimpse"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3726233661/size=small/bgcol=ffffff/linkcol=0687f5/track=1810723600/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/just-a-glimpse"
+        }
+      ],
+      "imageId": "SL48.jpeg",
+      "remix": ["Ludowick"],
+      "type": "albums",
+      "id": "justaglimpse",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kNsECERJajlOyXPyZJUkYHgLOWecEyaB0",
+        "spotify": "https://open.spotify.com/album/466mBmzNeQPZoIurQbjRm0",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/trance-boy-just-a-glimpse-w",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/just-a-glimpse",
+        "beatport": "https://www.beatport.com/release/just-a-glimpse/3807823",
+        "appleMusic": "https://music.apple.com/us/album/just-a-glimpse/1634389491",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL47",
       "date": "2022-06-30T00:00:00",
       "artist": "Moodeep",
