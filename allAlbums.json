@@ -7398,6 +7398,35 @@
   ],
   "spclnchRecommends": [
     {
+      "catalogue": "Basicnoise – Pattern Exploration VII [GRSCL23]",
+      "date": "2022-08-05T00:00:00",
+      "artist": "Basicnoise",
+      "albumName": "Pattern Exploration VII [GRSCL23]",
+      "description": "The author of the systematic exploration of patterns needs no introduction. As a result of the transgressive approach, biotechnologies are available to all members of the network environment. The development of the audio simulator has a distinctive encoding, and also allows the combination of virtual and real devices, which are used to replicate complex sound architectures. Hibernation, cryoson, suspended animation — all shades of grey — are compactly arranged in the root directory of the file system.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1318423441&color=%23000000&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "Basicnoise-Pattern-Exploration-VII-GRSCL23.jpeg",
+      "remix": [],
+      "type": "spclnch-recommends",
+      "id": "basicnoise-pattern-exploration-VII-grscl23",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=HsWXwoKEKJo",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-recommends-basicnoise-pattern-exploration-vii-grscl23",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "https://scale-limited.bandcamp.com/album/pattern-explorations-grscl23"
+      }
+    },
+    {
       "catalogue": "Herman Crantz – Madol [CTR165]",
       "date": "2022-08-01T00:00:00",
       "artist": "Herman Crantz",
