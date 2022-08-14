@@ -2635,36 +2635,7 @@
       }
     }
   ],
-  "components": [{
-    "catalogue": "Operandum – Gold Metallic",
-    "date": "2022-07-13T00:00:00",
-    "artist": "Operandum",
-    "albumName": "Gold Metallic",
-    "description": "The natural course of any sequence is to experience rebirth at a certain point and tend to improve thanks to its character. One of such improvements is assigned the role of a guide to another dimension. Implicating a change of positions, the soothing pads shape the basis for realising artistic images. A soft straight kick sows completeness and regularity in the simplicity of explanations.",
-    "embed": [
-      {
-        "src": "https://bandcamp.com/EmbeddedPlayer/track=1669852671/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
-        "href": "https://spclnch.bandcamp.com/track/gold-metallic"
-      }
-    ],
-    "imageId": "Operandum-Gold-Metallic.jpeg",
-    "remix": [],
-    "type": "components",
-    "id": "operandum-gold-metallic",
-    "social": {
-      "youtube": "https://www.youtube.com/watch?v=7fPopXNXvP0",
-      "spotify": "null",
-      "soundcloud": "https://soundcloud.com/spclnch/operandum-gold-metallic",
-      "mixcloud": "null",
-      "junoRecords": "null",
-      "deejayDe": "null",
-      "flat.audio": "null",
-      "bandcamp": "https://spclnch.bandcamp.com/track/gold-metallic",
-      "beatport": "null",
-      "appleMusic": "null",
-      "buyDownload": "null"
-    }
-  }],
+  "components": [],
   "podcasts": [
     {
       "catalogue": "71",
