@@ -2635,6 +2635,35 @@
       }
     }
   ],
+  "components": [{
+    "catalogue": "71",
+    "date": "2022-07-20T00:00:00",
+    "artist": "Basicnoise",
+    "albumName": "spclnch podcast #71",
+    "description": "The basic noise comes from the citadel of scientific disciplines. The square near the Department of Machine Learning and Data Analysis is packed — the crowds of extragalactic races have surrounded the source of attractive meta-vibrations. The maestro is controlling the decks, ignoring the flotilla of patrol flying saucers and the pile of casemates. A top-secret location based dozens of astronomical units from the Sun turns into the epicenter of pleasure. The educational mission is gaining momentum thanks to the assistance of BDTom, Nicholas Barnes and Schulz Audio.",
+    "embed": [
+      {
+        "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1308594205&color=%23000000&inverse=false&auto_play=false&show_user=true"
+      }
+    ],
+    "imageId": "71.jpeg",
+    "remix": [],
+    "type": "podcasts",
+    "id": "spclnch-podcast-71",
+    "social": {
+      "youtube": "https://www.youtube.com/watch?v=frg1mrjN5r8",
+      "spotify": "null",
+      "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-71-basicnoise",
+      "mixcloud": "https://www.mixcloud.com/spclnch/spclnch-podcast-71-basicnoise/",
+      "junoRecords": "null",
+      "deejayDe": "null",
+      "flat.audio": "null",
+      "bandcamp": "null",
+      "beatport": "null",
+      "appleMusic": "null",
+      "buyDownload": "null"
+    }
+  }],
   "podcasts": [
     {
       "catalogue": "71",
