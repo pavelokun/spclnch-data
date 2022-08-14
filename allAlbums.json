@@ -2635,7 +2635,68 @@
       }
     }
   ],
-  "components": [],
+  "components": [
+  {
+      "catalogue": "Liuos – Component N2",
+      "date": "2022-08-09T00:00:00",
+      "artist": "Liuos",
+      "albumName": "Component N2",
+      "description": "The laws of physics give rise to complex systems that lead to the unravelling of particles of the intelligent substance. Under certain conditions, a rare item of a frozen igneous rock can cause a change in the fundamental properties of matter. The journey through brain synapses confirms the existence of consciousness at the quantum level.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=3812918513/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/component-n2"
+        }
+      ],
+      "imageId": "Liuos-Component-N2.jpeg",
+      "remix": [],
+      "type": "components",
+      "id": "liuos-component-N2",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=-qjDpZJujbA",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/liuos-component-n2",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/track/component-n2",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
+      "catalogue": "Avguchenko – Component N1",
+      "date": "2022-08-03T00:00:00",
+      "artist": "Avguchenko",
+      "albumName": "Component N1",
+      "description": "The significance of all tests, control samples and artefacts could hardly be overestimated, and the very first of these items has been a memorable event in creating the unique collection. The component marked N1 is made of high-quality materials. The crystal structure has the original singular and nonlinear nature with the first-class sensitivity. The right moment to lift the veil of secrecy has come.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=2126873691/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/component-n1"
+        }
+      ],
+      "imageId": "Avguchenko-Component-N1.jpeg",
+      "remix": [],
+      "type": "components",
+      "id": "avguchenko-component-N1",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=tdLYSzQ-oSI",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/avguchenko-component-n1",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/track/component-n1",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    }
+  ],
   "podcasts": [
     {
       "catalogue": "71",
