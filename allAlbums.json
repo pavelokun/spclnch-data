@@ -2637,6 +2637,36 @@
   ],
   "components": [
     {
+      "catalogue": "Spigl – Component N4",
+      "date": "2022-08-24T00:00:00",
+      "artist": "Spigl",
+      "albumName": "Component N4",
+      "description": "The refractory element of unknown origin is marked as N4, used as a catalyst and a highly efficient converter of nuclear energy. The rare artifact has increased wear resistance, which is an advantage in designing transport loops that support hyperluminal speeds. A chain reaction has stirred up the world of high technologies and standards.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=3936299636/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/component-n4"
+        }
+      ],
+      "imageId": "Spigl-Component-N4.jpeg",
+      "remix": [],
+      "type": "components",
+      "id": "spigl-component-N4",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=pWq-ihZYjcs",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spigl-component-n4",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/track/component-n4",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "Noria Amony – Component N3",
       "date": "2022-08-17T00:00:00",
       "artist": "Noria Amony",
