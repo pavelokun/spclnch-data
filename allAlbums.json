@@ -1,6 +1,48 @@
 {
   "albums": [
     {
+      "catalogue": "SL49",
+      "date": "2022-08-25T00:00:00",
+      "artist": "Sony Synth",
+      "albumName": "Here Comes The Devil",
+      "description": "Abstract discussions help let off steam after a series of time-consuming seminars and adventures, which sometimes lead to a dead end and give rise to a disagreement in the dispute rather than revealing the truth. The only way to end this is a crazy culinary duel, similar to \"Hell's Kitchen\", but with less strict rules.\n\nThe apocalyptic world, which once had teemed up with aggressive demonic creatures, has long cooled down, becoming the abode of weird curious onlookers. The red-hot frying pan, the scoop with a collimator sight and several burnt toasts have expressed genuine opposition:\n\n— Don't cheat, Cat! It's like the devil has possessed you!\n— Hey, be careful with such metaphors!\n\nIn the heat of sports excitement, unaware of what harmless fun can turn out to be, it is easy to lose sight of significant details. \"You have miscalculated, my naive adventurers. Even a strong alliance can be destroyed, as it is enough to sow doubts from within...\" Minimal Antagonist whispered slowly in the darkness of the crowd.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1101896806/size=small/bgcol=ffffff/linkcol=0687f5/track=2096214450/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/here-comes-the-devil"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1101896806/size=small/bgcol=ffffff/linkcol=0687f5/track=3891940871/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/here-comes-the-devil"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1101896806/size=small/bgcol=ffffff/linkcol=0687f5/track=1953292315/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/here-comes-the-devil"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1101896806/size=small/bgcol=ffffff/linkcol=0687f5/track=4209909560/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/here-comes-the-devil"
+        }
+      ],
+      "imageId": "SL49.jpeg",
+      "remix": ["EVANS"],
+      "type": "albums",
+      "id": "herecomesthedevil",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mP19wNTdWYitpVgeVpE9RPCozUDK9DJKo",
+        "spotify": "https://open.spotify.com/album/3Zyne9eDWOfP4qfYCx76fz",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/sony-synth-here-comes-the",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/here-comes-the-devil",
+        "beatport": "https://www.beatport.com/release/here-comes-the-devil/3838919",
+        "appleMusic": "https://music.apple.com/nl/album/here-comes-the-devil-ep/1639116904",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL48",
       "date": "2022-07-28T00:00:00",
       "artist": "Trance Boy",
