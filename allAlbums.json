@@ -7562,6 +7562,35 @@
   ],
   "spclnchRecommends": [
     {
+      "catalogue": "Jason Hersco – Everytime [APDEXTRA028]",
+      "date": "2022-08-29T00:00:00",
+      "artist": "Jason Hersco",
+      "albumName": "Everytime [APDEXTRA028]",
+      "description": "The charming funky remake reminds us of the times of beauty and artistry in the mid-20th century. The neat piano parts and the glimpse of jazz elements attract the most discerning gourmets. The dance story teaches the anatomy of passion, made of Mediterranean pleasure and endless coastlines.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1333472584&color=%23000000&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "Jason-Hersco-Everytime-APDEXTRA028.jpeg",
+      "remix": [],
+      "type": "spclnch-recommends",
+      "id": "jason-hersco-everytime-APDEXTRA028",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=7OLfgjl2EkY",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-recommends-jason-hersco-everytime-apdextra028",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "https://jasonhersco.bandcamp.com/album/everytime-ep"
+      }
+    },
+    {
       "catalogue": "Frenk Dublin – Ace [DUBCOM039D]",
       "date": "2022-08-22T00:00:00",
       "artist": "Frenk Dublin",
