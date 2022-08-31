@@ -2679,6 +2679,36 @@
   ],
   "components": [
     {
+      "catalogue": "Sony Synth – Component N5",
+      "date": "2022-08-31T00:00:00",
+      "artist": "Sony Synth",
+      "albumName": "Component N5",
+      "description": "The modified emulsion quickly spreads from the habitable zone and dances along the walls of the test tube, taking many unpredictable forms. When applied to the skin, it causes slight tingling and increases the degree of regeneration up to complete invulnerability. Having an energizing effect and protecting against relativistic jets, it remains poorly studied and requires additional tests.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=933610721/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/component-n5"
+        }
+      ],
+      "imageId": "Sony-Synth-Component-N5.jpeg",
+      "remix": [],
+      "type": "components",
+      "id": "sony-synth-component-N5",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=Nsrv9nqjl7Q",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/sony-synth-component-n5",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/track/component-n5",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "Spigl – Component N4",
       "date": "2022-08-24T00:00:00",
       "artist": "Spigl",
