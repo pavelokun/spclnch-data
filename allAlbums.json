@@ -1,6 +1,44 @@
 {
   "albums": [
     {
+      "catalogue": "SPCLNCH04",
+      "date": "2022-09-01T00:00:00",
+      "artist": "Dubfound & Dopustim",
+      "albumName": "Mattermilla",
+      "description": "A portal weapon with a capacity of several megatons made a neutron spit not somewhere, but near an abandoned abbey on the Easter Island. Since the beginning of time, the matter mill has been merciless to mistakes, so the unfortunate miscalculation became fatal, and the teleport opened prematurely.\n\nThe theft of analog relics, to which Spacelunch clung with a death grip, could have been considered successful, if not for one nuance — a Sacred Scarab of gigantic size. The guardian of the ancestral dimension managed to jump into the funnel, eager to behead the daring strangers. His deadly spikes swept very close, showing primal ruthlessness.\n\nIt seemed that even the stone idols were perplexed by what was happening. The loss of spatial orientation and situational awareness used survival instincts, which, following the footsteps of ancient creatures, led to an untouched plateau. Cat, short of breath turned back and, having assessed the location, immediately activated the smart bracelet along with the last chance for salvation.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4097851419/size=small/bgcol=ffffff/linkcol=0687f5/track=2046834906/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/mattermilla"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4097851419/size=small/bgcol=ffffff/linkcol=0687f5/track=4158210356/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/mattermilla"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4097851419/size=small/bgcol=ffffff/linkcol=0687f5/track=4238585171/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/mattermilla"
+        }
+      ],
+      "imageId": "SPCLNCH04.png",
+      "remix": [],
+      "type": "albums",
+      "id": "mattermilla",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=M2hH__YoCog&list=PL-avZEKaOJ9705JmXNVBMedHoBsK8xa3g",
+        "spotify": "https://open.spotify.com/album/1qbdpJbfsINeTqgAuDnL2p",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/dubfound-dopustim-1",
+        "mixcloud": "null",
+        "junoRecords": "https://www.juno.co.uk/products/dubfound-dopustim-mattermilla/886508-01/",
+        "deejayDe": "https://www.deejay.de/Dubfound_%26_Dopustim_Mattermilla_SPCLNCH04_Vinyl__993005",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/mattermilla",
+        "beatport": "https://www.beatport.com/release/mattermilla/3838724",
+        "appleMusic": "https://music.apple.com/nl/album/mattermilla-single/1639105574",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL49",
       "date": "2022-08-25T00:00:00",
       "artist": "Sony Synth",
