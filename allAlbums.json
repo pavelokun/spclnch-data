@@ -1,6 +1,56 @@
 {
   "albums": [
     {
+      "catalogue": "SL50",
+      "date": "2022-09-22T00:00:00",
+      "artist": "Stelios Vassiloudis",
+      "albumName": "Deadpan",
+      "description": "The pathways to the hyperspace fortress have been protected by a multidimensional system of false corridors, forks and dead ends that absorbed any sound. They have not left even the slightest hope for the lost.\n\n\"Without a guide, we are doomed to perish, and it will be useless to call for help!\" — Cat's warnings did not save him from a dangerous undertaking. After going through several confusing sections and doors, Spacelunch was truly puzzled: \"Hmm, the passages are located at random angles. The topology class describes the generation of an amorphous maze without any constant tessellation...\"\n\nThe convulsive shuffling of paws and the hopeless gnashing of claws in an attempt to dig into the walls suddenly interrupted the thought process. Risking to become fatal and bringing the conditions ever closer to critical, the effect of gamma radiation was increasing exponentially…",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1493633788/size=small/bgcol=ffffff/linkcol=0687f5/track=1317691616/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/deadpan"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1493633788/size=small/bgcol=ffffff/linkcol=0687f5/track=1631565170/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/deadpan"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1493633788/size=small/bgcol=ffffff/linkcol=0687f5/track=563291338/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/deadpan"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1493633788/size=small/bgcol=ffffff/linkcol=0687f5/track=1725981263/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/deadpan"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1493633788/size=small/bgcol=ffffff/linkcol=0687f5/track=137420262/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/deadpan"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1493633788/size=small/bgcol=ffffff/linkcol=0687f5/track=1147693573/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/deadpan"
+        }
+      ],
+      "imageId": "SL50.jpeg",
+      "remix": ["Federsen", "Upwellings"],
+      "type": "albums",
+      "id": "deadpan",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_ktyIJP4ehZRb-mHyJhdZW9QTEqq2lQVFI",
+        "spotify": "https://open.spotify.com/album/0ko6tyfWcI51h2F13rfTFy?si=CUr9iqtTTNqnlWf9gyi_IQ",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/stelios-vassiloudis-deadpan-w",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/deadpan",
+        "beatport": "https://www.beatport.com/release/deadpan/3864038",
+        "appleMusic": "https://music.apple.com/nl/album/deadpan/1643974866",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SPCLNCH04",
       "date": "2022-09-01T00:00:00",
       "artist": "Dubfound & Dopustim",
