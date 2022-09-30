@@ -7740,6 +7740,35 @@
   ],
   "spclnchRecommends": [
     {
+      "catalogue": "DinAmmo – Trip To The Village [ARCH193]",
+      "date": "2022-09-30T00:00:00",
+      "artist": "DinAmmo",
+      "albumName": "Trip To The Village [ARCH193]",
+      "description": "The journey through a magical land led to an abandoned village. The intricate geometry of ethnic patterns, shaped as curly plant shoots, is flourishing thanks to Arabic wind instruments and interweaving of rhythmic lines. The culture of oriental fairy tales has been created specifically for the city of theaters, in which the atmosphere of Montmartre reigns and the inhabitants honor their past, as well as absorb the realities of modernity.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1354284139&color=%23000000&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "DinAmmo-Trip-To-The-Village-ARCH193.jpeg",
+      "remix": [],
+      "type": "spclnch-recommends",
+      "id": "dinammo-trip-to-the-village-ARCH193",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=dSnpQYd_Zsk",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-recommends-dinammo-trip-to-the-village-arch193?in=spclnch/sets/spclnch-recommends",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "https://archipelmusique.bandcamp.com/album/zauberland"
+      }
+    },
+    {
       "catalogue": "Pulshar – The Price You Pay [AR054]",
       "date": "2022-09-27T00:00:00",
       "artist": "Pulshar",
