@@ -7740,6 +7740,35 @@
   ],
   "spclnchRecommends": [
     {
+      "catalogue": "re:fraction – Scattered Wavelenghts [SDSR025-DI01]",
+      "date": "2022-10-03T00:00:00",
+      "artist": "re:fraction",
+      "albumName": "Scattered Wavelenghts [SDSR025-DI01]",
+      "description": "The new chapter of polysyllabic conclusions about life manifests itself in one of the eight parallel directions. The mark that time has left on the knowledge roadmap represents the study and shift of future technologies. The collective contribution to the development of mixing, sampling and FM synthesis receives impressive interpretations. The rich Scandinavian palette plays with shades of vividness and excellence.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1355813596&color=%23000000&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "re-fraction-Scattered-Wavelenghts-SDSR025-DI01.jpeg",
+      "remix": [],
+      "type": "spclnch-recommends",
+      "id": "re-fraction-scattered-wavelenghts-SDSR025-DI01",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=xNtmw0JXrxI",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-recommends-refraction-scattered-wavelenghts-sdsr025-di01",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "https://re-fraction.bandcamp.com/album/parallel-directions"
+      }
+    },
+    {
       "catalogue": "DinAmmo – Trip To The Village [ARCH193]",
       "date": "2022-09-30T00:00:00",
       "artist": "DinAmmo",
