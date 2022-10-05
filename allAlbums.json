@@ -2767,6 +2767,36 @@
   ],
   "components": [
     {
+      "catalogue": "Denis Pylaev – Component N8",
+      "date": "2022-10-05T00:00:00",
+      "artist": "Denis Pylaev",
+      "albumName": "Component N8",
+      "description": "The fertile foreign soil, strewn with miraculous seeds, gave rise to an experimental sprout for the meta-science. Hard-won, it has grown up in the warmth of caring hands and represents a particular form of evolution. Through a haze of liquid nitrogen and a transparent cloche, one can behold the unique embodiment of life.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=1398183318/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/component-n8"
+        }
+      ],
+      "imageId": "Denis-Pylaev-Component-N8.jpeg",
+      "remix": [],
+      "type": "components",
+      "id": "denis-pylaev-component-N8",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=5tYYY3HDRxg",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/denis-pylaev-component-n8",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/track/component-n8",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "LLLIT – Component N7",
       "date": "2022-09-29T00:00:00",
       "artist": "LLLIT",
