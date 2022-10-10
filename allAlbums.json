@@ -7770,6 +7770,35 @@
   ],
   "spclnchRecommends": [
     {
+      "catalogue": "Insect O. – Shipwreck [ETUIDGTL005]",
+      "date": "2022-10-10T00:00:00",
+      "artist": "Insect O.",
+      "albumName": "Shipwreck [ETUIDGTL005]",
+      "description": "The Saxon workshop is performed live on a modular synthesizer that pours unusual vectors into the sound space. The effect of mirrors curved at unpredictable angles dispels trembling swirls. By capturing wandering signals from all over the place, the sensory area encodes an amazing compositional panorama.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1360125118&color=%23000000&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "Insect-O-Shipwreck-ETUIDGTL005.jpeg",
+      "remix": [],
+      "type": "spclnch-recommends",
+      "id": "insect-o-shipwreck-ETUIDGTL005",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=y1TjVhClKLs",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-recommends-insect-o-shipwreck-etuidgtl005",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "https://etui-records.bandcamp.com/album/ushuaia"
+      }
+    },
+    {
       "catalogue": "re:fraction – Scattered Wavelenghts [SDSR025-DI01]",
       "date": "2022-10-03T00:00:00",
       "artist": "re:fraction",
