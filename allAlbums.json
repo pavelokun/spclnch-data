@@ -7800,6 +7800,35 @@
   ],
   "spclnchRecommends": [
     {
+      "catalogue": "Aron – Eos [BERGADGTL14]",
+      "date": "2022-10-18T00:00:00",
+      "artist": "Aron",
+      "albumName": "Eos [BERGADGTL14]",
+      "description": "With the precision of a Swiss watch, convincing amplitude-frequency scenarios are received by the subconscious and go straight to the target. Detached chords and acoustic sequences ascend in a spiral along with assertive elements of the lower register. The enriched rhythm section creates a layering of emotions in progressive harmony.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1365317176&color=%23000000&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "Aron-Eos-BERGADGTL14.jpeg",
+      "remix": [],
+      "type": "spclnch-recommends",
+      "id": "aron-eos-BERGADGTL14",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=9TVfLEVKzGk",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-premiere-aron-eos-bergadgtl14",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "https://bergaudio.bandcamp.com/album/elements-aron"
+      }
+    },
+    {
       "catalogue": "Insect O. – Shipwreck [ETUIDGTL005]",
       "date": "2022-10-10T00:00:00",
       "artist": "Insect O.",
