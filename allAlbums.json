@@ -1,6 +1,52 @@
 {
   "albums": [
     {
+      "catalogue": "SL51",
+      "date": "2022-10-20T00:00:00",
+      "artist": "Djalo",
+      "albumName": "The Philosophy Of Living",
+      "description": "— Why don't we track the GPS signal delay? The route is being calculated too slowly.\n— Damn, these nitrile gloves are incredibly uncomfortable... Umm, did you ask something?\n\nAutopilot has always been a proven tool at a time when you have other personal things to do, for example, prepare a speech for the upcoming intergalactic congress. The scientific philosophy of life is impatient with flaws but is attractive when it comes to its insatiable thirst for knowledge. That is why this confusing adventure and its troubles have given so many new emotions that marked the next strategic cycle. A special request came from the Data Center, interrupting the tired contemplation:\n\n— Don't get too excited! I see you're ready to hit the dashboard.\n— There is no privacy here… Ok, I think we've discovered something interesting. I feel there will be a reason for some real relaxation soon!",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1884130137/size=small/bgcol=ffffff/linkcol=0687f5/track=3631628653/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-philosophy-of-living"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1884130137/size=small/bgcol=ffffff/linkcol=0687f5/track=4133367137/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-philosophy-of-living"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1884130137/size=small/bgcol=ffffff/linkcol=0687f5/track=3156934298/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-philosophy-of-living"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1884130137/size=small/bgcol=ffffff/linkcol=0687f5/track=1168038321/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-philosophy-of-living"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1884130137/size=small/bgcol=ffffff/linkcol=0687f5/track=221252835/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-philosophy-of-living"
+        }
+      ],
+      "imageId": "SL51.jpeg",
+      "remix": ["Kooscha"],
+      "type": "albums",
+      "id": "the-philosophy-of-living",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kXLagWbw7tLyrb0jFCFiyLfJsyzmnnDzU",
+        "spotify": "https://open.spotify.com/album/6d8pO9jcGnq8ro4GePYPJP",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/djalo-the-philosophy-of-living",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/the-philosophy-of-living",
+        "beatport": "https://www.beatport.com/release/the-philosophy-of-living/3884738",
+        "appleMusic": "https://music.apple.com/nl/album/the-philosophy-of-living/1647338444",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL50",
       "date": "2022-09-22T00:00:00",
       "artist": "Stelios Vassiloudis",
