@@ -2813,6 +2813,36 @@
   ],
   "components": [
     {
+      "catalogue": "Tim Kossmann – Component N10",
+      "date": "2022-10-24T00:00:00",
+      "artist": "Tim Kossmann",
+      "albumName": "Component N10",
+      "description": "Among the piles of rare gizmos and neatly arranged containers, the dusty recorder looked the most remarkable. A timid click launched the tape loop, shining from the speaker as the birth of a supernova. The Holy grail of the knowledge of metaphysical parallels flares up and illuminates the relics of previous civilisations. The supreme mystery of music and the minds of its creators announces the approach of new inventions.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=3640902450/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/component-n10"
+        }
+      ],
+      "imageId": "Tim-Kossmann-Component-N10.jpeg",
+      "remix": [],
+      "type": "components",
+      "id": "tim-kossmann-component-n10",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=dL3ZSTAw-Bc",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/tim-kossmann-component-n10",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/track/component-n10",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "Subliminal – Component N9",
       "date": "2022-10-14T00:00:00",
       "artist": "Subliminal",
