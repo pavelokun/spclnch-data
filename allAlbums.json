@@ -3115,6 +3115,35 @@
   ],
   "podcasts": [
     {
+      "catalogue": "72",
+      "date": "2022-10-26T00:00:00",
+      "artist": "Tm Shuffle",
+      "albumName": "spclnch podcast #72",
+      "description": "Who would have thought that refurbishing the studio that looked over Uranus rolling in its orbit would require so many resources! The dialogic interaction has finally become available to all adepts of improvisation who can now drop by for a party, try all the gadgets and have plenty of music. This place is about to become another source of good energy, besides Orlan 19, so no particular persuasion is needed to get one to take a break from discussions on the origin of eukaryotes or trans-isomerism.\n\nLively performances will be held here with enviable regularity, marking the valuable coordinates on the celestial map. Tm Shuffle, who knows firsthand how to attract attention with jewellery compilations, has come to the opening. An expert delegation consisting of Federsen, Luke Hess and Markus Suckut helps him provide artistic images and shape the drama and the concept of sound collages.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1370385103&color=%23000000&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "72.jpeg",
+      "remix": [],
+      "type": "podcasts",
+      "id": "spclnch-podcast-72",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=O6f66vpEPc4",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-72-tm-shuffle",
+        "mixcloud": "https://www.mixcloud.com/spclnch/spclnch-podcast-72-tm-shuffle/",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "71",
       "date": "2022-07-20T00:00:00",
       "artist": "Basicnoise",
