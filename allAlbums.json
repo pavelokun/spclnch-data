@@ -7905,6 +7905,35 @@
   ],
   "spclnchRecommends": [
     {
+      "catalogue": "AudioChain – Chains Nr.1 [IAL002]",
+      "date": "2022-10-31T00:00:00",
+      "artist": "AudioChain",
+      "albumName": "Chains Nr.1 [IAL002]",
+      "description": "The magic of ridges and paths leaves a mark on the tree of life and its branching abundance of different cultures. The bright chirping of percussion shows itself in the aristocratic gait and analogue pads that indicate an imperishable genre. The impeccable interaction of the duo is covered with a top-notch coating.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1373446297&color=%23000000&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "AudioChain-Chains-Nr.1IAL002.jpeg",
+      "remix": [],
+      "type": "spclnch-recommends",
+      "id": "audiochain-chains-nr.1IAL002",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=aWmpcwg5QTQ",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-premiere-audiochain-chains-nr1-ial002",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "https://deejay.de/AudioChain_Chains_Nr_1_IAL002_Vinyl__1007210"
+      }
+    },
+    {
       "catalogue": "Aron – Eos [BERGADGTL14]",
       "date": "2022-10-18T00:00:00",
       "artist": "Aron",
