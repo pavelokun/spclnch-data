@@ -7905,6 +7905,35 @@
   ],
   "spclnchRecommends": [
     {
+      "catalogue": "Anton Kubikov – 303 Hope & Love",
+      "date": "2022-11-03T00:00:00",
+      "artist": "Anton Kubikov",
+      "albumName": "303 Hope & Love",
+      "description": "The embodiment of hope and love glides over the surface of past experiences left on the magnetic tape of time. The assembled collage shimmers with pure melody, murmuring bass zest and a sense of lightness. The observed house motifs keep you warm through the positive contemplation of life.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1375550722&color=%23000000&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "Anton-Kubikov-303-Hope-&-Love.jpeg",
+      "remix": [],
+      "type": "spclnch-recommends",
+      "id": "anton-kubikov-303-hope-&-love",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=LZXYu9hXRTQ",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-premiere-anton-kubikov-303-hope-love",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "https://kubikov.bandcamp.com/album/hope-love-ep"
+      }
+    },
+    {
       "catalogue": "AudioChain – Chains Nr.1 [IAL002]",
       "date": "2022-10-31T00:00:00",
       "artist": "AudioChain",
