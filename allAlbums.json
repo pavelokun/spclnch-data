@@ -7905,6 +7905,35 @@
   ],
   "spclnchRecommends": [
     {
+      "catalogue": "DeWaal – Budo [MDN012]",
+      "date": "2022-11-09T00:00:00",
+      "artist": "DeWaal",
+      "albumName": "Budo [MDN012]",
+      "description": "Trafalgar Square and the customs of fine cuisine know about the ethnic mysteries of Eastern culture. The dry minimalism and the thrill of austerity preserve the intensity of complex rhythmic passages that continuously move relative to each other. The moire pattern, devoid of a precise centre of gravity, stands out for its geometrical and organic sound effects.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1379383687&color=%23000000&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "DeWaal-Budo-MDN012.jpeg",
+      "remix": [],
+      "type": "spclnch-recommends",
+      "id": "dewaal-budo-MDN012",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=5zXSKJ3-RKU",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-premiere-dewaal-budo-mdn012",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "https://midenmusic.bandcamp.com/album/mdn012-agor-selection-vol-3"
+      }
+    },
+    {
       "catalogue": "Anton Kubikov – 303 Hope & Love",
       "date": "2022-11-03T00:00:00",
       "artist": "Anton Kubikov",
