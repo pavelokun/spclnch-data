@@ -1,6 +1,52 @@
 {
   "albums": [
     {
+      "catalogue": "SL52",
+      "date": "2022-11-17T00:00:00",
+      "artist": "Tim Kossmann",
+      "albumName": "Unknown Trajectory",
+      "description": "— Hey, what's the rush? I'm still sick after the maze, and now there is such a high-G… This makes my tail curl into a pretzel!\n— I understand, my friend. Just be a bit more patient. It’s been a long while since the last time when so many influential representatives gathered in one place. This unique opportunity may no longer present itself.\n\nPlunging into the atmosphere of the Mineralization's Dubs Planet, the astrogate descended along a complex trajectory, like a fallen leaf, and hovered over the mines of blue crystals. The engine light capriciously loomed with a warning, but without hesitation, Spacelunch had released telescopic manipulators, which now were hanging with open arms over an abandoned quarry. Alternative energy sources were supposed to make a splash in aristocratic circles.\n\n— As long as the damned nobles don't suspect anything, — Cat said with a wary grin.\n— Melvin promised to arrange everything. If the auction goes according to plan, you will be able to break a decent jackpot, as well as invest a part of the amount in Space X shares. Hold the side stick tight, and don't damage the gas line, you need to collect the largest samples!",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2147206856/size=small/bgcol=ffffff/linkcol=0687f5/track=1822439396/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/unknown-trajectory"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2147206856/size=small/bgcol=ffffff/linkcol=0687f5/track=2741603863/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/unknown-trajectory"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2147206856/size=small/bgcol=ffffff/linkcol=0687f5/track=829379188/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/unknown-trajectory"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2147206856/size=small/bgcol=ffffff/linkcol=0687f5/track=254972246/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/unknown-trajectory"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2147206856/size=small/bgcol=ffffff/linkcol=0687f5/track=1948398299/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/unknown-trajectory"
+        }
+      ],
+      "imageId": "SL52.jpeg",
+      "remix": ["Upwellings"],
+      "type": "albums",
+      "id": "unknown-trajectory",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kTIgQxXaqM8qmG76Me3vEIP9Jd2ek8kAI",
+        "spotify": "https://open.spotify.com/album/2O0nXRU4MQB1xebQn1yjtc",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/tim-kossmann-unknown",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/unknown-trajectory",
+        "beatport": "https://www.beatport.com/release/unknown-trajectory/3914135",
+        "appleMusic": "https://music.apple.com/nl/album/unknown-trajectory/1651481096",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL51",
       "date": "2022-10-20T00:00:00",
       "artist": "Djalo",
