@@ -3164,6 +3164,35 @@
       "catalogue": "Season three",
       "date": "2022-11-22T00:00:00",
       "artist": "spclnch",
+      "albumName": "Season three (EN)",
+      "description": "The lens of the reproduction camera is focused on the central events of the multiverse, which hides many dangers, unpredictable encounters and finds. A summary of exciting intergalactic stories has already been developed and frame-by-frame stacked in an audio sequence with a voice storytell that creates the right footholds for an exciting dive. Unimaginable characters, secret locations and of course music in the new season of adventures SL40—SL49.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1388154097&color=%23000000&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "Season-three.png",
+      "remix": [],
+      "type": "podcasts",
+      "id": "season-three-en",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=TTixVlCbCzM",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/season-three-spclnch-en",
+        "mixcloud": "https://www.mixcloud.com/spclnch/season-three-spclnch-en/",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
+      "catalogue": "Season three",
+      "date": "2022-11-22T00:00:00",
+      "artist": "spclnch",
       "albumName": "Season three (RU)",
       "description": "Объектив репродукционной камеры сфокусирован на центральных событиях мультивселенной, скрывающей в себе множество опасностей, непредсказуемых встреч и находок. Сводка захватывающих межгалактических историй уже проявлена и покадрово уложена в аудиоряд с голосовым сторителлом, создающим нужные точки опоры для увлекательного погружения. Невообразимые персонажи, секретные локации и конечно же музыка в новом сезоне приключений SL40—SL49.",
       "embed": [
