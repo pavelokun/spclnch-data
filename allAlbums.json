@@ -1,6 +1,48 @@
 {
   "albums": [
     {
+      "catalogue": "SPCLNCH05",
+      "date": "2022-12-01T00:00:00",
+      "artist": "Various Artists",
+      "albumName": "Archive C",
+      "description": "As it turned out, the archive with manuscripts from the C-500A dimension had sunk in the oceanic abyss of the planet Iguazu, which lies within the habitable zone and is similar in size, mass and temperature conditions to Earth. Multimeter waves could become a fatal obstacle to diving to extreme depths, not to mention the threat of decompression sickness.\n\nWhen the underwater vehicle stealthily touched the bottom, the launch platform docked with the information storage. Cat started laying pipes with the help of hyperbaric welding to transfer the documents to the carrier vessel. Spacelunch was patrolling the nearby surroundings, holding a crossbow tightly in his hands and slyly exchanging glances with the nuclear moray eel.\n\nThe pneumatic mail quickly activated the reading shells, setting up a data transaction. The sonar equipment for scanning the bottom and the manipulator arms were not necessary this time, which means cryptanalysis is going to be launched in the near future.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4167551019/size=small/bgcol=ffffff/linkcol=0687f5/track=1317150410/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-c"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4167551019/size=small/bgcol=ffffff/linkcol=0687f5/track=1559072246/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-c"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4167551019/size=small/bgcol=ffffff/linkcol=0687f5/track=1207633950/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-c"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4167551019/size=small/bgcol=ffffff/linkcol=0687f5/track=1075868710/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-c"
+        }
+      ],
+      "imageId": "SPCLNCH05.jpeg",
+      "remix": [],
+      "type": "albums",
+      "id": "archive-c",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_moIIDgWedrJu0bn1XkW7EPzJScGs9RRNs",
+        "spotify": "https://open.spotify.com/album/7oXfxLvTNtwJRCmCH7F3v4",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/various-artists-archive-c",
+        "mixcloud": "null",
+        "junoRecords": "https://www.juno.co.uk/products/ohm-federsen-subset-schulz-audio-archive-c/903040-01/",
+        "deejayDe": "https://www.deejay.de/Various_Artists_Archive_C_SPCLNCH05_Vinyl__993309",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/archive-c",
+        "beatport": "https://www.beatport.com/release/archive-c/3937885",
+        "appleMusic": "https://music.apple.com/nl/album/archive-c-ep/1654900156",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL52",
       "date": "2022-11-17T00:00:00",
       "artist": "Tim Kossmann",
