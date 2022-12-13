@@ -3299,6 +3299,35 @@
   ],
   "podcasts": [
     {
+      "catalogue": "73",
+      "date": "2022-12-13T00:00:00",
+      "artist": "Alessandro Crimi",
+      "albumName": "spclnch podcast #73",
+      "description": "The functional biosphere complex, founded in the first century of the modern era, is one of the outstanding monuments of proto-architecture. The renovation made it possible to use the lobby to commemorate the most exceptional sound enthusiasts. The main stage is surrounded by lotuses that embody the image of rebirth and the fundamental nature of being. The winner of the current ceremony is Alessandro Crimi. He converts his noteworthy word into the mouthpiece from the era that holds the secrets of worlds sunk into oblivion. Pablo Bolivar, the mysterious Yaleesa Hall and Malin Genie have also received awards for their significant contributions to the study of electronics.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1401878500&color=%23000000&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "73.jpeg",
+      "remix": [],
+      "type": "podcasts",
+      "id": "spclnch-podcast-73",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=-RI5zAZSduw",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-73-alessandro-crimi",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "Season three",
       "date": "2022-11-22T00:00:00",
       "artist": "spclnch",
