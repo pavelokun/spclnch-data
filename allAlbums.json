@@ -1,6 +1,52 @@
 {
   "albums": [
     {
+      "catalogue": "SL53",
+      "date": "2022-12-15T00:00:00",
+      "artist": "Masupilami",
+      "albumName": "Monochromatic",
+      "description": "— You know, sometimes I feel rebellious to the core. It is impossible to hold back when the media is silent about animal cruelty! At such moments it seems as if we are all helpless grains of sand rushing from nowhere to wherever on a giant disco ball...\n— Cat, you should get a pair of sunglasses for some occasions. Get ready, the auction will start soon! The freelance employees from AK are everywhere. I hope they won't suspect that the beneficiary who wished to remain incognito is a desperate couple hunted by half the galaxy.\n\nGuards scurried sullenly through the crowd, trying to learn the circumstances of such a large-scale event. Corporal Graves, the grey cardinal and the former head of the security service, was notorious for being a rare crook in search of profit. It was he who helped organise the fake trades. The fierce struggle for rare lots forced the participants to accept the only choice, but even a disguise and the total sold-out could not save the accomplices from imprisonment.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=770011194/size=small/bgcol=ffffff/linkcol=0687f5/track=3183892705/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/monochromatic"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=770011194/size=small/bgcol=ffffff/linkcol=0687f5/track=3532097325/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/monochromatic"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=770011194/size=small/bgcol=ffffff/linkcol=0687f5/track=4164610259/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/monochromatic"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=770011194/size=small/bgcol=ffffff/linkcol=0687f5/track=3059886142/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/monochromatic"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=770011194/size=small/bgcol=ffffff/linkcol=0687f5/track=3673450394/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/monochromatic"
+        }
+      ],
+      "imageId": "SL53.jpeg",
+      "remix": ["Ludowick", "Sony Synth"],
+      "type": "albums",
+      "id": "monochromatic",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_n60PUHwTozAWQqcNXhkWMAvAWcXC97jvM",
+        "spotify": "https://open.spotify.com/album/35uBUcqtckdm2DxK3nAgoB",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/masupilami-monochromatic-w",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/monochromatic",
+        "beatport": "https://www.beatport.com/release/monochromatic/3948544",
+        "appleMusic": "https://music.apple.com/nl/album/monochromatic/1656614209",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "",
       "date": "2022-12-08T00:00:00",
       "artist": "Various Artists",
