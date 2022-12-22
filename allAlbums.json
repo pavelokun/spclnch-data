@@ -3013,6 +3013,36 @@
   ],
   "components": [
     {
+      "catalogue": "Tersi Maison – Component N12",
+      "date": "2022-12-22T00:00:00",
+      "artist": "Tersi Maison",
+      "albumName": "Component N12",
+      "description": "A form-factor that sets the overall dimensions, as well as describes sets of parameters for processor boards, has been added to the collection of artefacts from the interdimensional wilds. The recommended conditions are used to control a kryptonite reactor responsible for generating waves of a specific frequency. They help strengthen the mental skills of the inhabitants of the phantom zone, however, they are dangerous for humans and cause radiation sickness.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=2666347795/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/component-n12"
+        }
+      ],
+      "imageId": "Tersi-Maison-Component-N12.jpeg",
+      "remix": [],
+      "type": "components",
+      "id": "tersi-maison-component-N12",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=xhMy4XJ5uWc",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/tersi-maison-component-n12",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/track/component-n12",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "Kooscha – Component N11",
       "date": "2022-11-30T00:00:00",
       "artist": "Kooscha",
