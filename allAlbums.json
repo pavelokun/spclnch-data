@@ -1,6 +1,92 @@
 {
   "albums": [
     {
+      "catalogue": "SL2022",
+      "date": "2022-12-29T00:00:00",
+      "artist": "Various Artists",
+      "albumName": "The Best of spclnch 2022",
+      "description": "Deftly maneuvering through clouds of galactic dust, the astrodget sweeps past unexplored stars and asteroids to collect unique recordings on its way — a compilation of Spacelunch universe, carefully composed of tracks from 2022.\n\nFilled with the support of fans of collectible music and the highest level of artists, we sincerely express our gratitude to each of you! We wish the next 12 months to be filled with mutual love, prosperity and Peace of course! Full speed ahead!",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2729861221/size=small/bgcol=ffffff/linkcol=0687f5/track=2194750682/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2022"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2729861221/size=small/bgcol=ffffff/linkcol=0687f5/track=2282307135/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2022"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2729861221/size=small/bgcol=ffffff/linkcol=0687f5/track=2494613440/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2022"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2729861221/size=small/bgcol=ffffff/linkcol=0687f5/track=3884236875/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2022"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2729861221/size=small/bgcol=ffffff/linkcol=0687f5/track=3829344787/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2022"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2729861221/size=small/bgcol=ffffff/linkcol=0687f5/track=281551516/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2022"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2729861221/size=small/bgcol=ffffff/linkcol=0687f5/track=3580138352/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2022"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2729861221/size=small/bgcol=ffffff/linkcol=0687f5/track=3684790797/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2022"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2729861221/size=small/bgcol=ffffff/linkcol=0687f5/track=1450129338/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2022"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2729861221/size=small/bgcol=ffffff/linkcol=0687f5/track=152921469/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2022"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2729861221/size=small/bgcol=ffffff/linkcol=0687f5/track=3919659076/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2022"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2729861221/size=small/bgcol=ffffff/linkcol=0687f5/track=1939357391/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2022"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2729861221/size=small/bgcol=ffffff/linkcol=0687f5/track=4169249284/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2022"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2729861221/size=small/bgcol=ffffff/linkcol=0687f5/track=3470786196/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2022"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2729861221/size=small/bgcol=ffffff/linkcol=0687f5/track=3304318170/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2022"
+        }
+      ],
+      "imageId": "SL2022.jpeg",
+      "remix": ["Deemkeyne", "Ludowick"],
+      "type": "albums",
+      "id": "the-best-of-spclnch-2022",
+      "social": {
+        "youtube": "null",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/teaser-various-artists-the-best-of-spclnch-2022-sl2022",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2022",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL53",
       "date": "2022-12-15T00:00:00",
       "artist": "Masupilami",
