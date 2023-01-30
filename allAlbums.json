@@ -3099,6 +3099,36 @@
   ],
   "components": [
     {
+      "catalogue": "The Open Circle – Component N15",
+      "date": "2023-01-30T00:00:00",
+      "artist": "The Open Circle",
+      "albumName": "Component N15",
+      "description": "A carved jewel case contains a fragment of runic scripture found in the caves of the Alpha Centauri constellation. The sacred teaching is granted only to the bravest and most selfless travellers. Its owner receives energy protection from ill-wishers but also commits himself to safeguarding the principles of peacefulness and honour in any situation, bearing the responsibility for the Universal Balance. Anyone who leaves the righteous path and chooses pride is inevitably doomed.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=629586711/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/component-n15"
+        }
+      ],
+      "imageId": "The-Open-Circle-Component-N15.jpeg",
+      "remix": [],
+      "type": "components",
+      "id": "the-open-circle-component-N15",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=4YYlkh-QyRI",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/the-open-circle-component-n15",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/track/component-n15",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "Ludowick – Component N14",
       "date": "2023-01-23T00:00:00",
       "artist": "Ludowick",
