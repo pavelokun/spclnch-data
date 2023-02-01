@@ -1,6 +1,48 @@
 {
   "albums": [
     {
+      "catalogue": "SL54",
+      "date": "2023-01-12T00:00:00",
+      "artist": "Avguchenko",
+      "albumName": "Get Tired",
+      "description": "— Mel, everything has exceeded my expectations! However, now we are wanted, so keep the proceedings to yourself for a while.\n— Always happy to help, buddy! Yeah, you made some noise. To steal a huge load of blue crystals from under the nose of the shadow government! Graves said there's a decent bounty on your heads. These scoundrels can’t wait to put back in their place any witness who might inadvertently blab about the secrets of the sanctuary.\n\nThis unnatural masquerade has been replaced by a cozy penthouse where you can chill out with your favourite music, relieve tension and just sleep after a busy weekday. Thin wisps of smoke have entwined in discussions about the future, sometimes disturbed by pictures from childhood. \"I haven't been home for so long that I'm starting to forget its existence. Isn't scientific research going too far?\" — an internal dialogue made Spacelunch face a cunning question. Reflections about the innermost were interrupted by intermittent footsteps that increased with each passing moment…",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2471282515/size=small/bgcol=ffffff/linkcol=0687f5/track=1465629417/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/get-tired"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2471282515/size=small/bgcol=ffffff/linkcol=0687f5/track=3298597716/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/get-tired"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2471282515/size=small/bgcol=ffffff/linkcol=0687f5/track=2148378498/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/get-tired"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2471282515/size=small/bgcol=ffffff/linkcol=0687f5/track=834880239/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/get-tired"
+        }
+      ],
+      "imageId": "SL54.jpeg",
+      "remix": [],
+      "type": "albums",
+      "id": "get-tired",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_nrxwSnEp2CFL_5QfdUTZ-Jg4C6Gg_REWo",
+        "spotify": "https://open.spotify.com/album/1XjVhnbEOafoGLZdwQuahX",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/avguchenko-get-tired-sl54",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/get-tired",
+        "beatport": "https://www.beatport.com/release/get-tired/3971086",
+        "appleMusic": "https://music.apple.com/nl/album/get-tired/1660644907",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL2022",
       "date": "2022-12-29T00:00:00",
       "artist": "Various Artists",
