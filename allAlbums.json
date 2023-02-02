@@ -1,6 +1,48 @@
 {
   "albums": [
     {
+      "catalogue": "SPCLNCH06",
+      "date": "2023-02-02T00:00:00",
+      "artist": "R.Hz",
+      "albumName": "Alien Workshop",
+      "description": "\"So much for beta testing of mechanical amplitudes… I knew it! I told you, no guests in the orbital workshop until the final correction of the trajectory!\", — Spacelunch managed to put on a spacesuit before complete depressurization. He was incredibly lucky that the destruction of the compartment had occurred before the emergency evacuation, and it did not develop into ebullism.\n\nCat was out for some time, making smooth somersaults around its axis. Almost all important developments were destroyed by decompression or turned inside out. Laboratory utensils, fuel system tubes torn to shreds, favourite doughnuts, even fragments of a travelator with its shattered glass cloches as tall as a human — everything was subjected to the silent vacuum torture.\n\nOn the eve of the launch of a new intelligence campaign, such circumstances could mean a collapse of technological equipment and a long restoration of the theoretical base. It is not easy to be smart in outer space, especially when the breathing mixture is running out, and the body becomes uncontrollable in the absence of a winch…",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1124966795/size=small/bgcol=ffffff/linkcol=0687f5/track=4153782964/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/alien-workshop"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1124966795/size=small/bgcol=ffffff/linkcol=0687f5/track=2293444142/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/alien-workshop"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1124966795/size=small/bgcol=ffffff/linkcol=0687f5/track=1152616373/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/alien-workshop"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1124966795/size=small/bgcol=ffffff/linkcol=0687f5/track=1046774687/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/alien-workshop"
+        }
+      ],
+      "imageId": "SPCLNCH06.png",
+      "remix": ["Basicnoise"],
+      "type": "albums",
+      "id": "alien-workshop",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=5ylxE9tWU1I&list=PL-avZEKaOJ95HKC6Mtsq5fsN_5RGCc12v",
+        "spotify": "https://open.spotify.com/album/45J6bp7nYnkyUJO27mQzU7",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/r-hz-alien-workshop-w",
+        "mixcloud": "null",
+        "junoRecords": "https://www.juno.co.uk/products/r-hz-alien-workshop/915730-01/",
+        "deejayDe": "https://www.deejay.de/RHz_Basicnoise_Alien_Workshop_SPCLNCH06_Vinyl__996268",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/alien-workshop",
+        "beatport": "https://www.beatport.com/release/alien-workshop/3984423",
+        "appleMusic": "https://music.apple.com/nl/album/alien-workshop-ep/1663671493",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL54",
       "date": "2023-01-12T00:00:00",
       "artist": "Avguchenko",
