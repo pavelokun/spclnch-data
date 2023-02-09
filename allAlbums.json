@@ -1,6 +1,48 @@
 {
   "albums": [
     {
+      "catalogue": "SL55",
+      "date": "2023-02-09T00:00:00",
+      "artist": "Krissky",
+      "albumName": "Begin To Wander",
+      "description": "When the handcuffs snapped tightly on the wrists of Spacelunch, who had just regained consciousness, he found himself in a prisoner's uniform and with marks of a taser on his arms. All of it suggested that the plan had failed miserably. The Venus-16 detention centre served as a transit hub for those whose fate, after grandiose crimes, was ruled in favour of the government. From here, you could get a one-way ticket – a lonely flying prison.\n\nRattling a bunch of keys and quietly grunting, the elderly caretaker Delacroix took the professor away for interrogations late at night and brought him back only at dawn. The entourage of the cell in the death penalty block was remarkably austere and lacking any amenities. The atmosphere reflected the impotence in front of the all-consuming system. The main suspect in the theft case of a large load of blue crystals was too depressed to even think for a second about an escape plan.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4032418649/size=small/bgcol=ffffff/linkcol=0687f5/track=2290637651/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/begin-to-wander"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4032418649/size=small/bgcol=ffffff/linkcol=0687f5/track=958146458/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/begin-to-wander"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4032418649/size=small/bgcol=ffffff/linkcol=0687f5/track=3813996045/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/begin-to-wander"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4032418649/size=small/bgcol=ffffff/linkcol=0687f5/track=1977452191/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/begin-to-wander"
+        }
+      ],
+      "imageId": "SL55.jpeg",
+      "remix": ["Trance Boy"],
+      "type": "albums",
+      "id": "begin-to-wander",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_k1nlE6FAvnm5oX43NuPTSqwb6Xy3ofr94",
+        "spotify": "https://open.spotify.com/album/4QKwrdXprHFMp8Gyl9MJRG",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/krissky-begin-to-wander-w",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/begin-to-wander",
+        "beatport": "https://www.beatport.com/release/begin-to-wander/3995858",
+        "appleMusic": "https://music.apple.com/nl/album/begin-to-wander-ep/1666258423",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SPCLNCH06",
       "date": "2023-02-02T00:00:00",
       "artist": "R.Hz",
