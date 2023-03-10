@@ -1,6 +1,92 @@
 {
   "albums": [
     {
+      "catalogue": "SL56",
+      "date": "2023-03-09T00:00:00",
+      "artist": "Various Artists",
+      "albumName": "Archive D",
+      "description": "Multifunctional cyber glasses were not going to be a part of the spy arsenal any time soon, unless absolutely necessary. Spacelunch’s invention, which was waiting to be tested, ironically became a message through time to himself. A mess at work, as well as burglary, were commonplace even in emergencies. The piles of archive boxes did not bother Cat, who was skimming the information downloaded from a micro-SD.\n\n\"The tables with the estimates of operational characteristics – not it. The ballistic calculations – not it again... Found it!\" — the tail rising with joy became an indicator of hope for a successful rescue operation. The formula of the superspeed elixir was looking seductively at him. All that was left to do was to upload the acquired data and analyse it upon returning to the lab. The silent jubilation was interrupted by the ear-splitting wail of the siren signalling that there was no room for mistake.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4174312294/size=small/bgcol=ffffff/linkcol=0687f5/track=1759273624/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-d"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4174312294/size=small/bgcol=ffffff/linkcol=0687f5/track=3067873138/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-d"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4174312294/size=small/bgcol=ffffff/linkcol=0687f5/track=1308184411/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-d"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4174312294/size=small/bgcol=ffffff/linkcol=0687f5/track=2406777570/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-d"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4174312294/size=small/bgcol=ffffff/linkcol=0687f5/track=2224742156/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-d"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4174312294/size=small/bgcol=ffffff/linkcol=0687f5/track=2123404337/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-d"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4174312294/size=small/bgcol=ffffff/linkcol=0687f5/track=809573199/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-d"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4174312294/size=small/bgcol=ffffff/linkcol=0687f5/track=2155791874/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-d"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4174312294/size=small/bgcol=ffffff/linkcol=0687f5/track=3436426061/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-d"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4174312294/size=small/bgcol=ffffff/linkcol=0687f5/track=3040239627/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-d"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4174312294/size=small/bgcol=ffffff/linkcol=0687f5/track=3611855959/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-d"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4174312294/size=small/bgcol=ffffff/linkcol=0687f5/track=302822665/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-d"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4174312294/size=small/bgcol=ffffff/linkcol=0687f5/track=3051772661/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-d"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4174312294/size=small/bgcol=ffffff/linkcol=0687f5/track=509128412/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-d"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4174312294/size=small/bgcol=ffffff/linkcol=0687f5/track=3130167319/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-d"
+        }
+      ],
+      "imageId": "SL56.jpeg",
+      "remix": [],
+      "type": "albums",
+      "id": "archive-d",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kVu39Gk9k6ok_xHlu3dGPaa5HtRA1YCZc",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/various-artists-archive-d-sl56",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/archive-d",
+        "beatport": "https://www.beatport.com/release/archive-d/4031077",
+        "appleMusic": "https://music.apple.com/us/album/archive-d/1672559955",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL55",
       "date": "2023-02-09T00:00:00",
       "artist": "Krissky",
