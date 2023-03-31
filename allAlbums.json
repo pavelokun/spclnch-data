@@ -8757,6 +8757,35 @@
   ],
   "spclnchRecommends": [
     {
+      "catalogue": "Insect O. – Sandstones [ETUILTD019]",
+      "date": "2023-03-31T00:00:00",
+      "artist": "Insect O.",
+      "albumName": "Sandstones [ETUILTD019]",
+      "description": "The island of profundity captivates the imagination with enchanting views. This is how the journey begins from the present self to the former self and the return to a carefree time. A cozy world with a variety of shades and events opens up again before a clear eye. A child's voice, like an echo of the origins, dissolves into a dub shroud, composing an ode to crystallized musical literacy. Poetic keyboard improvisations, rhythmic part and empathic field recordings fill the vessel of life.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1481904928&color=%23ff5500&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "Insect-O-Sandstones-ETUILTD019.jpeg",
+      "remix": [],
+      "type": "spclnch-recommends",
+      "id": "insect-o-sandstones-ETUILTD019",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=9QVEWUwz264",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/premiere-insect-o-sandstones-etuiltd019",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "https://etui-records.bandcamp.com/album/sandstones"
+      }
+    },
+    {
       "catalogue": "Roman Ridder – Call To Mind [SLP034]",
       "date": "2023-03-29T00:00:00",
       "artist": "Roman Ridder",
