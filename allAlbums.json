@@ -1,6 +1,56 @@
 {
   "albums": [
     {
+      "catalogue": "SL57",
+      "date": "2023-04-06T00:00:00",
+      "artist": "re:fraction",
+      "albumName": "Dimensions Of Velocity",
+      "description": "After giving out the lunch soup to prisoners, the day shift of the warders left the checkpoint. In the agonizing silence, one could only find comfort in watching an ant crawling on a damp wall and overcoming obstacles in the form of crumbling paint cracks. It is difficult to say when Spacelunch managed to make a friend — this hardworking insect who could not comprehend what constantly exhausted and tormented the professor's mind while awaiting trial.\n\nThe bed springs, digging into the back, disturbed one's rest and annoyed with their squeaky noise, which was suddenly interrupted by the hiss of molten metal. The prison bars were literally cut by a directed thermal shock. Thousands of degrees oozed out from the blade-sharp claws.\n\n— Cat?! How on earth did you end up here?\n— No time to explain, my friend. Melvin is already waiting for us at the main terminal. Run!\n\nMaybe these truly dedicated professionals could be able to get away with it, but behind each new test lies a huge risk. This time the stakes were higher than ever.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1486426334/size=small/bgcol=ffffff/linkcol=0687f5/track=3378630387/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/dimensions-of-velocity"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1486426334/size=small/bgcol=ffffff/linkcol=0687f5/track=2384849059/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/dimensions-of-velocity"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1486426334/size=small/bgcol=ffffff/linkcol=0687f5/track=2049332642/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/dimensions-of-velocity"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1486426334/size=small/bgcol=ffffff/linkcol=0687f5/track=17578952/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/dimensions-of-velocity"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1486426334/size=small/bgcol=ffffff/linkcol=0687f5/track=1032722994/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/dimensions-of-velocity"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1486426334/size=small/bgcol=ffffff/linkcol=0687f5/track=2231004478/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/dimensions-of-velocity"
+        }
+      ],
+      "imageId": "SL57.jpeg",
+      "remix": ["Martin Jarl", "Alexander Bogdanov"],
+      "type": "albums",
+      "id": "dimensions-of-velocity",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=AzS_MlQQb6w&list=PL-avZEKaOJ941IS5kXyJX9FnWa-dz20F3",
+        "spotify": "https://open.spotify.com/album/0DkZatHnwozpuEelPmcGjW",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/re-fraction-dimensions-of",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/dimensions-of-velocity",
+        "beatport": "https://www.beatport.com/release/dimensions-of-velocity/4060227",
+        "appleMusic": "https://music.apple.com/nl/album/dimensions-of-velocity/1677426392",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL56",
       "date": "2023-03-09T00:00:00",
       "artist": "Various Artists",
