@@ -3361,6 +3361,36 @@
   ],
   "components": [
     {
+      "catalogue": "Mjulev – Component N18",
+      "date": "2023-04-26T00:00:00",
+      "artist": "Mjulev",
+      "albumName": "Component N18",
+      "description": "The katana sword of Cthulhu's revenge emerged from its ancient scabbard, flashing dangerously with a sharpened blade. The venomous weapon is securely hidden in a chest of drawers among other military products and armour, only occasionally catching the eye. This resistant blade is capable of knocking down a necromancer of any level in one blow. When its owner is severely inflicted, it summons the spirit of the \"Whisperer in the Dark\", which carries out a fatal explosion in the area where the enemy is location.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=2057508973/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/component-n18"
+        }
+      ],
+      "imageId": "Mjulev-Component-N18.jpeg",
+      "remix": [],
+      "type": "components",
+      "id": "mjulev-component-N18",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=k02TMb-hdxo",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/mjulev-component-n18",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/track/component-n18",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "Koord – Component N17",
       "date": "2023-04-11T00:00:00",
       "artist": "Koord",
