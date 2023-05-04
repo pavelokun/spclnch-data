@@ -1,6 +1,52 @@
 {
   "albums": [
     {
+      "catalogue": "SL58",
+      "date": "2023-05-04T00:00:00",
+      "artist": "Altone",
+      "albumName": "Repeatability",
+      "description": "— Did Graves rat me out?\n— From top to toe, Doc.\n— In that case, we'll have to return the favour to this greedy jerk.\n\nFriendship is forged in times of trouble. This simple truth can only be verified in practice. While in captivity, Spacelunch had enough time to reflect. Is it appropriate now, when the consequences of a bold escape are about to catch up with both of them, to shoulder the burden of responsibility equally? The answer will be found later, as now is the most appropriate moment for a sneak-pick behind the screen. The rumour about the tragic death of the professor, which was skillfully started in case of emergency, has quickly found its way to the headlines of the respectful press. This misinformation will allow one to lie low, and an abandoned manor in a spatial crevice will serve as a secluded and safe place.\n\n— Melvin asked to keep our heads down until all the attention dies out.\n— Thank you for giving a hand, Cat.\n— Hey, the main thing is that we are together. We'll stay here until the Queen returns, and then we’ll strike back!",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2012596124/size=small/bgcol=ffffff/linkcol=0687f5/track=753977886/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/repeatability"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2012596124/size=small/bgcol=ffffff/linkcol=0687f5/track=1962731510/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/repeatability"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2012596124/size=small/bgcol=ffffff/linkcol=0687f5/track=4241960081/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/repeatability"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2012596124/size=small/bgcol=ffffff/linkcol=0687f5/track=2553109924/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/repeatability"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2012596124/size=small/bgcol=ffffff/linkcol=0687f5/track=3323241409/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/repeatability"
+        }
+      ],
+      "imageId": "SL58.jpeg",
+      "remix": ["Rothchord"],
+      "type": "albums",
+      "id": "repeatability",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_m7JYccoyN-JiOyiqGMM6Er8srGOjKXbik",
+        "spotify": "https://open.spotify.com/album/16a4OD5nFtYWhoRdQ9YW7H",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/altone-repeatability-w",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/repeatability",
+        "beatport": "https://www.beatport.com/release/repeatability/4102417",
+        "appleMusic": "https://music.apple.com/nl/album/repeatability/1682425751",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL57",
       "date": "2023-04-06T00:00:00",
       "artist": "re:fraction",
