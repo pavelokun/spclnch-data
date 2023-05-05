@@ -8913,6 +8913,35 @@
   ],
   "spclnchRecommends": [
     {
+      "catalogue": "Type B. – Kisa [MOVPICVA004]",
+      "date": "2023-05-05T00:00:00",
+      "artist": "Type B.",
+      "albumName": "Kisa [MOVPICVA004]",
+      "description": "This powerful connection between personality and nature, which is balancing light and darkness, is the sacred perception of art. Its visual design symbolizes harmony, openness to the world and the embodiment of ideal proportions not only in music. The philosophical paradigm of the natural origin emerges in tempting rhythmic dances, unprecedented images and detailed percussion accents. The parts of the indivisible whole flicker with bright highlights, creating an exceptional sound canvas.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1506994123&color=%23ff5500&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "Type-B-Kisa-MOVPICVA004.jpeg",
+      "remix": [],
+      "type": "spclnch-recommends",
+      "id": "type-b-kisa-MOVPICVA004",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=1wNs07GV7Ag",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/premiere-type-b-kisa-movpicva004",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "https://movingpicturesrecords.bandcamp.com/album/vernal-equinox-v-a-compilation"
+      }
+    },
+    {
       "catalogue": "Feline Mob – Smuggle [FM002]",
       "date": "2023-05-02T00:00:00",
       "artist": "Feline Mob",
