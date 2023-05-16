@@ -3407,6 +3407,36 @@
   ],
   "components": [
     {
+      "catalogue": "Altone – Component N19",
+      "date": "2023-05-16T00:00:00",
+      "artist": "Altone",
+      "albumName": "Component N19",
+      "description": "A laboratory sample with berserker blood has leaked through several security levels. The sealed test tube contains no lesser threat than any of the existing mutations. After it is injected intravenously, the foreign plasma imposes a Seal of Omnipotence on the subject, causing a frenzy, a powerful mental outburst and bloodlust, dramatically increasing physical capabilities.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=1918881813/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/component-n19"
+        }
+      ],
+      "imageId": "Altone-Component-N19.jpeg",
+      "remix": [],
+      "type": "components",
+      "id": "altone-component-N19",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=1nStx9lTm88",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/altone-component-n19",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/track/component-n19",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "Mjulev – Component N18",
       "date": "2023-04-26T00:00:00",
       "artist": "Mjulev",
