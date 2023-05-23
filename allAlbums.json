@@ -8943,6 +8943,35 @@
   ],
   "spclnchRecommends": [
     {
+      "catalogue": "Matt Thibideau – Serge 5.0 (Rework) [BERGA04]",
+      "date": "2023-05-23T00:00:00",
+      "artist": "Matt Thibideau",
+      "albumName": "Serge 5.0 (Rework) [BERGA04]",
+      "description": "On the famous dub platform \"Berg Audio\", you can find an open-access version of a prototype of the variable frequency clock. A levitating delay and a set of percussion jumpers strengthen the soulful house construction by combining a soft kick, well-aimed claps, and a tube bass line in its structure. This well-developed architecture of operational processes fills the space with volumetric waves and establishes musical etiquette.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1520402302&color=%23ff5500&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "Matt-Thibideau-Serge-5-0-Rework-BERGA04.jpeg",
+      "remix": [],
+      "type": "spclnch-recommends",
+      "id": "matt-thibideau-serge-5-0-rework-BERGA04",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=WlZwyo7zPNY",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/premiere-matt-thibideau-serge-50-rework-berga04",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "https://www.decks.de/track/matt_mark_thibideau-monumental_change/cl8-gp"
+      }
+    },
+    {
       "catalogue": "Type B. – Kisa [MOVPICVA004]",
       "date": "2023-05-05T00:00:00",
       "artist": "Type B.",
