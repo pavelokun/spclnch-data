@@ -1,6 +1,52 @@
 {
   "albums": [
     {
+      "catalogue": "SL59",
+      "date": "2023-06-01T00:00:00",
+      "artist": "Rothchord",
+      "albumName": "Space Exploration",
+      "description": "Having approved the schematics of teleportation through a secure channel, the newly-born wanderers used the quantum overpass as the shortest route to the ancient Temple of Knowledge. Its guests have long been mastering the energy of the deforming vector that serves as a building block in the generation of new worlds.\n\n– It's creepy here! These strange noises are alarming.\n– Cat, distortions of reality in such places happen all the time. Hmm, who’s this looming on the horizon...?\n\nThe approaching silhouette raised his palm in a friendly manner and greeted them with a telepathic message: \"Will and common sense.\" A monk of the Alpha Centauri Order supervised the mystical practices of the Smorings, which were overlooked by modern science. In order to plan all the stages of revenge, it was necessary not only to adopt a thorough approach, but also to resort to the help of an otherworldly force.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4145086121/size=small/bgcol=ffffff/linkcol=0687f5/track=3102340907/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/space-exploration"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4145086121/size=small/bgcol=ffffff/linkcol=0687f5/track=3830080024/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/space-exploration"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4145086121/size=small/bgcol=ffffff/linkcol=0687f5/track=2002349191/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/space-exploration"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4145086121/size=small/bgcol=ffffff/linkcol=0687f5/track=387640402/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/space-exploration"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4145086121/size=small/bgcol=ffffff/linkcol=0687f5/track=229130704/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/space-exploration"
+        }
+      ],
+      "imageId": "SL59.jpeg",
+      "remix": ["Altone"],
+      "type": "albums",
+      "id": "space-exploration",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=ll4iIUri-Xs&list=PL-avZEKaOJ94z2gL6_6-kimuDRYRpfQvz",
+        "spotify": "https://open.spotify.com/album/0CEnt6pHZUPV83VMvZlYlZ",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/rothchord-space-exploration-w",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/space-exploration",
+        "beatport": "https://www.beatport.com/release/space-exploration/4129236",
+        "appleMusic": "https://music.apple.com/nl/album/space-exploration/1687924500",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL58",
       "date": "2023-05-04T00:00:00",
       "artist": "Altone",
