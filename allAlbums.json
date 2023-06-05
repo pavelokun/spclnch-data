@@ -4025,6 +4025,35 @@
   ],
   "podcasts": [
     {
+      "catalogue": "77",
+      "date": "2023-06-05T00:00:00",
+      "artist": "Spiri:tual",
+      "albumName": "spclnch podcast #77",
+      "description": "The magic of numbers and the secrets of design developments are the topics of Spiri:tual's scientific work.\n\nThe restricted territory of the test site SP77 is full of radioactive waste and gloomy bunkers. Lost in oblivion, several panel dormitories are still preserved in this half-empty district. Propaganda banners are still stretched on the roofs to this day, as a reminder of the bygone greatness of the Alliance. Is this a place for parties? If an experienced engineer is behind the turntables, everything becomes possible. When the check-up of the sound system is completed, the main show begins. The timing of the recording contains the riddles from Silat Beksi's consciousness, the futuristic mysticism of Floog and the technical arrangements of Direkt.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1531230010&color=%23ff5500&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "77.jpeg",
+      "remix": [],
+      "type": "podcasts",
+      "id": "spclnch-podcast-77",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=wkVqwuTnbUE",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-77-spiritual",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "https://flat.audio/m/17416",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "76",
       "date": "2023-03-15T00:00:00",
       "artist": "arkadiusz.",
