@@ -3453,6 +3453,36 @@
   ],
   "components": [
     {
+      "catalogue": "Farzan Badie – Component N20",
+      "date": "2023-06-09T00:00:00",
+      "artist": "Farzan Badie",
+      "albumName": "Component N20",
+      "description": "The cover of the Phoenix 63 satellite has lit up – both literally and figuratively – at the Bygone Generations exhibition. The composition of this fluorescent coating still causes controversies in scientific circles. It doesn’t come as a surprise that an owner of its formula would be able to reach a sensational discovery. Before ending up in the private collection, the valuable exhibit has had to go through numerous approvals, envy and even a coup attempt. Here goes another addition to some cosy but well-equipped room.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=1234795477/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/component-n20"
+        }
+      ],
+      "imageId": "Farzan-Badie-Component-N20.jpeg",
+      "remix": [],
+      "type": "components",
+      "id": "farzan-badie-component-N20",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=1k5TI6jhLt4",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/farzan-badie-component-n20",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/track/component-n20",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "Altone – Component N19",
       "date": "2023-05-16T00:00:00",
       "artist": "Altone",
