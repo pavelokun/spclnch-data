@@ -1,6 +1,72 @@
 {
   "albums": [
     {
+      "catalogue": "",
+      "date": "2023-06-22T00:00:00",
+      "artist": "Various Artists",
+      "albumName": "Components B",
+      "description": "Here they are, the precious nuggets created by the universe itself and mined in epic battles! Ten universal components are laid out in a row and labelled for the production of scarce Stamp B fuel. Once the process is over, you can refill a turbojet jetpack with it and lead another research mission to the nearest planets. A new field of cosmology is already available to the public!",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2334438827/size=small/bgcol=ffffff/linkcol=0687f5/track=4277218971/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/components-b"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2334438827/size=small/bgcol=ffffff/linkcol=0687f5/track=2664143181/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/components-b"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2334438827/size=small/bgcol=ffffff/linkcol=0687f5/track=2226118832/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/components-b"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2334438827/size=small/bgcol=ffffff/linkcol=0687f5/track=3630781229/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/components-b"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2334438827/size=small/bgcol=ffffff/linkcol=0687f5/track=3380549307/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/components-b"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2334438827/size=small/bgcol=ffffff/linkcol=0687f5/track=191332648/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/components-b"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2334438827/size=small/bgcol=ffffff/linkcol=0687f5/track=3860889821/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/components-b"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2334438827/size=small/bgcol=ffffff/linkcol=0687f5/track=3199309691/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/components-b"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2334438827/size=small/bgcol=ffffff/linkcol=0687f5/track=1354749991/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/components-b"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2334438827/size=small/bgcol=ffffff/linkcol=0687f5/track=1714926521/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/components-b"
+        }
+      ],
+      "imageId": "components-B.jpeg",
+      "remix": [],
+      "type": "albums",
+      "id": "components-B",
+      "social": {
+        "youtube": "null",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/various-artists-components-b",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/components-b",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL59",
       "date": "2023-06-01T00:00:00",
       "artist": "Rothchord",
