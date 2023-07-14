@@ -1,6 +1,52 @@
 {
   "albums": [
     {
+      "catalogue": "SL60",
+      "date": "2023-07-13T00:00:00",
+      "artist": "Martin Jarl",
+      "albumName": "Bizarre Love Rectangle",
+      "description": "The lost souls have not yet left the psychedelic corridor in which, like in a womb, the universe had been formed before its birth. Here, in the wilderness of superstrings, the grand plan had originated. Only the most experienced can manage to travel to such dimensions. It is no coincidence that the Queen of the Smorings found herself surrounded by lifelines and sectors. At that point, she had no choice but to raise urgent questions and abandon her external and internal evaluations.\n\n\"I'm tired of being strong. The love for my people burdens me with great responsibility, and the calling of a healer takes too much energy. It is difficult to come to terms with the tragedy of childhood while tormenting yourself with the desire to find out the reasons for the disappearance of your spouse. Will these extremes keep conflicting? Let us put an end to resisting our nature. I call you, all-pervading mind, give me your word of reason.\" The cube of Wisdom started spinning approvingly.\n\nPowerful rulers can also fall into the traps of neural connections. Hints, like a dream, quickly dissolve after their occurrence. How not to lose sight of the most important thing?",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1152948678/size=small/bgcol=ffffff/linkcol=0687f5/track=3062380706/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/bizarre-love-rectangle"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1152948678/size=small/bgcol=ffffff/linkcol=0687f5/track=268813407/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/bizarre-love-rectangle"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1152948678/size=small/bgcol=ffffff/linkcol=0687f5/track=4116530322/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/bizarre-love-rectangle"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1152948678/size=small/bgcol=ffffff/linkcol=0687f5/track=3010891728/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/bizarre-love-rectangle"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1152948678/size=small/bgcol=ffffff/linkcol=0687f5/track=1961603988/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/bizarre-love-rectangle"
+        }
+      ],
+      "imageId": "SL60.jpeg",
+      "remix": ["Alexander Bogdanov", "Schulz Audio"],
+      "type": "albums",
+      "id": "bizarre-love-rectangle",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kl_twbu6uej_b5i3aPS9M64fik7ds99RY",
+        "spotify": "https://open.spotify.com/album/7iba7pPtbj5xLk9wtevVZ8",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/martin-jarl-bizarre-love",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/bizarre-love-rectangle",
+        "beatport": "https://www.beatport.com/release/bizarre-love-rectangle/4175721",
+        "appleMusic": "https://music.apple.com/nl/album/bizarre-love-rectangle/1694313146",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "",
       "date": "2023-06-22T00:00:00",
       "artist": "Various Artists",
