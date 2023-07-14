@@ -4167,6 +4167,35 @@
   ],
   "podcasts": [
     {
+      "catalogue": "79",
+      "date": "2023-07-14T00:00:00",
+      "artist": "Mint4000",
+      "albumName": "spclnch podcast #79",
+      "description": "Leipzig is on-air! Codename Mint4000 is broadcasting in the interplanetary frequency range.\n\nThe studio for the radio show, to which the main guest is invited with a vinyl set, is decorated with the artwork of the young Spaceman Golden, who attracted unprecedented attention with his funny shot. In addition to references to the times of freedom, ups and downs, everything here is imbued with unconditional love for music: there are remixes of soul-funk legends, gentle as whipped cream, jazzy house, intricate minimal abstractions and much more. Going live, Lawrence impresses with variability and layering, Boards Of Canada pampers with a fleecy dip, and youANDme exposes their tribal with progressive inserts.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1564825762&color=%23ff5500&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "79.jpeg",
+      "remix": [],
+      "type": "podcasts",
+      "id": "spclnch-podcast-79",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=ISxQ2J9ahUU",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-79-mint4000",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "https://flat.audio/m/17521",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "78",
       "date": "2023-06-26T00:00:00",
       "artist": "Christine Schieffer",
