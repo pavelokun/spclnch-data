@@ -1,6 +1,48 @@
 {
   "albums": [
     {
+      "catalogue": "SPCLNCH07",
+      "date": "2023-07-13T00:00:00",
+      "artist": "Various Artists",
+      "albumName": "Archive E",
+      "description": "— Well, is it working?\n— Shh, I almost got it.\n— If we don't open the damn safe in three tries, we're screwed. The mutagens will be released immediately, turning us into useless, drooling brats.\n— Ew, I can't stand zombies!\n\nCarefully moving the stethoscope along the cold thickness of metal, Cat was listening attentively in an attempt to analyse the clicks. The multiple amplification effect helped to ease the haste that hung in the air and hid between the lines even when one wanted to calm down. The dangerous scam with the intergalactic monetary fund had long matured and was finally executed. There, in the heart of the vault stuffed to the brim with bills and gold, the only feasible option was to guess the code.\n\n— It seems that the lock connects to the opening mechanism, which can be anywhere on the door, via a system of gears.\n— Yeah, that leaves us with either the plasma cutting or C-4.\n\nSpacelunch was awkwardly pulling an inverter out of his suitcase, anticipating a big boom in the same breath. It is hard to know which solution would have come first if the sensor on the smartwatch had not gone off. A squad of stormtroopers was already heading towards them…",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3400944938/size=small/bgcol=ffffff/linkcol=0687f5/track=332222709/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-e"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3400944938/size=small/bgcol=ffffff/linkcol=0687f5/track=2621064004/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-e"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3400944938/size=small/bgcol=ffffff/linkcol=0687f5/track=3263425379/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-e"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3400944938/size=small/bgcol=ffffff/linkcol=0687f5/track=3971607058/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-e"
+        }
+      ],
+      "imageId": "SPCLNCH07.jpeg",
+      "remix": [],
+      "type": "albums",
+      "id": "archive-e",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_k0lOR4UGdcCYrPrZTq8XIGzRqEiTeFF8Y",
+        "spotify": "https://open.spotify.com/album/1sR4qIF7B9aEcuRJNyTCrh",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/various-artists-archive-e-1",
+        "mixcloud": "null",
+        "junoRecords": "https://www.juno.co.uk/products/kooscha-ludowick-altone-tm-shuffle-tapani-archive-e-vinyl/948473-01/",
+        "deejayDe": "https://www.deejay.de/Various_Artists_Archive_E_SPCLNCH07_Vinyl__1012697",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/archive-e",
+        "beatport": "https://www.beatport.com/release/archive-e/4179940",
+        "appleMusic": "https://music.apple.com/nl/album/archive-e-ep/1694881714",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL60",
       "date": "2023-07-13T00:00:00",
       "artist": "Martin Jarl",
