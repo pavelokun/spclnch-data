@@ -1,6 +1,68 @@
 {
   "albums": [
     {
+      "catalogue": "SL61",
+      "date": "2023-08-10T00:00:00",
+      "artist": "Dive Craft",
+      "albumName": "Aquarium Rave",
+      "description": "— Couldn’t you find a more comfortable bathyscaphe? And in general, fish should be inside me and not vice versa. It seems like this little guy doesn't notice anything around him.\n— Hush, fluffy! Unlike his vision, Aquagrut’s hearing is excellent.\n— Why did the monk send us here?\n— Until the Queen returns, we should follow the instructions instead of meowing and whining.\n\nFew people are welcome in the depths of the oceanic abyss of Iguazu. Nevertheless, even an experienced lawbreaker is ready to help those honourable seekers who have got into trouble. Behind his innocent appearance hide a lot of chilling deeds. The conversation has begun with an unpleasant topic.\n\n— To give strangers a decent reception is a matter of honour! However, remember that I despise those who visit unexpectedly.\n— Thank you for your hospitality! And yeah, sorry for what happened in the information storage last time. You see, the feverish rush didn’t allow us…\n— Enough excuses, Spacelunch! You were aware of the degree of responsibility. If that visit had been announced in advance, you both would have already slept with the fishes. The only thing I respect is courage. By the way, what is the name of this funny thing under your nose?\n\nThe tension eased. It was time to get instructions and discuss the task that would be the payment for the crucial help. It may be difficult to justify some goals by means, but some circumstances require decisive action.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2858714537/size=small/bgcol=ffffff/linkcol=0687f5/track=2209277215/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/aquarium-rave"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2858714537/size=small/bgcol=ffffff/linkcol=0687f5/track=4253647404/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/aquarium-rave"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2858714537/size=small/bgcol=ffffff/linkcol=0687f5/track=2590493839/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/aquarium-rave"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2858714537/size=small/bgcol=ffffff/linkcol=0687f5/track=896483820/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/aquarium-rave"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2858714537/size=small/bgcol=ffffff/linkcol=0687f5/track=1713120316/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/aquarium-rave"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2858714537/size=small/bgcol=ffffff/linkcol=0687f5/track=2967333157/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/aquarium-rave"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2858714537/size=small/bgcol=ffffff/linkcol=0687f5/track=2549802849/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/aquarium-rave"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2858714537/size=small/bgcol=ffffff/linkcol=0687f5/track=597300411/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/aquarium-rave"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2858714537/size=small/bgcol=ffffff/linkcol=0687f5/track=1387690222/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/aquarium-rave"
+        }
+      ],
+      "imageId": "SL61.jpeg",
+      "remix": [],
+      "type": "albums",
+      "id": "aquarium-rave",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_ml0ov1u2y3G0kfysPmtWYpfTqZpaz-POI",
+        "spotify": "https://open.spotify.com/album/1xICwcpx3tFWFagY4z4zZO",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/dive-craft-aquarium-rave-sl61",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/aquarium-rave",
+        "beatport": "https://www.beatport.com/release/aquarium-rave/4199295",
+        "appleMusic": "https://music.apple.com/nl/album/aquarium-rave/1697827261",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SPCLNCH07",
       "date": "2023-07-18T00:00:00",
       "artist": "Various Artists",
