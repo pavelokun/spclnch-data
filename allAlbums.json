@@ -9351,6 +9351,35 @@
   ],
   "spclnchRecommends": [
     {
+      "catalogue": "Bauch – Freunde [CC03]",
+      "date": "2023-08-15T00:00:00",
+      "artist": "Bauch",
+      "albumName": "Freunde [CC03]",
+      "description": "What do Bauch's underground interpretations broadcast on Chippy Chasers?\n\nThe crowd, dressed in pedantic clothes, is besotted with ornate dances in the middle of the Town Hall square. Oktoberfest seems to be in full swing. An accordion is heard from everywhere and blurry faces are seen. It is impossible to distinguish them because the festival takes place in a different dimension. Here, schizotypal reversals become the main decoration of curly voice pieces, which melt from the ceremonial fire and glorify friendship. The thrill of percussion jumps over grumbling bass and mescaline synthesizers. The substance of minimalistic stories penetrates ears with infernal charm.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1593101682&color=%23ff5500&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "Bauch-Freunde-CC03.jpeg",
+      "remix": [],
+      "type": "spclnch-recommends",
+      "id": "bauch-freunde-CC03",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=8NqDDXWESIw",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/premiere-bauch-freunde-cc03",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "https://chippychasers.bandcamp.com/album/the-false-and-lying-gods"
+      }
+    },
+    {
       "catalogue": "Nicolas Barnes – Inter (Dust Yard Remix) [DUBCUTS005]",
       "date": "2023-08-02T00:00:00",
       "artist": "Nicolas Barnes",
