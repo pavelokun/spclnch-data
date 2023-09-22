@@ -9411,6 +9411,35 @@
   ],
   "spclnchRecommends": [
     {
+      "catalogue": "Noosa Sound System – Borrowed Frequencies [SLP040]",
+      "date": "2023-09-22T00:00:00",
+      "artist": "Noosa Sound System",
+      "albumName": "Borrowed Frequencies [SLP040]",
+      "description": "Noosa Sound System is featured in the ninth compilation by Slope Point.\n\nSurely you can find a lot in common between the boiling heat of Australia and a siesta under the scorching sun of Barcelona. Besides the hot personality, something more has served as the common ground for the music artist and the label. The notes of a shared view of sound discourse formed the basis of this hazy illustration. Despite the apparent blurriness, it combines saturated deep techno loops and a particularly lively, albeit dreary dub. Transparent, stylish hi-hats and analogue crackles keep pace with swirling effects similar to nocturnal stridulation. Welcome the union of sophistication and simplicity in the fresh musical composition “Borrowed Frequencies”.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1622613534&color=%23ff5500&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "Noosa-Sound-System-Borrowed-Frequencies-SLP040.jpeg",
+      "remix": [],
+      "type": "spclnch-recommends",
+      "id": "noosa-sound-system-borrowed-frequencies-SLP040",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=g7VgUh_O20U",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/premiere-noosa-sound-system-borrowed-frequencies-slp040",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "https://slopepoint.bandcamp.com/album/slope-forms-ix"
+      }
+    },
+    {
       "catalogue": "Eric Louis – Rolling Hills (TM Shuffle Dub) [DA003]",
       "date": "2023-09-01T00:00:00",
       "artist": "Eric Louis",
