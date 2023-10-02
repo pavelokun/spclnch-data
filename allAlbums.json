@@ -4421,6 +4421,35 @@
   ],
   "podcasts": [
     {
+      "catalogue": "81",
+      "date": "2023-10-02T00:00:00",
+      "artist": "Laenk",
+      "albumName": "spclnch podcast #81",
+      "description": "Laenk, as is customary, did not come to be embraced by the guest column empty-handed.\n\nAt first glance, the abandoned village within the boundaries of anomaly 418-R is unremarkable: run-down houses, windy paths, and courtyards covered with neglected thickets. However, fluorescent rain has been pouring down from a cloud that stuck above it for a thousand years.\n\nThat is why the soil around it has turned into a shining canvas, which can become a suitable illumination for any event. One of them was a DJ festival held under the auspices of the Venus Biomolecular Institute. The goal of the organizers was to identify through a visual method the fundamentals of the influence that music has on humans.\n\nAs a master from the registry of the audio stream management, Laenk was invited to the experiment. His mixing of sound volumes is famous for its ability to program the listener with rhythmic vibrations. To make the interaction as efficient as possible, it is necessary to add hidden dub textures full of chilling echoes from Van Bonn, punchy grooves with explosive percussion from Artyom Kozlov, and a composition filled with synth light from Elpierro.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1630416198&color=%23ff5500&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "81.jpeg",
+      "remix": [],
+      "type": "podcasts",
+      "id": "spclnch-podcast-81",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=uTJLjmiTJWI",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-81-laenk",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "https://flat.audio/m/17846",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "80",
       "date": "2023-08-01T00:00:00",
       "artist": "Andrey Pushkarev",
