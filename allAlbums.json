@@ -1,6 +1,48 @@
 {
   "albums": [
     {
+      "catalogue": "SPCLNCH08",
+      "date": "2023-10-05T00:00:00",
+      "artist": "Federsen",
+      "albumName": "Zen Effects",
+      "description": "— I'm glad Chris has let us jam. Listen, what if we start a live duet?\n— Come on, I'm too old for this crap. And how do you manage to do all that with your paws?\n— I just watch educative broadcasts on Alien-TV sometimes. They talk about different software, hardware and approaches to music production.\n\nThe sound was spreading through the body, naturally causing headshakes and goosebumps. It all came down to an instinctive feeling of the world encapsulated in a cosy room. There was a mystery here, the one the comparison with which the previous adventures couldn't stay. Amongst many dimensions, the current one had a particular elusive magnetism. The charm of the home studio reflected punctuality and a love for music. Improvised delights called out kindred spirits, guiding them to the moment of mutual dissolution and self-adjustment.\n\n— But there are lots of curiosities that are out of reach of science…\n— Feel the Zen effect, my friend; the chosen path is not accidental.\n— Cat? Did you just say that?!",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3491335383/size=small/bgcol=ffffff/linkcol=0687f5/track=2883418474/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/zen-effects"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3491335383/size=small/bgcol=ffffff/linkcol=0687f5/track=3723509944/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/zen-effects"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3491335383/size=small/bgcol=ffffff/linkcol=0687f5/track=2419587403/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/zen-effects"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3491335383/size=small/bgcol=ffffff/linkcol=0687f5/track=2635519411/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/zen-effects"
+        }
+      ],
+      "imageId": "SPCLNCH08.jpeg",
+      "remix": ["Kooscha"],
+      "type": "albums",
+      "id": "zen-effects",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_nVW8Zu6k4iBIcYn9EVhq7mThco9vRrUYA",
+        "spotify": "https://open.spotify.com/album/1CFggmBT22F1pRGnaXAfRL",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/federsen-zen-effects-w-kooscha",
+        "mixcloud": "null",
+        "junoRecords": "https://www.juno.co.uk/products/federsen-zen-effects-vinyl/964162-01/",
+        "deejayDe": "https://www.deejay.de/Federsen_Zen_Effects_EP_SPCLNCH08_Vinyl__1016221",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/zen-effects",
+        "beatport": "https://www.beatport.com/release/zen-effects/4277956",
+        "appleMusic": "https://music.apple.com/nl/album/zen-effects/1708752157",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL62",
       "date": "2023-09-28T00:00:00",
       "artist": "Various Artists",
