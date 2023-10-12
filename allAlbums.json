@@ -4463,6 +4463,35 @@
   ],
   "podcasts": [
     {
+      "catalogue": "82",
+      "date": "2023-10-12T00:00:00",
+      "artist": "Armin Bender",
+      "albumName": "spclnch podcast #82",
+      "description": "Armin Bender has confidently joined the team of musical tomb raiders.\n\nThe ancestors’ dimension attracts with mysteries and its resemblance to the familiar historical past, but its furious guards are dangerous. To get rid of them, it is necessary to follow a particular frequency. Among the spots of quicksands, you can hardly notice the paths leading to the monument of electronic art.\n\nUnravelling the system of chambers, galleries, and ventilation ducts is only possible in a specific state of mind, the one close to sound reflection. An unstoppable German adventurer volunteered to pave the way to the dub-treasury by employing a unique code that bypasses the traps. Woven into its structure are enchanted ultra rhythms with Per Hammar’s secret messages and signals, Krisz Deak’s ephemeral high-level processes, and Donato Dozzy’s flow of moderate forms and spiritual states.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1638169983&color=%23ff5500&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "82.jpeg",
+      "remix": [],
+      "type": "podcasts",
+      "id": "spclnch-podcast-82",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=Tqpo7ULZYTI",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-82-armin-bender",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "https://flat.audio/m/17900",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "81",
       "date": "2023-10-02T00:00:00",
       "artist": "Laenk",
