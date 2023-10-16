@@ -3801,6 +3801,36 @@
   ],
   "components": [
     {
+      "catalogue": "Armin Kheyrdan – Component N23",
+      "date": "2023-10-16T00:00:00",
+      "artist": "Armin Kheyrdan",
+      "albumName": "Component N23",
+      "description": "The oracle’s dodecahedron is the most important attribute of the Druid class. According to mythological legend, a glass polyhedron was used on the sixth lunar day for fortunetelling rituals, witchcraft and astronomical calculations. Not every owner of this attribute could perform the ceremony obligatory recorded in Ogham’s secret writing. Since ancient times, the dodecahedron, which has been passed down the line from member to member of an inner circle, has been considered a symbol of wisdom, whereas its keeper has possessed immense power.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=1982080279/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/component-n23"
+        }
+      ],
+      "imageId": "Armin-Kheyrdan-Component-N23.jpeg",
+      "remix": [],
+      "type": "components",
+      "id": "armin-kheyrdan-component-N23",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=5qvqzfmxeuQ&t=1s",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/armin-kheyrdan-component-n23",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/track/component-n23",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "Anatidae – Component N22",
       "date": "2023-08-29T00:00:00",
       "artist": "Anatidae",
