@@ -1,6 +1,56 @@
 {
   "albums": [
     {
+      "catalogue": "SL63",
+      "date": "2023-10-26T00:00:00",
+      "artist": "Cold Out",
+      "albumName": "Cold Vibrations",
+      "description": "– Where are we?\n– Doc, don't panic. Keep yourself warm. Your teeth are chattering.\n– What the h-h-hell is g-g-going on?! Is this Bigfoot?\n\nTwo hours earlier.\n\nA heavy door, slammed shut in the face of the pursuers, served not only as a life-saving barrier, but also as a trap. Looking around, Cat realized that he had ended up in a freezer. The undercoat could keep him warm for some time, but his energy had left him. He spent what was left of it on dragging the professor. Frustration and confusion made his heart beat faster. A few moments later, it became obvious that there was more to the room than just the refrigerator. An icy dimension stretched all around. It was unknown how long the fugitives would have to stay there. Spacelunch regained consciousness, trying to explain what hallucinations he had seen as the result of intoxication.\n\n– Hehe! Pure skill and no cheating! The video tutorials on how to start a fire from Travel-TV worked. At least we won’t turn into icicles for the time being.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=510434208/size=small/bgcol=ffffff/linkcol=0687f5/track=1984002613/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/cold-vibrations"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=510434208/size=small/bgcol=ffffff/linkcol=0687f5/track=3435165521/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/cold-vibrations"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=510434208/size=small/bgcol=ffffff/linkcol=0687f5/track=919425940/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/cold-vibrations"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=510434208/size=small/bgcol=ffffff/linkcol=0687f5/track=2931968962/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/cold-vibrations"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=510434208/size=small/bgcol=ffffff/linkcol=0687f5/track=650616390/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/cold-vibrations"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=510434208/size=small/bgcol=ffffff/linkcol=0687f5/track=30484950/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/cold-vibrations"
+        }
+      ],
+      "imageId": "SL63.jpg",
+      "remix": ["Microlot"],
+      "type": "albums",
+      "id": "cold-vibrations",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_nM1DCU8citeliev3arpDkoiVaT-tuYzV4",
+        "spotify": "https://open.spotify.com/album/7nQQvdg5P55IxDY1NtsEes",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/cold-out-cold-vibrations-w",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/cold-vibrations",
+        "beatport": "https://www.beatport.com/release/cold-vibrations/4291025",
+        "appleMusic": "https://music.apple.com/nl/album/cold-vibrations/1710546080",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SPCLNCH08",
       "date": "2023-10-05T00:00:00",
       "artist": "Federsen",
