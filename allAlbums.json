@@ -3851,6 +3851,36 @@
   ],
   "components": [
     {
+      "catalogue": "Faserklang – Component N24",
+      "date": "2023-10-30T00:00:00",
+      "artist": "Faserklang",
+      "albumName": "Component N24",
+      "description": "The fireproof gloves are designed for use in extremely high temperature environments and protect against thermal effects of maximum intensity. Thanks to special Kevlar inserts they belong to the armor protector class. Due to the presence of an unknown alloy, they have an adaptive anatomy that ensures a perfect fit on any hand. The outer part hides toxic spikes that shoot out when the wearer is immobilized for a long time. Last used in the depths of the infernal dimension.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=3457789175/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/component-n24"
+        }
+      ],
+      "imageId": "Faserklang-Component-N24.jpeg",
+      "remix": [],
+      "type": "components",
+      "id": "faserklang-component-N24",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=EnIpZfvKJAo",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/faserklang-component-n24",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/track/component-n24",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "Armin Kheyrdan – Component N23",
       "date": "2023-10-16T00:00:00",
       "artist": "Armin Kheyrdan",
