@@ -4573,6 +4573,35 @@
   ],
   "podcasts": [
     {
+      "catalogue": "83",
+      "date": "2023-11-01T00:00:00",
+      "artist": "Sa3b",
+      "albumName": "spclnch podcast #83",
+      "description": "Sa3b has prepared treats with a smooth consistency and a strong dub flavour.\n\nThe reason for the dinner party is the eve of All Saints' Day. Halloween will accept any adornment and imagery, be it painted faces with sinister grimaces or a costume of a Minimal-antagonist. Jack-o-lanterns ward off all evil and complement the themed decorations while the main guest paints pragmatic silhouettes on the musical canvas.\n\nThe pervasive mix sprawls like ivy using effective sonic rebuses and sombre semantic thickets. The close ties of Lebanese culture promote its further development, which finds expression in a romanticised approach and a keen eye for genre variations. The collective image of the selection is vast: the outlines of coastal streets, dim lights and suppressed whispers are evident in Alex Humann's remix, whereas Code Deploy's spiralling rhythmic pattern with its chirping tops gives you goosebumps, and Audub lulls you to sleep with a lamplight glow and goodbyes.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1654220562&color=%23ff5500&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "83.jpeg",
+      "remix": [],
+      "type": "podcasts",
+      "id": "spclnch-podcast-83",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=cNvvsTVb3G8&t=1s",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-83-sa3b",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "https://flat.audio/m/17975",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "82",
       "date": "2023-10-12T00:00:00",
       "artist": "Armin Bender",
