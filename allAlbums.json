@@ -9740,6 +9740,35 @@
   ],
   "spclnchRecommends": [
     {
+      "catalogue": "Ordos Mk.0 – Awash",
+      "date": "2023-11-06T00:00:00",
+      "artist": "Ordos Mk.0",
+      "albumName": "Awash",
+      "description": "A new stellar system Ordos Mk.0 has been discovered by astronomers and has already exceeded all expectations!\n\nThe daunting unknown has finally led scientists to four milestone findings in the vast musical universe. Each of the cosmic objects is difficult to see with the naked eye, but when looked at closer, it becomes obvious that their kinematic characteristics are virtually identical. This is a sign indicating the birth of a stable electronic harmony.\n\nSurrounded by pad nebulae and bass meteorites is the celestial body \"Awash\". On its surface a real miracle occurs: a thin sprout of life breaks through a soil saturated by thoughtfully arranged processes. A multitude of percussion pulsars rhythmically surrounds the planet \"Icy Beach Breez\", named after its melodic sound environment. The orbit of the shimmering giant \"Ember\" features high-temperature vocal samples, dense lows and a noticeable dub drawl. The space-time tunnel of \"Wormhole\" is embodied in an acoustic sphere and absorbs powerful synthesiser waves and various micro-signals that cause mild auditory disorientation. In the near future, this amazing place will likely attract the frequent attention of audiophiles from neighbouring galaxies.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1657879350&color=%23ff5500&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "Ordos-Mk0-Awash.jpeg",
+      "remix": [],
+      "type": "spclnch-recommends",
+      "id": "ordos-mk0-awash",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=Df0w9U61bI4",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/premiere-ordos-mk0-awash",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "https://ordosmarkzero.bandcamp.com/album/echoes"
+      }
+    },
+    {
       "catalogue": "Masupilami – Static Motion (Tommaso Pizzelli Remix) [CC04]",
       "date": "2023-09-25T00:00:00",
       "artist": "Masupilami",
