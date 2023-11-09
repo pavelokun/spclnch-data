@@ -3851,6 +3851,36 @@
   ],
   "components": [
     {
+      "catalogue": "Armin Bender – Component N25",
+      "date": "2023-11-09T00:00:00",
+      "artist": "Armin Bender",
+      "albumName": "Component N25",
+      "description": "At first glance, the Smoring dice look like an unremarkable trinket. However, it is hard to find a more unpredictable and all-powerful artefact. Made of rare elven wood, they are used in emergencies that can be lethal. Instead of numbers, the dice are inscribed with mysterious symbols that, when combined, can grant various enhancements, such as the ability to break willpower, become unnaturally attractive, and many more. A side effect can be a karmic vortex that collapses all past, present, and future events into a single point in time. If this combination is used, the person instantly goes insane.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=4250724285/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/component-n25"
+        }
+      ],
+      "imageId": "Armin-Bender-Component-N25.jpeg",
+      "remix": [],
+      "type": "components",
+      "id": "armin-bender-component-N25",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=6t0qxhEwe-g",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/armin-bender-component-n25",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/track/component-n25",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "Faserklang – Component N24",
       "date": "2023-10-30T00:00:00",
       "artist": "Faserklang",
