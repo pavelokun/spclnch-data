@@ -1,6 +1,52 @@
 {
   "albums": [
     {
+      "catalogue": "SL64",
+      "date": "2023-11-23T00:00:00",
+      "artist": "Microlot",
+      "albumName": "Nocturnal Instinct",
+      "description": "After the Smoring Queen had cut through space using teleportation, she saw a disturbing scene: the lifeless silhouette of Spacelunch, freezing Cat, and thin smoke from a withered campfire. An authoritative voice whispered: \"The endless hardships have gone too far to be considered just a way of life.\"\n\nAn energy field emerged from her hands, smoothly drawing a sphere, and engulfed the professor and his partner. They began to recover slowly, looking at each other, surprised. Now nothing was threatening to anyone, and through the layer of frosty silence, the sprouts of dialogue began to break through.\n\n– Why don't you tell me what that means?! And where are my glasses anyway?\n– For Aquagrut, keeping your word is a law. He put you to the test. I knew all about it, but I was a little too late, so I opened a portal to this place for safety.\n– Is Bigfoot real?\n– Yes. His name is Hrank.\n\nOne can learn a lesson from the chain of events that have spread outrage across several galaxies finally making clear the intentions of those who truly wanted to help. On the road to self, there appear to be way more difficulties than one might think.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=798251058/size=small/bgcol=ffffff/linkcol=0687f5/track=1757635404/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/nocturnal-instinct"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=798251058/size=small/bgcol=ffffff/linkcol=0687f5/track=3115188815/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/nocturnal-instinct"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=798251058/size=small/bgcol=ffffff/linkcol=0687f5/track=718240510/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/nocturnal-instinct"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=798251058/size=small/bgcol=ffffff/linkcol=0687f5/track=470627295/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/nocturnal-instinct"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=798251058/size=small/bgcol=ffffff/linkcol=0687f5/track=1422487210/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/nocturnal-instinct"
+        }
+      ],
+      "imageId": "SL64.jpg",
+      "remix": ["Kooscha"],
+      "type": "albums",
+      "id": "nocturnal-instinct",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lreWS-Kcx5_eGpP16CfxdzDaLmUAqQcaI",
+        "spotify": "https://open.spotify.com/album/1n2qytlxRxhrKVcal5GK8U?go=1&nd=1&dlsi=71d14596619d4bba",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/microlot-nocturnal-instinct-w",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/nocturnal-instinct",
+        "beatport": "https://www.beatport.com/release/nocturnal-instinct/4325136",
+        "appleMusic": "https://music.apple.com/nl/album/nocturnal-instinct/1714604474",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL63",
       "date": "2023-10-26T00:00:00",
       "artist": "Cold Out",
