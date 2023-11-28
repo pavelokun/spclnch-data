@@ -3897,6 +3897,36 @@
   ],
   "components": [
     {
+      "catalogue": "Lukas Midub – Component N26",
+      "date": "2023-11-28T00:00:00",
+      "artist": "Lukas Midub",
+      "albumName": "Component N26",
+      "description": "The scarlet beast amulet was obtained by one of the heirs of a vanished Martian civilization and sold in the vicinity of Spaceport 15. The pendant with a precious stone emphasized the high status of ancient rulers, and was a symbol of hardening in bloody battles as well. In rare cases it had engraved one of the six deities on the reverse side, which was applied by special order of the Senate. Does not possess any power, but seems to have remained in a single copy. Valued in merchants' shops as an item with the tag “legendary”.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=2786740271/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/component-n26"
+        }
+      ],
+      "imageId": "Lukas-Midub-Component-N26.jpeg",
+      "remix": [],
+      "type": "components",
+      "id": "lukas-midub-component-N26",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=566lUsNXx2c&t=3s",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/lukas-midub-component-n26",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/track/component-n26",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "Armin Bender – Component N25",
       "date": "2023-11-09T00:00:00",
       "artist": "Armin Bender",
