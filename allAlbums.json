@@ -4679,6 +4679,35 @@
   ],
   "podcasts": [
     {
+      "catalogue": "84",
+      "date": "2023-12-05T00:00:00",
+      "artist": "Monosphere",
+      "albumName": "spclnch podcast #84",
+      "description": "Monosphere is commissioning his new design creation.\n\nThe multi-purpose research unit with flight number 84 has been successfully launched and has already delivered all mission participants to the orbit of the Mesozoic planet. The cruiser is equipped with an elaborate communication system and consists of various parts: an engineering deck, photon torpedo launchers, defence deflectors, an antimatter converter and proton sails.\n\nA majestic landscape opens up from the observation compartment. Climbing onto the command deck, it is possible to see every detail out there with the help of advanced analysis mechanisms. Auxiliary shuttles provide rapid transportation of crew members to and from the celestial body. Right now, however, the docking airlocks are inactive because something important is happening.\n\nAn electro-sonic workshop with collectable dub-techno textures captures the attention of the entire crew. The piercing aesthetic of information becomes a real discovery surrounded by pile-driving percussion, atomic pads, delays and reverbs. The non-linear drawing of the acoustic structure builds up a story by fixing the reference points: interstellar synthesiser dust, shimmering vocal pulsars, amorphous lows and omnipresent rhythmic asteroids.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1682705814&color=%23ff5500&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "84.jpeg",
+      "remix": [],
+      "type": "podcasts",
+      "id": "spclnch-podcast-84",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=PtXk-1NY7U8",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-84-monosphere",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "https://flat.audio/m/18077",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "83",
       "date": "2023-11-01T00:00:00",
       "artist": "Sa3b",
