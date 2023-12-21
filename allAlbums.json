@@ -1,6 +1,56 @@
 {
   "albums": [
     {
+      "catalogue": "SL65",
+      "date": "2023-12-21T00:00:00",
+      "artist": "Ellis Be",
+      "albumName": "Unexpected Ways",
+      "description": "Finally, the long wanderings through the flatlands drowned in ice were left behind. Here, in the heart of the royal chambers, was a concealed room for the guests of honour: a suite of apartments with enhanced security and camouflage systems. Spacelunch was clearly undernourished, so Hrank kept a close eye on him. Cat curled up and was chasing butterflies in the backyard in his sleep. Everything in the interior spoke of tranquillity.\n\nThe harvest of quests that make your blood run cold exceeded any expectations, so the time to prioritize has come. Much of what happened was the result of indiscretion and agitation that have not yet left anyone without consequences. Hiding under the pretext of an accident was too tiresome. It was time to come out of the shadows of doubts and fears. Besides, the professor was determined to get even with Corporal Graves for the frame-up at the auction.\n\nThe new sunglasses, prepared as a gift, lay neatly on the bed and symbolized not only mutual assistance but also the calm before the storm. The storm of new adventures and struggle against the dark forces which from now on will have to deal with a coalition of allies. There is no coming back.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3120613110/size=small/bgcol=ffffff/linkcol=0687f5/track=130258647/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/unexpected-ways"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3120613110/size=small/bgcol=ffffff/linkcol=0687f5/track=1367217657/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/unexpected-ways"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3120613110/size=small/bgcol=ffffff/linkcol=0687f5/track=808760325/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/unexpected-ways"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3120613110/size=small/bgcol=ffffff/linkcol=0687f5/track=900259143/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/unexpected-ways"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3120613110/size=small/bgcol=ffffff/linkcol=0687f5/track=2088910526/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/unexpected-ways"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3120613110/size=small/bgcol=ffffff/linkcol=0687f5/track=620715649/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/unexpected-ways"
+        }
+      ],
+      "imageId": "SL65.jpg",
+      "remix": ["Holensen & Ewy", "Modström", "Nicolas Barnes"],
+      "type": "albums",
+      "id": "unexpected-ways",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_klQyhf0trfynnXIaOFpNLRZV8XuVK5TGY",
+        "spotify": "https://open.spotify.com/album/1zwWKlA9YmRLvEOmTsAO9o?go=1&nd=1&dlsi=bbf58e2ee25a4f1b",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/ellis-be-unexpected-ways-w",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/unexpected-ways",
+        "beatport": "https://www.beatport.com/release/unexpected-ways/4357036",
+        "appleMusic": "https://music.apple.com/nl/album/unexpected-ways/1718611135",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL64",
       "date": "2023-11-23T00:00:00",
       "artist": "Microlot",
