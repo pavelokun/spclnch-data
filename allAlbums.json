@@ -4789,6 +4789,35 @@
   ],
   "podcasts": [
     {
+      "catalogue": "85",
+      "date": "2023-12-27T00:00:00",
+      "artist": "Dust Yard",
+      "albumName": "spclnch podcast #85",
+      "description": "Dust Yard is doing some transitional styling in the name of the winter solstice.\n\nLunar Santa is in a hurry to congratulate everyone who has behaved well this year. The sack with cherished gifts is stuffed to the top: there's a model rocket booster, a brand-new storybook, and even a can of surströmming. The only thing that is not in the bag is a festive compilation for body and soul. The French alchemist will provide it, more than compensating for the lack.\n\nIn the middle of a frozen lake, an act dedicated to musical passions takes place. The careful flow of the rhythm warms you up like a mug of hot chocolate on a frosty day. Ki.Mi.'s remix gets the blood pumping with free space: relentless light heats, balanced lows and mysterious rustles. Nadja Lind enchants with her treatment of velvety French, sublime brass and magical synth melody, while Makam sums it up with monumental rumbles, distant pulses and pastel pads.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1700871135&color=%23ff5500&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "85.jpeg",
+      "remix": [],
+      "type": "podcasts",
+      "id": "spclnch-podcast-85",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=jiNPlu1yPho",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-85-dust-yard",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "https://flat.audio/m/18212",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "84",
       "date": "2023-12-05T00:00:00",
       "artist": "Monosphere",
