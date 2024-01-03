@@ -1,6 +1,92 @@
 {
   "albums": [
     {
+      "catalogue": "SL2023",
+      "date": "2023-12-29T00:00:00",
+      "artist": "Various Artists",
+      "albumName": "The Best of spclnch 2023",
+      "description": "Refuelling before a new long journey is the key to great accomplishments! True adventurers should also grab a bite to eat and stock up on provisions. On the menu is a Michelin set made from the sounds of the year 2023.\n\nSuch tasty treats are to everyone's liking, be it the creators of unique audio textures, the supporters whose attention warms up the hearts, or the whole project team. In the new year, may self-acceptance accompany you, while the strong faith in your choices light the way to the exploration of uncharted creative constellations!",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=229953197/size=small/bgcol=ffffff/linkcol=0687f5/track=4177505433/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2023"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=229953197/size=small/bgcol=ffffff/linkcol=0687f5/track=3505371265/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2023"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=229953197/size=small/bgcol=ffffff/linkcol=0687f5/track=3618317474/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2023"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=229953197/size=small/bgcol=ffffff/linkcol=0687f5/track=972397811/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2023"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=229953197/size=small/bgcol=ffffff/linkcol=0687f5/track=3192199934/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2023"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=229953197/size=small/bgcol=ffffff/linkcol=0687f5/track=2744129248/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2023"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=229953197/size=small/bgcol=ffffff/linkcol=0687f5/track=1601286690/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2023"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=229953197/size=small/bgcol=ffffff/linkcol=0687f5/track=56165155/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2023"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=229953197/size=small/bgcol=ffffff/linkcol=0687f5/track=2305156374/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2023"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=229953197/size=small/bgcol=ffffff/linkcol=0687f5/track=2292865009/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2023"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=229953197/size=small/bgcol=ffffff/linkcol=0687f5/track=311082010/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2023"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=229953197/size=small/bgcol=ffffff/linkcol=0687f5/track=1665702378/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2023"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=229953197/size=small/bgcol=ffffff/linkcol=0687f5/track=2735756479/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2023"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=229953197/size=small/bgcol=ffffff/linkcol=0687f5/track=803152211/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2023"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=229953197/size=small/bgcol=ffffff/linkcol=0687f5/track=4103767692/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2023"
+        }
+      ],
+      "imageId": "SL2023.jpeg",
+      "remix": ["Basicnoise", "Holensen & Ewy"],
+      "type": "albums",
+      "id": "the-best-of-spclnch-2023",
+      "social": {
+        "youtube": "null",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/teaser-various-artists-the-best-of-spclnch-2023-sl2023",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2023",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL65",
       "date": "2023-12-21T00:00:00",
       "artist": "Ellis Be",
