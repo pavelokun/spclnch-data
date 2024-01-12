@@ -4875,6 +4875,35 @@
   ],
   "podcasts": [
     {
+      "catalogue": "86",
+      "date": "2024-01-11T00:00:00",
+      "artist": "Eric Louis",
+      "albumName": "spclnch podcast #86",
+      "description": "Eric Louis conducts a demonstration of quantum musical projections.\n\nSpirit Canyon Solo is more than just a performance. It's a true sonic spectacle for true fans of intergalactic dub techno. An express shuttle brings all the initiates to the delay mystery to get them illuminate the cultural and natural heritage of the planet Kepler-62e.\n\nThe best landscapes are selected to accompany this spatial audio. Benevolent authentic creations swoop around: from ubiquitous reverbs and rhythm section philosophy to extended chants and enriching overtone textures. The breath of life with its mysterious loops and neat melodic swaying inflates the uninhabited wasteland.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1714338057&color=%23ff5500&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "86.jpeg",
+      "remix": [],
+      "type": "podcasts",
+      "id": "spclnch-podcast-86",
+      "social": {
+        "youtube": "null",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-86-eric-louis",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "https://flat.audio/m/18264",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "85",
       "date": "2023-12-27T00:00:00",
       "artist": "Dust Yard",
