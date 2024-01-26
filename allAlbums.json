@@ -4033,6 +4033,36 @@
   ],
   "components": [
     {
+      "catalogue": "Sebby Kowal – Component N29",
+      "date": "2024-01-26T00:00:00",
+      "artist": "Sebby Kowal",
+      "albumName": "Component N29",
+      "description": "The Interdimensional Crystal is a mysterious artifact with the ability to manipulate time and space. Its shape resembles a three-dimensional fractal polyhedron, constantly changing its geometry. Capable of simulating loops that allow travel to the past or future. When activated, it creates a time bubble within which there is an isolated space that is not subject to the laws of physics.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=45193236/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/component-n29"
+        }
+      ],
+      "imageId": "Sebby-Kowal-Component-N29.jpeg",
+      "remix": [],
+      "type": "components",
+      "id": "sebby-kowal-component-N29",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=n9xDotOKeH8&t=1s",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/sebby-kowal-component-n29",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/track/component-n29",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "Madikma – Component N28",
       "date": "2023-12-18T00:00:00",
       "artist": "Madikma",
