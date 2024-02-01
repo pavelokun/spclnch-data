@@ -1,6 +1,56 @@
 {
   "albums": [
     {
+      "catalogue": "SL66",
+      "date": "2024-02-01T00:00:00",
+      "artist": "BT Gate X-138",
+      "albumName": "Maskinfabrikk",
+      "description": "– Uhh. We seem to have some problems.\n– We?! Have you forgotten who has protected your cowardly ass? I'll put out my cigar on it and then feed you to piranhas if you don't find out where those two bony scumbags are hiding.\n– Much obliged, boss!\n– Stop trembling, you goddamn asskisser. I give you 48 hours to find them.\n\nMinimal Antagonist was the one before whom all intergalactic ranks lost their power. Corporal Graves was no exception. An animal fear took over him every time he had to look into the eyes of the creature of darkness that had taken many greedy under control. The rumours of Spacelunch’s survival had remained rumours until word came out from the Ice Dimension.\n\n– My men spotted Cat in the company of a man who looked much like the professor.\n– Pray they don't show up here before they're found. Now get out of here.\n\nThe corporal hurried away slurping nervously. The time to come up with a new plan was melting away inexorably: the bid-rigging could be discovered at any moment.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=593484767/size=small/bgcol=ffffff/linkcol=0687f5/track=3102585672/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/maskinfabrikk"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=593484767/size=small/bgcol=ffffff/linkcol=0687f5/track=1431545811/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/maskinfabrikk"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=593484767/size=small/bgcol=ffffff/linkcol=0687f5/track=317307076/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/maskinfabrikk"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=593484767/size=small/bgcol=ffffff/linkcol=0687f5/track=2356153925/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/maskinfabrikk"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=593484767/size=small/bgcol=ffffff/linkcol=0687f5/track=2030022612/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/maskinfabrikk"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=593484767/size=small/bgcol=ffffff/linkcol=0687f5/track=1421422744/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/maskinfabrikk"
+        }
+      ],
+      "imageId": "SL66.jpg",
+      "remix": [],
+      "type": "albums",
+      "id": "maskinfabrikk",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=zryiIWDz96M&list=PL-avZEKaOJ95KFx9qYeLDxBj5GEyOni95",
+        "spotify": "https://open.spotify.com/album/1qoV4vl7vc8zaQERYu0PSm?go=1&nd=1&dlsi=4e11635df32a4b0f",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/bt-gate-x-138-maskinfabrikk-1",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/maskinfabrikk",
+        "beatport": "https://www.beatport.com/release/maskinfabrikk/4394671",
+        "appleMusic": "https://music.apple.com/nl/album/maskinfabrikk/1724140971",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL2023",
       "date": "2023-12-29T00:00:00",
       "artist": "Various Artists",
