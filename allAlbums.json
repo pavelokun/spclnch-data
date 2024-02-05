@@ -4985,6 +4985,35 @@
   ],
   "podcasts": [
     {
+      "catalogue": "87",
+      "date": "2024-02-05T00:00:00",
+      "artist": "Interpolarm",
+      "albumName": "spclnch podcast #87",
+      "description": "Interpolarm provides us a groovy soundtrack for a journey to far-reaching cities.\n\nPlanet travelling is a long-exhausting expedition filled with downtime. Lonely hours surround by blinking lights with pages upon pages of celestial cartography on the docket can be a bit of a rigmarole. There isn't enough coffee in a solar day to keep our attention. We do enjoy the occasional warning bleeps on our console's that make their presence known but we need a more involved score to keep our focus and raise our spirit's.\n\nEnter Interpolarm to satisfy this lust for life and give us something to get up to. Filled with infectious beats and rhythms that blend perfectly, the rise of energy throughout this odyssey verges on hedonistic. The organic drums resonate over lunar sounding accents is a mighty mix of space and land perfect for star-cruising. The occasional vocal passages just increases the vigor to overload.\n\nWe wonder if homebase will mind if this ship is set to autopilot while we dance.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1738303356&color=%23ff5500&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "87.jpeg",
+      "remix": [],
+      "type": "podcasts",
+      "id": "spclnch-podcast-87",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=e-_IgIR2EYc&t=2s",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-87-interpolarm",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "https://flat.audio/m/18478",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "86",
       "date": "2024-01-11T00:00:00",
       "artist": "Eric Louis",
