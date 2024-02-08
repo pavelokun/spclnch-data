@@ -1,6 +1,48 @@
 {
   "albums": [
     {
+      "catalogue": "SPCLNCH09",
+      "date": "2024-02-08T00:00:00",
+      "artist": "Basicnoise",
+      "albumName": "Symmetry",
+      "description": "– Meow, Doc! Are you serious?!\n– Hopefully, now we'll be able to program the cognitive processes of different creatures.\n– The intranasal mutagen?\n– With consciousness, too!\n\nSpacelunch devoted all of his spare time to developing the virus. Once in the body, its molecules activate: they replace the configuration of neurotransmitters and start evolving independently. A small dosage of vapours reactivates brain navigation, whereas readings are taken from a nano-oscilloscope and sent to a tablet for further analysis. Augmented reality has long gone beyond virtuality, ladies and gentlemen!\n\nThe simulation of the collective mind has undergone a series of public tests initiated by enthusiasts from the Venus Biomolecular Institute. After a data leak from the lab's journal, the dangerous technology could have fallen into the hands of Aerospace Corporation, but luckily was intercepted by the Meta-Warp operational unit. Putting the development on pause, they shut down access to any information about the project. It remained unexplored, but the Professor's inquisitive mind wanted to understand the discovery that could change the future.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2362693702/size=small/bgcol=ffffff/linkcol=0687f5/track=4173842987/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/symmetry"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2362693702/size=small/bgcol=ffffff/linkcol=0687f5/track=1064413559/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/symmetry"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2362693702/size=small/bgcol=ffffff/linkcol=0687f5/track=813812913/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/symmetry"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2362693702/size=small/bgcol=ffffff/linkcol=0687f5/track=4083232152/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/symmetry"
+        }
+      ],
+      "imageId": "SPCLNCH09.jpeg",
+      "remix": ["BDTom"],
+      "type": "albums",
+      "id": "symmetry",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_k7hABFgdy0TO-G8T5QsSi9p-Bho-P_ui0",
+        "spotify": "https://open.spotify.com/album/08y0jUMg2mT1GJBglP1fwx?go=1&nd=1&dlsi=1831562de1b04668",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/basicnoise-symmetry-w-bdtom",
+        "mixcloud": "null",
+        "junoRecords": "https://www.juno.co.uk/products/basicnoise-symmetry-vinyl/990776-01/",
+        "deejayDe": "https://www.deejay.de/Basicnoise_Symmetry_SPCLNCH09_Vinyl__1036458",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/symmetry",
+        "beatport": "https://www.beatport.com/release/symmetry/4396209",
+        "appleMusic": "https://music.apple.com/nl/album/symmetry-ep/1724372104",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL66",
       "date": "2024-02-01T00:00:00",
       "artist": "BT Gate X-138",
