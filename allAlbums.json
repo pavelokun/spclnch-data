@@ -1,6 +1,56 @@
 {
   "albums": [
     {
+      "catalogue": "SL67",
+      "date": "2024-02-29T00:00:00",
+      "artist": "Leomar",
+      "albumName": "Labyrinths Of Mind",
+      "description": "In their attempts to find any clues to Graves' whereabouts, they'd been going over the key memories stored as terabytes of data on USB drives for hours, all in vain.\n\n– Cat, can we just call it a night? Looks like we got nothing.\n– We'll search as long as it takes! We must be missing something...\n\nPlugging in another flash disk, the professor dived into the endless labyrinths of mind. Moving through the foggy streets of Chinatown, he scrutinized even the most insignificant details. Once in a narrow alleyway, a lamppost came into view, on which there was glued, among many others, an old advertisement: \"Implement an idea into an individual's mind through dreaming.\" Spacelunch disconnected from the neural processor that same moment and cried: \"This is it!\" Now they knew exactly what to do next.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1106388273/size=small/bgcol=ffffff/linkcol=0687f5/track=684636109/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/labyrinths-of-mind"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1106388273/size=small/bgcol=ffffff/linkcol=0687f5/track=4150092908/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/labyrinths-of-mind"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1106388273/size=small/bgcol=ffffff/linkcol=0687f5/track=3625046557/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/labyrinths-of-mind"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1106388273/size=small/bgcol=ffffff/linkcol=0687f5/track=2416141013/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/labyrinths-of-mind"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1106388273/size=small/bgcol=ffffff/linkcol=0687f5/track=71438848/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/labyrinths-of-mind"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1106388273/size=small/bgcol=ffffff/linkcol=0687f5/track=2089313684/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/labyrinths-of-mind"
+        }
+      ],
+      "imageId": "SL67.jpg",
+      "remix": [],
+      "type": "albums",
+      "id": "labyrinths-of-mind",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=z0dGREc5Cy0&list=PL-avZEKaOJ96YKn8E5_e6uIz7TZqXwozK",
+        "spotify": "https://open.spotify.com/album/4BWq9tnzJ0BaRaujr0HwIJ?go=1&nd=1&dlsi=58fd5f6f63db4ce2",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/leomar-labyrinths-of-mind-w",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/labyrinths-of-mind",
+        "beatport": "https://www.beatport.com/release/labyrinths-of-mind/4441555",
+        "appleMusic": "https://music.apple.com/nl/album/labyrinths-of-mind/1729678346",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "",
       "date": "2024-02-16T00:00:00",
       "artist": "Various Artists",
