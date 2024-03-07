@@ -5143,6 +5143,35 @@
   ],
   "podcasts": [
     {
+      "catalogue": "88",
+      "date": "2024-03-07T00:00:00",
+      "artist": "Katharine",
+      "albumName": "spclnch podcast #88",
+      "description": "Katharine pilots us thru a melodic trek across the vibrant constellations.\n\nJumping from star to star consumes a lot of time. There is always parts that can be double or triple checked on a spaceship to make sure things are in their optimal working condition. Preventative maintenance can help make one more confident that issues will not happen. Still, something can go wrong with anomalies in space. Just recently, the ships communication system has been in and out of commission. Finding a place to land so the low-gain antennas can be worked on wasn't hard. Once landed, the power subsystem was turned down and then set to offline. The landscape immediately reverted itself to a very old but familiar place. Cat is hissing at the T-Rex off in the distance.\n\nKatharine is here to make things more enjoyable while things get reset. The hypnotic beats can certainly lift your spirits. The bleeps and buzzes definitely get your attention. Other times, the melodies make you smile and sway. There are times when it sounds like someone is working in a docking bay with tools. The combination of them being blended, excites all the senses. Thankfully, she is playing analog with vinyl since everything is off network currently...",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1767751215&color=%23ff5500&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "88.jpeg",
+      "remix": [],
+      "type": "podcasts",
+      "id": "spclnch-podcast-88",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=02BaBGMVpwE",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-88-katharine",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "https://flat.audio/m/18647",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "87",
       "date": "2024-02-05T00:00:00",
       "artist": "Interpolarm",
