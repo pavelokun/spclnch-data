@@ -4241,6 +4241,36 @@
   ],
   "components": [
     {
+      "catalogue": "Stygmata & Gambusia – Component N31",
+      "date": "2024-03-18T00:00:00",
+      "artist": "Stygmata & Gambusia",
+      "albumName": "Component N31",
+      "description": "In the distant future, on the planet Gravitaria, an ancient object was discovered - the Matrix of the Universe. It is a sphere capable of creating and modeling different realities at the will of its owner. When activated, it connects to the user's consciousness, immersing them in a world of their own fantasies. However, as use increased, side effects became apparent: addiction, loss of sense of reality, and distortion of moral values. The matrix has become a source of conflict between those who crave power and those who seek to prevent the loss of human nature.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=2775141260/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/component-n31"
+        }
+      ],
+      "imageId": "Stygmata-Gambusia-Component-N31.jpeg",
+      "remix": [],
+      "type": "components",
+      "id": "stygmata-gambusia-component-N31",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=G1Q2R2IuIeM&t=1s",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/stygmata-gambusia-component-n31",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/track/component-n31",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "Ellis Be – Component N30",
       "date": "2024-01-31T00:00:00",
       "artist": "Ellis Be",
