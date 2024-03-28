@@ -1,6 +1,72 @@
 {
   "albums": [
     {
+      "catalogue": "SL68",
+      "date": "2024-03-28T00:00:00",
+      "artist": "Karmahacker",
+      "albumName": "Out Of The Blur",
+      "description": "Grogs' dream had transformed into the Drunkard's Planetarium, the bar where he spent most of his free time. That evening the place was buzzing with multilingual conversations and loud music. Spacelunch was sitting behind the bar and carefully sipping a popular \"Galactic Elixir\" cocktail, while Cat was idly relaxing on the nearest chair.\n\n– Another round, please!\n– Buddy, I think that's enough for today. It's time to pull ourselves together.\n– Nonsense! There's no such thing as \"enough\" when it comes to astro-shots!\n– Focus! Before we lose control of the situation, we need to implement the idea of transferring access codes. You haven’t forgotten, have you?\n– That's exactly why I've taken the karmahacker with me!\n\nWith a dismissive wave of his paw, Cat fetched a somnambulic device powered by bioelectric brain stimulators and activated it.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2782743266/size=small/bgcol=ffffff/linkcol=0687f5/track=1074273042/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/out-of-the-blur"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2782743266/size=small/bgcol=ffffff/linkcol=0687f5/track=1679330358/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/out-of-the-blur"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2782743266/size=small/bgcol=ffffff/linkcol=0687f5/track=3842166767/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/out-of-the-blur"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2782743266/size=small/bgcol=ffffff/linkcol=0687f5/track=4115950248/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/out-of-the-blur"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2782743266/size=small/bgcol=ffffff/linkcol=0687f5/track=3548874154/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/out-of-the-blur"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2782743266/size=small/bgcol=ffffff/linkcol=0687f5/track=123270685/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/out-of-the-blur"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2782743266/size=small/bgcol=ffffff/linkcol=0687f5/track=4228898034/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/out-of-the-blur"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2782743266/size=small/bgcol=ffffff/linkcol=0687f5/track=42128246/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/out-of-the-blur"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2782743266/size=small/bgcol=ffffff/linkcol=0687f5/track=204142488/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/out-of-the-blur"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2782743266/size=small/bgcol=ffffff/linkcol=0687f5/track=90620840/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/out-of-the-blur"
+        }
+      ],
+      "imageId": "SL68.jpg",
+      "remix": ["Dive Craft"],
+      "type": "albums",
+      "id": "out-of-the-blur",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_n6pAJjWviPI2odDuxcSfUk3vMoAHkZgfY",
+        "spotify": "https://open.spotify.com/album/28fiOAsE7kBtKvCfODEHVK?go=1&nd=1&dlsi=31318c1b49db4b49",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/karmahacker-out-of-the-blur",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/out-of-the-blur",
+        "beatport": "https://www.beatport.com/release/out-of-the-blur/4477519",
+        "appleMusic": "https://music.apple.com/nl/album/out-of-the-blur/1734205091",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL67",
       "date": "2024-02-29T00:00:00",
       "artist": "Leomar",
