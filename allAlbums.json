@@ -5269,6 +5269,35 @@
   ],
   "podcasts": [
     {
+      "catalogue": "89",
+      "date": "2024-04-04T00:00:00",
+      "artist": "SaPu",
+      "albumName": "spclnch podcast #89",
+      "description": "SaPu gives us a groovy score for space journeying.\n\nIn a realm where innovation reigns supreme lies the enigmatic train stop of Hyperloopia. A sanctuary for the restless, it marks the cusp of a transportation revolution. Amidst the sleek and futuristic surroundings of the train station, Cat's whiskers twitched in rhythm, his tail swaying gently as dub techno music pulsed through the air.\n\nWith its combination of heavy dub basslines, spacey sounds, crisp percussion and techy, deep, and pulsing beats, this sonic adventure is perfect for getting lost in the groove. The tracks flow together seamlessly, creating a hypnotic and immersive experience. This audio voyage will captivate listeners with its profound bass notes, intertwined with elements of house music. This mix is not merely a collection of tracks; it is a sonic tapestry that transports listeners to a realm of cavernous channels and rhythmic ecstasy. Whether you're listening to it on the hyperloop or at home, this is sure to get you moving.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1792510267&color=%23ff5500&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "89.jpeg",
+      "remix": [],
+      "type": "podcasts",
+      "id": "spclnch-podcast-89",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=VOLjcs-P2uE&t=1s",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-89-sapu",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "https://flat.audio/m/18804",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "88",
       "date": "2024-03-07T00:00:00",
       "artist": "Katharine",
