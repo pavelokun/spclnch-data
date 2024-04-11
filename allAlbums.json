@@ -1,6 +1,52 @@
 {
   "albums": [
     {
+      "catalogue": "SL69",
+      "date": "2024-04-25T00:00:00",
+      "artist": "Special Zip",
+      "albumName": "Worn Out",
+      "description": "The atmosphere in the private hangar of Spaceport 15 was lively. Under the watchful eye of armed guards, the figures in black jumpsuits were telepathically boarding crates onto the cargo ship. No one even suspected that two uninvited guests were patiently waiting for the right time in the upper levels of the ventilation shaft. As soon as the moment came, they jumped onto the floor and hid behind a stack of military cases. \"We need to find the emergency airlock,\" Spacelunch said in a muffled voice. Cat nodded affirmatively.\n\nAgilely sneaking through the arrays of containers, they stealthily made their way onto the deck. An inconspicuous door with a built-in security system was the last obstacle. After they successfully entered the access codes, the door gently slid open, inviting them to enter a dimly lit, spacious cabin.\n\nAfter a short while, the countdown began. The ship came into motion and slowly headed out into open space following the predetermined trajectory. Watching the distant planet, the partners were realising the neatness of the executed part of the plan. Now their way led them to the corporal's secret base.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3079612382/size=small/bgcol=ffffff/linkcol=0687f5/track=1599164904/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/worn-out"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3079612382/size=small/bgcol=ffffff/linkcol=0687f5/track=3238579900/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/worn-out"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3079612382/size=small/bgcol=ffffff/linkcol=0687f5/track=696583232/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/worn-out"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3079612382/size=small/bgcol=ffffff/linkcol=0687f5/track=4254015106/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/worn-out"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3079612382/size=small/bgcol=ffffff/linkcol=0687f5/track=1943927819/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/worn-out"
+        }
+      ],
+      "imageId": "SL69.jpg",
+      "remix": ["Alexander Bogdanov"],
+      "type": "albums",
+      "id": "worn-out",
+      "social": {
+        "youtube": "null",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/special-zip-worn-out-w",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/worn-out",
+        "beatport": "https://www.beatport.com/release/worn-out/4519330",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL68",
       "date": "2024-03-28T00:00:00",
       "artist": "Karmahacker",
@@ -99,7 +145,7 @@
         }
       ],
       "imageId": "SL67.jpg",
-      "remix": [],
+      "remix": ["Martin Jarl", "Alexander Bogdanov"],
       "type": "albums",
       "id": "labyrinths-of-mind",
       "social": {
