@@ -33,8 +33,8 @@
       "type": "albums",
       "id": "worn-out",
       "social": {
-        "youtube": "null",
-        "spotify": "null",
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mN1-RE1Fa3YbfFkn4iW4eU4yS150amfCo",
+        "spotify": "https://open.spotify.com/album/2eBBX94L0D7TL8PCCTk2Up?go=1&nd=1&dlsi=162b6560ae234f7d",
         "soundcloud": "https://soundcloud.com/spclnch/sets/special-zip-worn-out-w",
         "mixcloud": "null",
         "junoRecords": "null",
@@ -42,7 +42,7 @@
         "flat.audio": "null",
         "bandcamp": "https://spclnch.bandcamp.com/album/worn-out",
         "beatport": "https://www.beatport.com/release/worn-out/4519330",
-        "appleMusic": "null",
+        "appleMusic": "https://music.apple.com/nl/album/worn-out/1739394674",
         "buyDownload": "null"
       }
     },
