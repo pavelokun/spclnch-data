@@ -10656,6 +10656,35 @@
   ],
   "spclnchRecommends": [
     {
+      "catalogue": "Information Ghetto – Head Key [CC08]",
+      "date": "2024-04-29T00:00:00",
+      "artist": "Information Ghetto",
+      "albumName": "Head Key [CC08]",
+      "description": "Information Ghetto's 'Head Key' is a hedonistic journey into the depths of minimal tech courtesy of the Chippy Chasers label.\n\nThe track kicks off with bouncing deep bass notes that immediately grab your attention, setting the stage for the hypnotic percussion accents and rhythmic pots and pans sounds that drive the groove forward. As the track progresses, melodic keys meld into the mix, adding an extra layer of depth and complexity. Reminiscent of the vibes found on early Perlon records, this gem is a tribal workout of epic proportions that invites listeners to lose themselves in the music. The quirky instrumentation adds an element of intrigue, keeping the track fresh and engaging from start to finish. With its catchy and infectious rhythm, it is sure to become a favorite for those that like next-level dance music.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1810195038&color=%23ff5500&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "Information-Ghetto-Head-Key-CC08.jpeg",
+      "remix": [],
+      "type": "spclnch-recommends",
+      "id": "information-ghetto-head-key-CC08",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=8QMGKrnGdkU&t=10s",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/premiere-information-ghetto-head-key-cc08",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "https://chippychasers.bandcamp.com/album/mesozoic"
+      }
+    },
+    {
       "catalogue": "Nicolas Barnes – Taril Metroma (Eric Louis Remix) [DAD0011]",
       "date": "2024-03-14T00:00:00",
       "artist": "Nicolas Barnes",
