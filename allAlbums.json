@@ -1,6 +1,52 @@
 {
   "albums": [
     {
+      "catalogue": "SL70",
+      "date": "2024-05-23T00:00:00",
+      "artist": "Eric Louis",
+      "albumName": "Strange Things Have Happened Here",
+      "description": "The ship smoothly passed through the protective field and docked on the landing pad. The vast complex, surrounded by a wasteland of mangled metal and scorched soil, was guarded by a multitude of faceless soldiers. The angular spires of watchtowers rose ominously and pierced the sky like the sharp teeth of an ancient leviathan. At the top was the command centre filled with rows of flickering monitors full of a staggering amount of data and records. Technicians bustled about to keep all systems and equipment running as normal.\n\nAs the cargo airlock opened, the mercenaries began moving crates and containers onto the pallet of a levitating forklift. Using holographic cloaks, the friends easily passed the guards and proceeded deep into the corridors and staircases. Around some corner, the laboratory space opened up in front of them, packed with shiny machinery and mysterious equipment. The sharp odour of ozone and rot permeated the air, and the operating tables were covered with the remains of failed experiments. A new generation prototype of a mutant soldier, a synthesis of mechanical enhancements and biomanipulation capable of conquering and exterminating entire planets, stared lifelessly from the platform in the centre of the room. Tubes and wires looped around its body, plugged into ports and connectors embedded in its flesh.\n\n– Strange things have happened here.\n– Definitely, Cat. If they complete this freak and start production, the world as we know it will end.\n– We must do something to prevent that!\n– Good thinking. Let's blow this damn place up!",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1489363209/size=small/bgcol=ffffff/linkcol=0687f5/track=1781154608/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/strange-things-have-happened-here"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1489363209/size=small/bgcol=ffffff/linkcol=0687f5/track=2979527230/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/strange-things-have-happened-here"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1489363209/size=small/bgcol=ffffff/linkcol=0687f5/track=2450964630/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/strange-things-have-happened-here"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1489363209/size=small/bgcol=ffffff/linkcol=0687f5/track=3844626724/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/strange-things-have-happened-here"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1489363209/size=small/bgcol=ffffff/linkcol=0687f5/track=3319802786/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/strange-things-have-happened-here"
+        }
+      ],
+      "imageId": "SL70.jpg",
+      "remix": ["Upwellings"],
+      "type": "albums",
+      "id": "strange-things-have-happened-here",
+      "social": {
+        "youtube": "null",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/eric-louis-strange-things-have",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/strange-things-have-happened-here",
+        "beatport": "https://www.beatport.com/release/strange-things-have-happened-here/4561434",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL69",
       "date": "2024-04-25T00:00:00",
       "artist": "Special Zip",
