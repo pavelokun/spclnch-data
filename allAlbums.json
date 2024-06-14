@@ -4399,6 +4399,36 @@
   ],
   "components": [
     {
+      "catalogue": "Phasen – Component N34",
+      "date": "2024-06-14T00:00:00",
+      "artist": "Phasen",
+      "albumName": "Component N34",
+      "description": "The Galactic Compass is a sleek pocket device resembling an antique clock, made of an unknown metal. Its screen shows a map of the galaxy with a guiding arrow pointing the way to an important destination. The compass helps with navigation, search and rescue, research and decision making. It synchronizes with the wearer's thoughts and is charged by cosmic radiation. Risks include unpredictable routes and mental influence on the owner, making the use of the device full of surprises and adventures.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=3765095215/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/component-n34"
+        }
+      ],
+      "imageId": "Phasen-Component-N34.jpeg",
+      "remix": [],
+      "type": "components",
+      "id": "phasen-component-N34",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=sGFMCo-Z0z8&t=2s",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/phasen-component-n34",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/track/component-n34",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "Groove Gorynych – Component N33",
       "date": "2024-05-16T00:00:00",
       "artist": "Groove Gorynych",
