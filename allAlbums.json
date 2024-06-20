@@ -1,6 +1,60 @@
 {
   "albums": [
     {
+      "catalogue": "SL71",
+      "date": "2024-06-20T00:00:00",
+      "artist": "Celestial Nomad",
+      "albumName": "Hypermarket",
+      "description": "The hypermarket exhibited bioengineering brilliance and cosmic craftsmanship housed under a huge crystal dome shimmering with reflections of nearby celestial bodies. This retail colossus was not just a place to shop, but a living and breathing ecosystem where even food and drink possessed intelligence and personality, turning the everyday grocery shopping trip into an adventure.\n\nHaving walked through the automated portals, visitors immediately entered a vibrant, bustling atmosphere filled with mixed aromas of diverse culinary produce, each hinting at exotic and extraordinary flavours. Pieces of cheese joked about fermentation processes and their origins. Soda cans sizzled playfully, discussing the intricacies of soft drinks and the secrets of mixology. Loaves of bread argued about baking temperatures and yeast culture. Juice packets from every fruit and vegetable imaginable told tales of distant gardens and farms, and wine bottles told stories of ancient vineyards and legendary harvests.\n\nAs Spacelunch reached for his favourite Cinerian mead, a familiar voice sounded behind him:\n– Have I lived long enough to see the day when the curly-headed man who broke my nose showed up again?\n\nThe professor turned around and was surprised to see an old friend in front of him.\n\n– Nomad? Is it really you?! What brings you here?\n– As always a thirst for adventure and a desire to solve mysteries. I've heard a lot about this place and just couldn't miss the chance to see it with my own eyes. On top of that, I followed the rumours that say the key to absolute life force is hidden here.\n– Absolute life force? – Spacelunch asked with obvious interest, raising an eyebrow. – Are you hunting for legendary artefacts again?\n– It's an elixir created by ancient gastronomes. It provides unprecedented energy and longevity. It is said to be guarded by a powerful force. By the way, – Nomad squinted, – your bioengineering knowledge could speed up the search considerably. And remember, you owe me one.\n– Not that I'm very eager, but Spacelunch always pays debts back!\n– Now you’re talking! Follow me.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4114068157/size=small/bgcol=ffffff/linkcol=0687f5/track=245646891/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/hypermarket"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4114068157/size=small/bgcol=ffffff/linkcol=0687f5/track=1255249051/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/hypermarket"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4114068157/size=small/bgcol=ffffff/linkcol=0687f5/track=1968529964/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/hypermarket"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4114068157/size=small/bgcol=ffffff/linkcol=0687f5/track=154449203/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/hypermarket"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4114068157/size=small/bgcol=ffffff/linkcol=0687f5/track=2382938418/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/hypermarket"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4114068157/size=small/bgcol=ffffff/linkcol=0687f5/track=2496535504/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/hypermarket"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4114068157/size=small/bgcol=ffffff/linkcol=0687f5/track=1664133070/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/hypermarket"
+        }
+      ],
+      "imageId": "SL71.jpg",
+      "remix": [],
+      "type": "albums",
+      "id": "hypermarket",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=O0VlvxC5qYw&list=PL-avZEKaOJ975DTHsb8Z1lC7_Mj2RhQXG",
+        "spotify": "https://open.spotify.com/album/1nwsSHeyx7VPGnztSnquvc?si=uaPyEdyyTYe8kOIXqEqZMg",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/celestial-nomad-hypermarket-1",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/hypermarket",
+        "beatport": "https://www.beatport.com/release/hypermarket/4605387",
+        "appleMusic": "https://music.apple.com/nl/album/hypermarket/1750721664",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL70",
       "date": "2024-05-23T00:00:00",
       "artist": "Eric Louis",
