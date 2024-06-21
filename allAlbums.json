@@ -10816,6 +10816,35 @@
   ],
   "spclnchRecommends": [
     {
+      "catalogue": "TR900 – Clucck",
+      "date": "2024-06-21T00:00:00",
+      "artist": "TR900",
+      "albumName": "Clucck [MOVPICVA005]",
+      "description": "TR900 – Clucck: A futuristic but ominous lullaby.\n\nClucck verges on IDM sounds, presenting a unique blend of broken beats and emotive machine-like tones. The track feels like a robot experiencing a cascade of feelings, teetering on the edge of control. String plucking weaves through the composition, adding a whimsical touch over deep bass rolls. As the track progresses, it reveals its true colors, shifting towards a darker, more ominous mood. The eerie ending acts as a great cliffhanger, allowing those who listen anticipating what comes next.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1853527158&color=%23ff5500&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "TR900-Clucck-MOVPICVA005.jpeg",
+      "remix": [],
+      "type": "spclnch-recommends",
+      "id": "TR900-clucck-MOVPICVA005",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=eqHIEA5Meo4",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/premiere-tr900-clucck-movpicva005",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "https://movingpicturesrecords.bandcamp.com/album/sailing-to-valinor-v-a-compilation"
+      }
+    },
+    {
       "catalogue": "Federsen – Polarity (Hidden Sequence Remix)",
       "date": "2024-05-24T00:00:00",
       "artist": "Federsen",
