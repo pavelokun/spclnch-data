@@ -1,6 +1,48 @@
 {
   "albums": [
     {
+      "catalogue": "SPCLNCH10",
+      "date": "2024-07-04T00:00:00",
+      "artist": "DP-6",
+      "albumName": "The Four Elements",
+      "description": "\"The warmth of fire and the whisper of water, the magic of wind and the trembling of the earth, the melody of peace and silence to revive soul and body\" – said the Queen and closed the portal behind the travellers.\n\nOn the summit of the Astral Cliff there was the long-forgotten DP-6 shuttlecraft of the Kwansi pirates. Corrosion on the hull plating had almost completely taken over the paint, which only occasionally peeked through between dense clusters of fluorescent bryophytes. The vines and wires dangling from the stern provided a perfect living dome for the lively Sivinerian millipedes goofing around on the runes engraved on the ship. The sweet scent of exotic flora created an ethereal glow. A giant stingray floated gracefully across the celestial kaleidoscope. Each flap of its shining wings gave the impression of time slowing down. One could be absorbed by this grace and lightness for hours, immersing oneself in the world of aesthetics and harmony that ufolded before the observers’ eyes while they were enveloped in the calming embrace of the gravitational massage chairs.\n\n– Sea Devil – what an appropriate name for such a majestic creature.\n– That's right, Cat... A true manifestation of multielements in all their splendour!",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1196534334/size=small/bgcol=ffffff/linkcol=0687f5/track=950810996/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-four-elements"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1196534334/size=small/bgcol=ffffff/linkcol=0687f5/track=4214897654/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-four-elements"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1196534334/size=small/bgcol=ffffff/linkcol=0687f5/track=298979043/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-four-elements"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1196534334/size=small/bgcol=ffffff/linkcol=0687f5/track=4161224719/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-four-elements"
+        }
+      ],
+      "imageId": "SPCLNCH10.jpeg",
+      "remix": [],
+      "type": "albums",
+      "id": "the-four-elements",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=LVwf6Ik3sLw&list=PL-avZEKaOJ97GSh6FXRQ4ZQ_B8tI_y4_t",
+        "spotify": "https://open.spotify.com/album/1Wjp1FnZcKJhts1q1lwcaL?go=1&nd=1&dlsi=1dd1c0fdf6e341e2",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/dp-6-the-four-elements-1",
+        "mixcloud": "null",
+        "junoRecords": "https://www.juno.co.uk/products/dp-6-the-four-elements-vinyl/1020902-01/",
+        "deejayDe": "https://www.deejay.de/DP-6_The_Four_Elements_SPCLNCH10_Vinyl__1054078",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/the-four-elements",
+        "beatport": "https://www.beatport.com/release/the-four-elements/4567815",
+        "appleMusic": "https://music.apple.com/nl/album/the-four-elements-ep/1745694660",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL71",
       "date": "2024-06-20T00:00:00",
       "artist": "Celestial Nomad",
