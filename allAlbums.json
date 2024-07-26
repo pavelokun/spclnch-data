@@ -1,6 +1,52 @@
 {
   "albums": [
     {
+      "catalogue": "SL72",
+      "date": "2024-07-25T00:00:00",
+      "artist": "R.Hz",
+      "albumName": "Echo Frequencies",
+      "description": "The misty Citadel towered like a giant fortress woven of rusted metal and interlaced vines. Nature and technology merged in a surreal, almost living symbiosis. The heavy chords of distant machinery intertwined with the eerie echo of the jungle. The air was thick with psychedelic smog that distorted perception.\n\n– I don't like this place...\n– Cheer up, Cat! – Nomad lifted his hat slightly and smirked. – Let's focus on the search.\n\nSuddenly, a group of mysterious creatures – Purple Buds – jumped out of the shadows. Their spiky bodies crackled with bioelectricity and emitted a strange, hypnotic glow. Nomad quickly snatched up his plasma revolver and took down two of them with precise shots. Cat, skillfully handling his rapid-fire blasters, left his enemies no chance. Fighting shoulder to shoulder, they coordinated efforts to hold back the onslaught of the attackers.\n\nDodging the chaos of battle, Spacelunch backed up against the wall and spotted a hidden console behind the curtain of bioluminescent plants. Plugging into its ancient mechanisms and frantically deciphering the information, he managed to discover something curious. A holographic map appeared on the console, indicating a location in one of the outskirts of the cosmic vastness.\n\nAs soon as the data download had been completed, the building shuddered, and the walls began to twist and transform. Worn down and breathing heavily, the partners hurried to their ship. The engines roared, indicating their eagerness to leave this place as soon as possible. Nomad exhaled and leaned back in his seat, \"Just another day in the galaxy,\" he said.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2462257941/size=small/bgcol=ffffff/linkcol=0687f5/track=3248160455/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/echo-frequencies"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2462257941/size=small/bgcol=ffffff/linkcol=0687f5/track=3657039806/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/echo-frequencies"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2462257941/size=small/bgcol=ffffff/linkcol=0687f5/track=2705840731/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/echo-frequencies"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2462257941/size=small/bgcol=ffffff/linkcol=0687f5/track=1602568490/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/echo-frequencies"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2462257941/size=small/bgcol=ffffff/linkcol=0687f5/track=78752898/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/echo-frequencies"
+        }
+      ],
+      "imageId": "SL72.jpg",
+      "remix": [],
+      "type": "albums",
+      "id": "echo-frequencies",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=QwNOc9RCd7E&list=PL-avZEKaOJ94XqIMYP85GAmRtugJerCZt",
+        "spotify": "https://open.spotify.com/album/4rqObUA8bB3f9vUOhlvgxl?go=1&nd=1&dlsi=d092ac0e60224e97",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/r-hz-echo-frequencies-sl72-1",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/echo-frequencies",
+        "beatport": "https://www.beatport.com/release/echo-frequencies/4645646",
+        "appleMusic": "https://music.apple.com/nl/album/echo-frequencies/1756343653",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SPCLNCH10",
       "date": "2024-07-04T00:00:00",
       "artist": "DP-6",
