@@ -5563,6 +5563,35 @@
   ],
   "podcasts": [
     {
+      "catalogue": "90",
+      "date": "2024-09-02T00:00:00",
+      "artist": "Pheek",
+      "albumName": "spclnch podcast #90",
+      "description": "Pheek’s techno quest turns to a cosmic playground.\n\nThis long-awaited return to releasing a mix, his first in 15 years, is nothing short of a sonic odyssey. The trip begins with an ethereal ambiance, where celestial tones blend seamlessly with the environment, setting the stage for an otherworldly experience. From the first beat, the mix pulls you into its orbit, with crisp and tight rhythms that ebb and flow like the tides of a distant galaxy. Each track guides you, heightening the anticipation of what audio treasure might come next. Pheek reaches deep into his music archives to present a mix of music that is currently moving him. As the trek evolves, trippy and moody undertones shift the ambiance, taking you deeper into the cosmos. The techno rhythms become your guide, leading you through hypnotic layers of sound that seem to resonate with the very fabric of the universe. It’s a audio journey that doesn’t just play in the background; it envelops you, leaving you in awe of the sonic landscapes that have been created.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1908645245&color=%23ff5500&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "90.jpeg",
+      "remix": [],
+      "type": "podcasts",
+      "id": "spclnch-podcast-90",
+      "social": {
+        "youtube": "https://youtu.be/-H8B_pkH3GM",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-90-pheek",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "https://flat.audio/m/20112",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "89",
       "date": "2024-04-04T00:00:00",
       "artist": "SaPu",
