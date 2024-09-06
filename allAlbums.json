@@ -1,6 +1,52 @@
 {
   "albums": [
     {
+      "catalogue": "SL73",
+      "date": "2024-09-05T00:00:00",
+      "artist": "Zemar Kambas",
+      "albumName": "Here Come The Dragons",
+      "description": "The received coordinates indicated that the clue was deep in a dangerous ravine.\n— Doc, this is not good! Why is it so quiet? — Cat asked, looking around warily.\n— Pull yourself together and be ready for anything! — Spacelunch tried to keep his cool despite the growing anxiety.\n\nCautiously, they finally reached their destination and saw a grim sight: on the ground, among ancient stones and half-erased ruins, rested the skeleton of a huge dragon with a glass dodecahedron clutched in its paw. A dim light shone through the thick tree crowns, creating ominous shadows dancing around it. Nomad, sensing the tension of the moment, slowly reached out and gently took the artefact. Its surface was cold and smooth, covered in strange, barely visible symbols.\n— We did it! — the victorious voice echoed off the walls, filling the space with a sense of triumph.\n\nBut then something strange happened. A bright glow flashed around Nomad. Before anyone could react, he was pulled into a portal that appeared out of nowhere.\n— Nomad! — Cat shouted, rushing toward the vanishing point.\n— Don't waste time! To understand what’s happened, we will need to get back to the ship and analyse the portal trail!",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1753564024/size=small/bgcol=ffffff/linkcol=0687f5/track=606373784/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/here-come-the-dragons"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1753564024/size=small/bgcol=ffffff/linkcol=0687f5/track=1162066114/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/here-come-the-dragons"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1753564024/size=small/bgcol=ffffff/linkcol=0687f5/track=1625639886/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/here-come-the-dragons"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1753564024/size=small/bgcol=ffffff/linkcol=0687f5/track=1373096560/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/here-come-the-dragons"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1753564024/size=small/bgcol=ffffff/linkcol=0687f5/track=4027723720/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/here-come-the-dragons"
+        }
+      ],
+      "imageId": "SL73.jpg",
+      "remix": ["R.Hz"],
+      "type": "albums",
+      "id": "here-come-the-dragons",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=skc3aI_JC-c&list=PL-avZEKaOJ95wjoNedCTmaJB2iUa2S5J0",
+        "spotify": "https://open.spotify.com/album/3GnonOCQBkuRizHWyQlDiU?go=1&nd=1&dlsi=ebe1a52c955a4b42",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/zemar-kambas-here-come-the",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/here-come-the-dragons",
+        "beatport": "https://www.beatport.com/release/here-come-the-dragons/4685355",
+        "appleMusic": "https://music.apple.com/nl/album/here-come-the-dragons/1761804744",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL72",
       "date": "2024-07-25T00:00:00",
       "artist": "R.Hz",
