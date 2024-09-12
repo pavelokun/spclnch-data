@@ -1,6 +1,48 @@
 {
   "albums": [
     {
+      "catalogue": "SPCLNCH11",
+      "date": "2024-09-12T00:00:00",
+      "artist": "Havantepe",
+      "albumName": "Zero-G",
+      "description": "The black and white hoverbike flew out of the fog at breakneck speed and raced through the neon-lit urban jungle of the Havan metropolis. It manoeuvred steadily between the skyscrapers, trying to throw off the tail of the corporal's convoy, which was getting closer by the moment, preventing it from sneaking away with the seemingly easy-to-get Zero-G prototype. This weapon could create an anti-gravity field with a single shot and disable even the largest battle cruiser. That's why an elite squad of cyber-soldiers equipped with modified implants and gadgets was sent in pursuit not to allow them to ease off for a second.\n\nWith a sharp steering wheel jerk, Spacelunch turned off the main street and into a narrow alley. \"Your turn!\" – He shouted insistently over the engine's roar. Cat rose from the back seat, took aim, and deftly fired his blaster. In a pall of sparks and smoke, the pursuer's hoverbike spun out of control and crashed into the building. Gritting their teeth, the friends raced through the winding maze of obstacles and tight turns. All senses were heightened with excitement. They could see a gap ahead and a way out into the slums.\n\nSuddenly, a heavily armed police drone blocked the road, aiming its red gun lights at them. Spacelunch decisively grabbed Cat and jumped into the so-fortunately spotted sewer manhole, barely managing to dodge the gunfire barrage. After landing in a pitch-dark narrow tunnel, they moved on, with every step feeling the growing tension in the air and realizing that they could be found out at any moment. The darkness seemed endless. The only consolation was that they had the prototype in their hands, and now all they had to do was get to the spaceship and get off this freaking planet.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3780369238/size=small/bgcol=ffffff/linkcol=0687f5/track=3661266711/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/zero-g"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3780369238/size=small/bgcol=ffffff/linkcol=0687f5/track=939969266/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/zero-g"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3780369238/size=small/bgcol=ffffff/linkcol=0687f5/track=3239605955/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/zero-g"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3780369238/size=small/bgcol=ffffff/linkcol=0687f5/track=1606668279/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/zero-g"
+        }
+      ],
+      "imageId": "SPCLNCH11.png",
+      "remix": ["Basicnoise"],
+      "type": "albums",
+      "id": "zero-g",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=vVdwT98XAjU&list=PL-avZEKaOJ96UZebUW9DoVuSgzFRekLm2",
+        "spotify": "https://open.spotify.com/album/2ZHcSQhR6Bt9S00duFmNGk?si=2aqf_KVmScyhTiDimnGZLQ",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/havantepe-zero-g-w-basicnoise",
+        "mixcloud": "null",
+        "junoRecords": "https://www.juno.co.uk/products/havantepe-zero-g-vinyl/1034247-01/",
+        "deejayDe": "https://www.deejay.de/Havantepe_Zero-G_SPCLNCH11_Vinyl__1068848",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/zero-g",
+        "beatport": "https://www.beatport.com/release/zero-g/4658336",
+        "appleMusic": "https://music.apple.com/nl/album/zero-g/1758146781",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL73",
       "date": "2024-09-05T00:00:00",
       "artist": "Zemar Kambas",
