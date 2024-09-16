@@ -4629,6 +4629,36 @@
   ],
   "components": [
     {
+      "catalogue": "Charles.A.D – Component N35",
+      "date": "2024-09-16T00:00:00",
+      "artist": "Charles.A.D",
+      "albumName": "Component N35",
+      "description": "The Mirror of Souls is a strange, almost frightening object with a heavy frame covered with obscure ancient symbols. Its surface reflects not the usual image but something more – the hidden traits of the personality which you might not be aware of. The mirror reveals deep desires, fears and unrealised dreams. It can show what a person could have become if they had made different choices in life. Those who stared into it too long have often lost touch with the present, carried away by shadows of what could have been. It is a window into worlds that will never be, where every glance can turn into a journey with no return.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/track=3227905747/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/track/component-n35"
+        }
+      ],
+      "imageId": "CharlesAD-Component-N35.jpg",
+      "remix": [],
+      "type": "components",
+      "id": "charlesad-component-N35",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=jRQPPBSTjvg",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/charlesad-component-n35",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/track/component-n35",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "Phasen – Component N34",
       "date": "2024-06-14T00:00:00",
       "artist": "Phasen",
