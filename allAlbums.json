@@ -1,6 +1,52 @@
 {
   "albums": [
     {
+      "catalogue": "SL74",
+      "date": "2024-10-10T00:00:00",
+      "artist": "Stygmata & Moodeep",
+      "albumName": "Super Forms",
+      "description": "This bizarre planetoid, located at the junction of the Stigmata and Moodeep interstellar highways, was a genuine haven for creatures of all shapes and forms. Among them, blobs, these brightly coloured and playful creatures capable of shape-shifting, were particularly remarkable.\n\nThe two friends curled up in one of the eye sockets of a giant metal skull hidden in the depths of this small world. Exhausted but hopeful, they were trying to rest and catch their breath after a series of endless trials.\n\n— Imagine, — Cat said thoughtfully, glancing down at the busy street, — being one of those blobs. — He lazily paw-pointed at a group of kids, merrily playing tag with such ease as if the world were their personal playground. — That would be something, wouldn't it?\n— A maze of mirrors... — A spark of infinite possibilities flashed in the professor's eyes. — I would be a maze of mirrors. Each reflection is a different version of me. Anyone who entered would be forced to wander the winding paths until they found their true self.\n— And I, — Cat added with a slight chuckle, — would like to become a being who can move freely through time and space. To disappear and reappear anywhere in the galaxy.\n\nThey both fell silent, letting their fantasies take over. Here, on this distant land, where the stars seemed to hang directly overhead, the dreams took on an unusual clarity and weight. They had seen many things and been through many dangers over the years, yet now, in this wonderfully quiet and strange corner of the universe, they felt at rare peace, as if the galaxy itself had given them a brief break before throwing them back into the maelstrom of events.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=146244295/size=small/bgcol=ffffff/linkcol=0687f5/track=1129936937/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/super-forms"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=146244295/size=small/bgcol=ffffff/linkcol=0687f5/track=22281626/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/super-forms"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=146244295/size=small/bgcol=ffffff/linkcol=0687f5/track=4128279432/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/super-forms"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=146244295/size=small/bgcol=ffffff/linkcol=0687f5/track=3704454/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/super-forms"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=146244295/size=small/bgcol=ffffff/linkcol=0687f5/track=249276771/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/super-forms"
+        }
+      ],
+      "imageId": "SL74.jpg",
+      "remix": ["Lotech/Hijack", "R.Hz", "Akmuo"],
+      "type": "albums",
+      "id": "super-forms",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=XlQouoHnJ78&list=PL-avZEKaOJ953R8Bm0kUYOXLwTf0ZEFML",
+        "spotify": "https://open.spotify.com/album/3CnIKtmEFS0NzJFjqGzUOt?go=1&nd=1&dlsi=3579ad40a4ed4072",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/stygmata-moodeep-super-sl74",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/super-forms",
+        "beatport": "https://www.beatport.com/release/super-forms/4742908",
+        "appleMusic": "https://music.apple.com/nl/album/super-forms/1769603948",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SPCLNCH11",
       "date": "2024-09-12T00:00:00",
       "artist": "Havantepe",
