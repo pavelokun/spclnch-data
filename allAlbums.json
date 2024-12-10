@@ -1,6 +1,48 @@
 {
   "albums": [
     {
+      "catalogue": "SL75",
+      "date": "2024-11-21T00:00:00",
+      "artist": "Shannon Davin",
+      "albumName": "Motown Duet",
+      "description": "— Look, how weird! — Cat brushed away the top layer of ash with his paw, revealing snow-white ice. — As if hell and winter had merged.\n— This is Motown. Once a major mining town, now just ruins after an eruption.\n— I didn't think we'd end up in a hole like this... Especially with Nomad missing.\n— And you know what the worst part is? Nomad didn't just disappear. The portal absorbed him. But who opened it, that is the real question.\n\nA massive tower was looming up ahead. Its antennas were sticking out like broken claws. Below, shattered adamantium slabs intertwined with charred tree roots. A sign, covered in ash, was barely legible: “SL75 Experimental Center.”\n\nOnce inside, they were greeted by an oppressive silence and icy air that chilled to the bone. The corridors seemed endless in the light of flickering lamps, and the floor was strewn with rusty wreckage of robots and instruments. The control room, once bustling with life, was now filled with empty workstations and displays that were broadcasting only static noise.\n\n— What a creepy place.\n— A man once worked here, — Spacelunch ran his palm over the panel. — Kujo. If anyone knows anything about the portal, it's him.\n\nA metallic creak echoed down the corridor. An android appeared in the faint light of the lamps, staggering and dragging a damaged leg. A short stump where his arm used to be exposed tattered wires sparking in time with his footsteps. Empty eyes wandered through space as if trying to focus on the strangers.\n\n— Looking for Kujo? — The mechanical voice was slightly distorted. — You're not the first...\n— Do you know anything about him? I can give something in exchange for this information. An implant, for example.\nThe android made a rattling sound like a short laugh.\n— I don't need an arm, but the brain module is another matter. It was stolen and pawned.\n— And you didn't try to get it back?\n— I tried, but it cost me my arm. If you get the module, I'll tell you where to find him.\n\nThe friends looked at each other. The road to answers was not going to be easy, but they were ready to do anything to save Nomad.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4247905539/size=small/bgcol=ffffff/linkcol=0687f5/track=422917951/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/motown-duet"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4247905539/size=small/bgcol=ffffff/linkcol=0687f5/track=3260097211/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/motown-duet"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4247905539/size=small/bgcol=ffffff/linkcol=0687f5/track=111835992/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/motown-duet"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4247905539/size=small/bgcol=ffffff/linkcol=0687f5/track=3903261073/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/motown-duet"
+        }
+      ],
+      "imageId": "SL75.jpg",
+      "remix": ["Ludowick", "Dive Craft"],
+      "type": "albums",
+      "id": "motown-duet",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lUs3geiESkBYBdjwLcDp8UiGEDx-wWJXY",
+        "spotify": "https://open.spotify.com/album/3WkHjA2LApHOmx9zJMOXk9?go=1&nd=1&dlsi=bb0be224e74c48e7",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/shannon-davin-motown-duet-w",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/motown-duet",
+        "beatport": "https://www.beatport.com/release/motown-duet/4807368",
+        "appleMusic": "https://music.apple.com/nl/album/motown-duet-ep/1777888709",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL74",
       "date": "2024-10-10T00:00:00",
       "artist": "Stygmata & Moodeep",
