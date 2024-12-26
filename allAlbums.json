@@ -1,6 +1,52 @@
 {
   "albums": [
     {
+      "catalogue": "SL76",
+      "date": "2024-12-26T00:00:00",
+      "artist": "Nicolas Barnes",
+      "albumName": "Sometimes It Takes More Time",
+      "description": "As they were approaching the door, a sharp click made them freeze — a high-caliber blaster was aimed straight at them. Kujo stood in front of the door. His massive body resembled that of a giant snail, but instead of the usual soft exterior, he was encased in intricate armor made of interwoven metal plates. These plates contracted and expanded in rhythm with his deep breathing, almost as if they were alive. His elongated head, thrust forward, gave him a menacing look, while a mohawk of his pulsating tendrils swayed, sensing every vibration in the air. Thin, glowing appendages along his face enhanced this eerie, almost mystical presence.\n\n— Who are you? — a raspy voice thundered.\n— We’re here to inquire about the portal, — Spacelunch stepped forward.\n— Everyone wants to know about the portal. Get lost!\n— “The endless rustle of Sivinerian centipedes”, — Spacelunch replied firmly.\n— How do you know that?\n— The android said it would mean something to you.\n— How’s that old hunk of junk doing? Still running? — Kujo grinned but kept the weapon aimed at them.\n— Battered, but still operational, — Cat replied with a chuckle.\n— That code isn’t given out easily. So, you helped him. Fine. One question — one answer.\n\nSpacelunch explained their mission. Kujo listened in silence, his expression growing more serious.\n\n— That’s Castafarian technomagic, — his voice carried a note of respect. — These technologies are no longer made. The keys to them are held only by the Castafarian Keepers. Their homeworld is Proxima Planet.\n— Isn’t it great, — Cat rolled his eyes. — All we’ve learned is: go to Proxima.\n— Sometimes the truth takes longer than we expect, — Spacelunch said calmly, resting his hand on Cat’s shoulder. — And I believe the Smoring Queen can help us figure this out…",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2064349505/size=small/bgcol=ffffff/linkcol=0687f5/track=2931811513/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/sometimes-it-takes-more-time"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2064349505/size=small/bgcol=ffffff/linkcol=0687f5/track=4018281540/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/sometimes-it-takes-more-time"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2064349505/size=small/bgcol=ffffff/linkcol=0687f5/track=2435778821/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/sometimes-it-takes-more-time"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2064349505/size=small/bgcol=ffffff/linkcol=0687f5/track=3951925361/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/sometimes-it-takes-more-time"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2064349505/size=small/bgcol=ffffff/linkcol=0687f5/track=1049833790/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/sometimes-it-takes-more-time"
+        }
+      ],
+      "imageId": "SL76.jpg",
+      "remix": [],
+      "type": "albums",
+      "id": "sometimes-it-takes-more-time",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mD7Q_FqA7q-BnJ1ZA77mH7VpF-1WybpcY",
+        "spotify": "https://open.spotify.com/album/1ZbruY0y5xJUcv9zl2ejOB?go=1&nd=1&dlsi=b81138c6f3de4550",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/nicolas-barnes-sometimes-it",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/sometimes-it-takes-more-time",
+        "beatport": "https://www.beatport.com/release/sometimes-it-takes-more-time/4856040",
+        "appleMusic": "https://music.apple.com/fr/album/sometimes-it-takes-more-time/1784466794",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL75",
       "date": "2024-11-21T00:00:00",
       "artist": "Shannon Davin",
