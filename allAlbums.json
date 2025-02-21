@@ -1,6 +1,88 @@
 {
   "albums": [
     {
+      "catalogue": "SL2024",
+      "date": "2024-12-29T00:00:00",
+      "artist": "Various Artists",
+      "albumName": "The Best of spclnch 2024",
+      "description": "The path to the stars is never a straight line, but it’s the turns, maneuvers, and delays that make it unforgettable. In 2024, our astrojet navigated uncharted sectors, evaded gravitational traps, and found pockets of calm amidst storms of cosmic chaos to collect what matters most.\n\nThis compilation is a chronicle of remarkable discoveries, inspiration, and collaboration, uniting musicians, listeners, and our dedicated team. May the new cycle bring you the courage to dream and the freedom to create. The journey continues!",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3956700428/size=small/bgcol=ffffff/linkcol=0687f5/track=1711780914/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2024"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3956700428/size=small/bgcol=ffffff/linkcol=0687f5/track=3909398037/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2024"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3956700428/size=small/bgcol=ffffff/linkcol=0687f5/track=2682179549/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2024"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3956700428/size=small/bgcol=ffffff/linkcol=0687f5/track=137711288/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2024"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3956700428/size=small/bgcol=ffffff/linkcol=0687f5/track=2418079586/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2024"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3956700428/size=small/bgcol=ffffff/linkcol=0687f5/track=4027344551/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2024"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3956700428/size=small/bgcol=ffffff/linkcol=0687f5/track=600169440/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2024"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3956700428/size=small/bgcol=ffffff/linkcol=0687f5/track=3862686137/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2024"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3956700428/size=small/bgcol=ffffff/linkcol=0687f5/track=2284890103/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2024"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3956700428/size=small/bgcol=ffffff/linkcol=0687f5/track=1668283924/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2024"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3956700428/size=small/bgcol=ffffff/linkcol=0687f5/track=906066767/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2024"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3956700428/size=small/bgcol=ffffff/linkcol=0687f5/track=159369873/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2024"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3956700428/size=small/bgcol=ffffff/linkcol=0687f5/track=2300657079/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2024"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3956700428/size=small/bgcol=ffffff/linkcol=0687f5/track=4262666150/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2024"
+        }
+      ],
+      "imageId": "SL2024.jpg",
+      "remix": ["Alexander Bogdanov"],
+      "type": "albums",
+      "id": "the-best-of-spclnch-2024",
+      "social": {
+        "youtube": "null",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/teaser-various-artists-the-best-of-spclnch-2024-sl2024",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/the-best-of-spclnch-2024",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL77",
       "date": "2025-02-27T00:00:00",
       "artist": "Addex",
