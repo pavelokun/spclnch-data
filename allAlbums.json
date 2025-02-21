@@ -1,6 +1,52 @@
 {
   "albums": [
     {
+      "catalogue": "SL77",
+      "date": "2025-02-27T00:00:00",
+      "artist": "Addex",
+      "albumName": "Proxima Centauri B",
+      "description": "It was hard to imagine that Proxima Centauri B, a planet with a high civilization index, would one day become a savage mining colony. The once-thriving clan of Castafarian Keepers had been torn apart by internal strife. The names of influential leaders were erased from history in a series of purges, while the more compliant ones sided with the darkness. Yet, scattered across the boundless landscapes, there were still those who remained true to the ancient traditions.\n\n— Are we sure this Kujo guy got it right? First the portal, then the memory module, and now the trip to here. This is madness, Doc!\n— Sometimes, even I forget what I am truly after. Let’s just enjoy the view for now. We’ll find out everything soon enough.\n\nA glimmer of teleportation shimmered in the twilight. Queen of the Smorings was never late. Approaching Spacelunch and Cat, she nodded warmly: “So, how do you like it here?” The conversation flowed as naturally as if no time had passed since their last meeting. It was now clear that the disappearance of Nomad had been an omen of what was to come. The guidance of the warrior queen sounded definite and convincing. Once she was done, a burlap pouch containing an unknown mixture appeared in her hand as if conjured out of thin air. “Take this. It will help in your upcoming encounter. May the force of the elements be with you.” With the sun slipping below the horizon, the gathering of the elders was about to begin. There wasn’t a second to lose.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4181786947/size=small/bgcol=ffffff/linkcol=0687f5/track=1826454928/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/proxima-centauri-b"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4181786947/size=small/bgcol=ffffff/linkcol=0687f5/track=751213863/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/proxima-centauri-b"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4181786947/size=small/bgcol=ffffff/linkcol=0687f5/track=828495852/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/proxima-centauri-b"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4181786947/size=small/bgcol=ffffff/linkcol=0687f5/track=1275511134/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/proxima-centauri-b"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=4181786947/size=small/bgcol=ffffff/linkcol=0687f5/track=4051342280/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/proxima-centauri-b"
+        }
+      ],
+      "imageId": "SL77.jpg",
+      "remix": ["Kooscha"],
+      "type": "albums",
+      "id": "proxima-centauri-b",
+      "social": {
+        "youtube": "null",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/addex-proxima-centauri-b-w",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/proxima-centauri-b",
+        "beatport": "https://www.beatport.com/release/proxima-centauri-b/4938358",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL76",
       "date": "2024-12-26T00:00:00",
       "artist": "Nicolas Barnes",
