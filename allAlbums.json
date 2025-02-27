@@ -115,8 +115,8 @@
       "type": "albums",
       "id": "proxima-centauri-b",
       "social": {
-        "youtube": "null",
-        "spotify": "null",
+        "youtube": "https://www.youtube.com/watch?v=m91ijQn-UXo&list=PL-avZEKaOJ95M_oKRKNZZ0XQs_ykEhhV5",
+        "spotify": "https://open.spotify.com/album/2jL82HMzACNldl6d4ZSPDk?si=fiJU2ph_SkO5r2HaevqFDw",
         "soundcloud": "https://soundcloud.com/spclnch/sets/addex-proxima-centauri-b-w",
         "mixcloud": "null",
         "junoRecords": "null",
@@ -124,7 +124,7 @@
         "flat.audio": "null",
         "bandcamp": "https://spclnch.bandcamp.com/album/proxima-centauri-b",
         "beatport": "https://www.beatport.com/release/proxima-centauri-b/4938358",
-        "appleMusic": "null",
+        "appleMusic": "https://music.apple.com/nl/album/proxima-centauri-b/1796129644",
         "buyDownload": "null"
       }
     },
