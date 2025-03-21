@@ -1,6 +1,52 @@
 {
   "albums": [
     {
+      "catalogue": "SL78",
+      "date": "2025-03-20T00:00:00",
+      "artist": "Tim Kossmann",
+      "albumName": "Black Ice",
+      "description": "The rumbles, swallowed by pitch darkness, resembled a palisade of death rather than a place suitable for the council of elders. Giant thorns gripped the ground with their roots, intertwining as a twisted maze. The creaky funicular barely illuminated the ominous ravine while bringing Cat and Spacelunch down.\n\n— I wonder if they’re even expecting us.\n— It's been a while since I traveled on a rattletrap like this. I think just making it to the end of the route in one piece will be an achievement.\n— Creepy sight…\n— Don’t lose your nerve, we’ll be there soon. Why’s your tail tucked?\n\nThe cable car stopped before the gate leading to the secret gathering. The wasteland covered in fallen timber served as a reliable disguise for the Castafarian Keepers. The professor knocked in a code, and soon a robed figure emerged silently beckoning them into the tunnel. At its end, a dimly lit chamber with the monks sitting in a circle appeared. A few moments later, a voice addressed the leader:\n\n— I kneel before your resilience, O Wisest! We have come up to you with an important matter and wish to ask about…\n— My respect goes to you, brave wanderers. I know whom you seek.\n\nA figure in a cloak emerged from the shadows and came forward unhurriedly before revealing his face.\n\n— Nomad, you’re alive! What the hell is going on?\n— I understand your frustration. Under the Queen’s orders, it was necessary to hide your friend. He must remain here for a while.\n— On behalf of the entire scientific community, I thank you for saving his life. Please accept this as a token of gratitude, O Wisest.\n\nThe aerospace corporation had always preferred serving revenge cold — as it should be. Blackmail was particularly sweet. After all, it’s easy to break anyone when their loved ones are held hostage. But despite the glaringly obvious strategy, one pressing question remained: Who’s next?",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3813016744/size=small/bgcol=ffffff/linkcol=0687f5/track=1000981442/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/black-ice"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3813016744/size=small/bgcol=ffffff/linkcol=0687f5/track=1084402279/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/black-ice"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3813016744/size=small/bgcol=ffffff/linkcol=0687f5/track=3407993440/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/black-ice"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3813016744/size=small/bgcol=ffffff/linkcol=0687f5/track=4148515007/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/black-ice"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3813016744/size=small/bgcol=ffffff/linkcol=0687f5/track=3291560394/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/black-ice"
+        }
+      ],
+      "imageId": "SL78.jpg",
+      "remix": ["Van Bonn", "Schulz Audio"],
+      "type": "albums",
+      "id": "black-ice",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=RMa6Sp0dHu0&list=PL-avZEKaOJ94JIoBiJasmADy2VP_X7Q1V",
+        "spotify": "https://open.spotify.com/album/3CB4SqWusCvd7y7YdN1PPu?go=1&nd=1&dlsi=0e6660c7e9e04dba",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/tim-kossmann-black-ice",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/black-ice",
+        "beatport": "https://www.beatport.com/release/black-ice/4973092",
+        "appleMusic": "https://music.apple.com/nl/album/black-ice/1800433360",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL2024",
       "date": "2024-12-29T00:00:00",
       "artist": "Various Artists",
