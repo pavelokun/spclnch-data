@@ -5989,6 +5989,35 @@
   ],
   "podcasts": [
     {
+      "catalogue": "91",
+      "date": "2025-03-31T00:00:00",
+      "artist": "spa2k",
+      "albumName": "spclnch podcast #91",
+      "description": "The Mercurian Crater Festival rarely opens its doors. While primarily designed for wholesale traders from across the galaxies, guests from all walks of life are welcome to join the experience. Installations, auctions, food courts, and an endless array of goods for every taste make this event a spectacle of creativity. One pavilion, in particular, is drawing a growing crowd. And for good reason — this is the place to let loose. The immersive sound is intoxicatingly good, thanks to a true master in the lineup.\n\nSomewhere in the crowd, a high-ranking official from an Aerospace Corporation flashes by, a local dealer darts past, and a scholar observes the scene alongside a talking cat. In this eclectic mix, the right connections often form in the most unexpected ways — even rival factions sometimes find common ground. Despite its scale, the festival has never received official status, a testament to its rather… unconventional organizers, who prefer to stay out of the spotlight. But then again, no one really needs an announcement to know what goes on under the banner of such a grand event. Welcome to the chaos!",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2067319032&color=%23ff5500&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "91.jpeg",
+      "remix": [],
+      "type": "podcasts",
+      "id": "spclnch-podcast-91",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=j_GsggZp0AU",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-91-spa2k",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "https://flat.audio/m/22633",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "90",
       "date": "2024-09-02T00:00:00",
       "artist": "Pheek",
