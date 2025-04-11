@@ -1,6 +1,52 @@
 {
   "albums": [
     {
+      "catalogue": "SL79",
+      "date": "2025-04-10T00:00:00",
+      "artist": "Nicolas Giordano",
+      "albumName": "Take Back",
+      "description": "The return from Proxima Centauri b has brought unexpected but pleasant news, so tonight a cosy apartment in the heart of Chinatown is hosting guests. Their conversation is flowing between deductive battles, humour, and music. With so much happening around them, such a friendly gathering is the best remedy for stress.\n\n— So great to see you all! Make yourselves at home while I am grabbing some drinks and putting on a record.\n— Cat and I are completely exhausted. Thanks for the invitation, Mel! And could you grab a couple of ice cubes too?\n— As soon as I heard that our comrade had reappeared, I knew we had to discuss the news face-to-face.\n\nThe laboratory, now reduced to splinters, left more questions than answers. Was Graves nearby at the moment of the explosion? Had he known about their impending visit? One way or another, his obsession with obtaining the dodecahedron and his recklessness could become a serious problem for the professor.\n\n— I’m sure the trap for Nomad was a tactical move meant to force you to go all in, Doc.\n— I know, Cat. But I still can’t figure out who gave the order for the ambush. What if it was a setup?\n\nSpacelunch tried to push away the thoughts of betrayal, but sometimes they echoed louder than reason. The fear of losing friends had taken root somewhere in his childhood, and now the doubt was beginning to sprout from those seeds.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2613835477/size=small/bgcol=ffffff/linkcol=0687f5/track=2440738820/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/take-back"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2613835477/size=small/bgcol=ffffff/linkcol=0687f5/track=2244987129/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/take-back"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2613835477/size=small/bgcol=ffffff/linkcol=0687f5/track=2251269194/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/take-back"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2613835477/size=small/bgcol=ffffff/linkcol=0687f5/track=2655862916/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/take-back"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=2613835477/size=small/bgcol=ffffff/linkcol=0687f5/track=2351014888/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/take-back"
+        }
+      ],
+      "imageId": "SL79.jpg",
+      "remix": [""],
+      "type": "albums",
+      "id": "take-back",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kBQnG2LEFwUpj8jaNLbjk505o7bvCUAGs",
+        "spotify": "https://open.spotify.com/album/2N9tFy2aV1rEhIj5hbUuBH?go=1&nd=1&dlsi=7d5e87dcdc1b41ec",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/nicolas-giordano-take-back",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/take-back",
+        "beatport": "https://www.beatport.com/release/take-back/5004163",
+        "appleMusic": "https://music.apple.com/nl/album/take-back/1804118859",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL78",
       "date": "2025-03-20T00:00:00",
       "artist": "Tim Kossmann",
