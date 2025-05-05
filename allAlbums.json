@@ -6035,6 +6035,35 @@
   ],
   "podcasts": [
     {
+      "catalogue": "92",
+      "date": "2025-05-05T00:00:00",
+      "artist": "Texture",
+      "albumName": "spclnch podcast #92",
+      "description": "It is nearly impossible to get invited into the lodge of the Castafarian Keepers. Only the members of privileged orders or fearless warriors may find their names amongst the honored guests. However, there are rare purification sessions that summon musical healers — their role is to prepare the sensory environment for meditative practice.\n\nIt all begins with gentle swaying, as the local elders begin the process of mana restoration. The enchanting ritual continues until the rhythmic vortexes subside. This time, Ioann Texture has been requested to guide the ceremony. Behind closed doors, the chosen are gathering to taste the brew made from ancient ingredients, share experiences of telepathic communion, and call upon the Great Mind to protect their lands.",
+      "embed": [
+        {
+          "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2090225913&color=%23ff5500&inverse=false&auto_play=false&show_user=true"
+        }
+      ],
+      "imageId": "92.jpeg",
+      "remix": [],
+      "type": "podcasts",
+      "id": "spclnch-podcast-92",
+      "social": {
+        "youtube": "https://www.youtube.com/watch?v=lgvmB5xGvF4&t=2s",
+        "spotify": "null",
+        "soundcloud": "https://soundcloud.com/spclnch/spclnch-podcast-92-texture",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "https://flat.audio/m/23009",
+        "bandcamp": "null",
+        "beatport": "null",
+        "appleMusic": "null",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "91",
       "date": "2025-03-31T00:00:00",
       "artist": "spa2k",
