@@ -1,6 +1,48 @@
 {
   "albums": [
     {
+      "catalogue": "SPCLNCHBLACK01",
+      "date": "2025-04-10T00:00:00",
+      "artist": "Toki Fuko",
+      "albumName": "Phantom Scripts",
+      "description": "Darkness hides stories we do not yet understand: echoes of the forgotten, shadows of the unexplored, traces left behind by something — or someone — beyond our perception. SPCLNCH-BLACK is a new series where sound becomes a gateway to the unknown, where minimalism, depth, and mystery unfold through music.\n\nThe first chapter — “Phantom Scripts” by Toki Fuko. Lost signals, vibrations beyond reality, and rhythms carrying messages from the void.\n\n.\n\nIn 2045, researchers at MindTech discovered an anomaly in neural networks used for direct data transmission into the human brain. They called this phenomenon “Phantom Scripts” — mysterious glitches in the code that activate when a person falls asleep or closes their eyes. Deprived of visual stimuli, the brain becomes more receptive and starts responding to internal impulses from the neuro-interface, generating unexpected images and phrases, as if creating messages from the void.\n\nAnalysis revealed that these scripts are particularly active during deep sleep or meditation, when the mind is most vulnerable to external influence, as though an intelligent force is attempting to communicate through the subconscious. What lies behind these messages and why they appear remains unknown. Perhaps the answers are hidden in the darkness itself.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1271717653/size=small/bgcol=ffffff/linkcol=0687f5/track=2599748720/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/phantom-scripts"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1271717653/size=small/bgcol=ffffff/linkcol=0687f5/track=478976266/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/phantom-scripts"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1271717653/size=small/bgcol=ffffff/linkcol=0687f5/track=3622541968/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/phantom-scripts"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1271717653/size=small/bgcol=ffffff/linkcol=0687f5/track=1223719424/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/phantom-scripts"
+        }
+      ],
+      "imageId": "SPCLNCHBLACK01.jpg",
+      "remix": [""],
+      "type": "albums",
+      "id": "phantom-scripts",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_kKG7A2GY9JLTqIc9MMGDGTUK-Xj9nad2k",
+        "spotify": "https://open.spotify.com/album/71v0WGhqA1HWKK8DCGhzwn?go=1&nd=1&dlsi=8292ba4410074005",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/toki-fuko-phantom-scripts",
+        "mixcloud": "null",
+        "junoRecords": "https://www.juno.co.uk/products/toki-fuko-phantom-scripts-vinyl/1072883-01/",
+        "deejayDe": "https://www.deejay.de/Toki_Fuko_Phantom_Scripts_SPCLNCH-BLACK-01_Vinyl__1108739",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/phantom-scripts",
+        "beatport": "https://www.beatport.com/release/phantom-scripts/4922070",
+        "appleMusic": "https://music.apple.com/nl/album/phantom-scripts/1793869229",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL79",
       "date": "2025-04-10T00:00:00",
       "artist": "Nicolas Giordano",
