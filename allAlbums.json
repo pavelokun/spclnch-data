@@ -1,6 +1,48 @@
 {
   "albums": [
     {
+      "catalogue": "SPCLNCH12",
+      "date": "2025-05-06T00:00:00",
+      "artist": "Various Artists",
+      "albumName": "Archive G",
+      "description": "In the heart of a post-apocalyptic city, Spacelunch was making his way through the ruins, wearing a heavy armour of metal plates and flickering circuitry. Cat settled on his shoulder, listening intently to every sound. This time, they weren't just looking for an artefact — their target was the Singularity Echo, a mysterious device created right before the catastrophe. Legend had it that the scientists of the past, sensing the impending collapse, had put all their accumulated experience and knowledge together to create it. It was said that one day “Echo” would awaken and allow descendants to touch the wisdom of the ancients, learn the secrets of forgotten technologies and, perhaps, avoid the fatal mistakes of the past.\n\n— We’ve been wandering around for how long? — muttered Cat, looking around warily. — And nothing.\n— Sitting up there complaining, aren’t you? — Spacelunch grinned, deftly bypassing the debris and intertwined roots that poked out from under the asphalt.\n\nSuddenly, a glow flashed before them, gradually taking the form of a palm-sized transparent crystal. It floated in the air, surrounded by silver lining that wove into intricate patterns, like a network of ancient runes. The symbols on its facets, flickering, cast soft reflections on the debris around them. As the professor slowly reached out his hand, the crystal shone brighter, and the low whisper of distant voices cut through the silence. Their minds were enveloped by the echoes of past events, filling their minds with images of the vanished world.\n\nThe friends froze for a moment, overwhelmed by shock and a sense of profound change.\n\n— Well, — said Cat, not hiding his surprise. — It seems we've gotten a little smarter.\n— A little? Now we have what has been lost for an era.\n— So, we have a new adventure ahead of us. Where do we start?\n\nThe ghost town, once seemingly lifeless, now seemed to come to life: every collapsed building and every corner sparked with traces and clues as if the world itself was holding its breath, waiting for a sign.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3871235000/size=small/bgcol=ffffff/linkcol=0687f5/track=4250734759/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-g"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3871235000/size=small/bgcol=ffffff/linkcol=0687f5/track=2581626632/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-g"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3871235000/size=small/bgcol=ffffff/linkcol=0687f5/track=2669841840/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-g"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=3871235000/size=small/bgcol=ffffff/linkcol=0687f5/track=764917859/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-g"
+        }
+      ],
+      "imageId": "SPCLNCH12.jpg",
+      "remix": [""],
+      "type": "albums",
+      "id": "archive-g",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_l3NVTxKJA-5FOkbMSloV4nT2EqIPlmaFY",
+        "spotify": "https://open.spotify.com/album/3kdFHxzxtb8ixY4PjYZOBA?go=1&nd=1&dlsi=53faf3034e2c4d28",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/various-artists-archive-e-1",
+        "mixcloud": "null",
+        "junoRecords": "https://www.juno.co.uk/products/dp-6-eric-louis-upwellings-anton-archive-g-vinyl/1075895-01/",
+        "deejayDe": "https://www.deejay.de/Various_Archive_G_SPCLNCH12_Vinyl__1112699",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/archive-g",
+        "beatport": "https://www.beatport.com/release/archive-g/4948774",
+        "appleMusic": "https://music.apple.com/nl/album/archive-g-ep/1797542002",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SPCLNCHBLACK01",
       "date": "2025-04-10T00:00:00",
       "artist": "Toki Fuko",
