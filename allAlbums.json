@@ -1,6 +1,44 @@
 {
   "albums": [
     {
+      "catalogue": "SL81",
+      "date": "2025-05-22T00:00:00",
+      "artist": "Root",
+      "albumName": "Diatonic Constellations",
+      "description": "The whole place was bursting with energy. Once-shy kids swarmed the rides, and fans of Asian cuisine kept seizing the food stalls. It seemed like there wasn’t a single hungry or unhappy soul left in the area. Even an old one-legged hurdy-gurdy player was enjoying unprecedented popularity.\n\n— This game taught me how to shoot. Plasma blaster range, what a nostalgia!\n— I’m more into barrel pickles and sausages with lager.\n\nStuffed to the brim, Cat made a wild attempt at Celtic dancing, moving so clumsy that he kept bumping into everyone in sight. The booze and the atmosphere of reckless joy were getting the better of him.\n\n— You’re seriously loaded, Fluffball. Try not to fall over.\n— Let’s fire up a portal flash just for fun! I just need to activate it and… oh no! I think I lost it.\n— Lost what?\n— My smart bracelet…\n— I’m constantly amazed by how hopeless my partner is!\n\nWith a frustrated wave of a hand, Spacelunch stormed off. His silhouette vanished into the crowd just as quietly as the key accessory, that custom-made piece of tech, had gone missing. The professor was baffled by this unpleasant turn of events, a fresh wave of unease settling over him.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1997619888/size=small/bgcol=ffffff/linkcol=0687f5/track=1386352371/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/diatonic-constellations"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1997619888/size=small/bgcol=ffffff/linkcol=0687f5/track=3437567670/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/diatonic-constellations"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1997619888/size=small/bgcol=ffffff/linkcol=0687f5/track=1052628092/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/diatonic-constellations"
+        }
+      ],
+      "imageId": "SL81.jpg",
+      "remix": [""],
+      "type": "albums",
+      "id": "diatonic-constellations",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_nJhkCV_nDv-tUIboX-Hu_xA4oEcAIz36I",
+        "spotify": "https://open.spotify.com/album/4mV68q4OLHzC8Rb0y0QIE5?go=1&nd=1&dlsi=982deee098c9413d",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/root-diatonic-constellations",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/diatonic-constellations",
+        "beatport": "https://www.beatport.com/release/diatonic-constellations/5073650",
+        "appleMusic": "https://music.apple.com/nl/album/diatonic-constellations/1812742690",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL80",
       "date": "2025-05-01T00:00:00",
       "artist": "Amaral Borges",
