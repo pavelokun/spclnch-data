@@ -1,6 +1,52 @@
 {
   "albums": [
     {
+      "catalogue": "SL80",
+      "date": "2025-05-01T00:00:00",
+      "artist": "Amaral Borges",
+      "albumName": "Primal Rover",
+      "description": "— Doc, why the long face? It’s Earth Day today, you know. Things are about to get wild!\n— Sorry, what?\n— I said let’s grab a beer and some local snacks. It’s time to shake off the gloom.\n— Ah, yes, of course! Not a bad idea, Cat.\n\nA grand celebration was underway — to commemorate the first settlers who arrived here from the third planet from the Sun. Any moment now, the streets would flood with crowds in carnival costumes, vendors would open their stalls, and local pickpockets would start hunting for easy prey. The colourful mass would take on a life of its own until the festivities died down.\n\n— Hey, Mel, get ready!\n— I’ll pass. I don’t feel like drawing too much attention to myself. I’d rather stay home and read that new review of Gardner’s legendary reissue.\n— Suit yourself, buddy. And thanks again for organising the meetup!\n\nAfter a few firm handshakes, they were swallowed by the lights, the noise, and a blend of aromas that triggered a gentle euphoria. The crowd slowly drifted toward the central square, where you could find just about anything your heart desired. That evening, the professor and Cat were in for a wild ride.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=226400779/size=small/bgcol=ffffff/linkcol=0687f5/track=2765491181/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/primal-rover"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=226400779/size=small/bgcol=ffffff/linkcol=0687f5/track=3079245245/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/primal-rover"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=226400779/size=small/bgcol=ffffff/linkcol=0687f5/track=2320620033/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/primal-rover"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=226400779/size=small/bgcol=ffffff/linkcol=0687f5/track=2390871220/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/primal-rover"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=226400779/size=small/bgcol=ffffff/linkcol=0687f5/track=489084025/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/primal-rover"
+        }
+      ],
+      "imageId": "SL80.jpg",
+      "remix": ["Eric Louis"],
+      "type": "albums",
+      "id": "primal-rover",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_m9PEmqUjUmWvnk5G_C46xBdiAStpAcU0M",
+        "spotify": "https://open.spotify.com/album/3GAzAwyAgnruQeiaF0iIaY?go=1&nd=1&dlsi=91ecd35e63fd4dd0",
+        "soundcloud": "https://soundcloud.com/spclnch/sets/amaral-borges-primal-rover",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/primal-rover",
+        "beatport": "https://www.beatport.com/release/primal-rover/5041172",
+        "appleMusic": "https://music.apple.com/nl/album/primal-rover/1809114307",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SPCLNCH12",
       "date": "2025-05-06T00:00:00",
       "artist": "Various Artists",
