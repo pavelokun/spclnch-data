@@ -1,6 +1,60 @@
 {
   "albums": [
     {
+      "catalogue": "SL82",
+      "date": "2025-06-19T00:00:00",
+      "artist": "Various Artists",
+      "albumName": "Archive H",
+      "description": "Taken aback by what had happened, Cat dragged himself toward the local junk dealers — the kind who bought anything without asking questions. The chances of finding the smart bracelet in piles and piles of used scrap were slim, but it was worth a shot while the trails were still fresh. He took a turn into an alley, came up to the gate, and rang the bell. A small eye-slot opened with a creak, followed by a gravelly voice:\n\n— Keep moving. We’re not expecting anyone.\n— Easy there, friend. I’m an intergalactic investigator on a high-priority case.\n— Information isn’t free.\n— Let me in and we’ll talk shop.\n\nThe bluff worked. The old man grinned and shut the door behind him. Inside, as Cat scanned the shelves suffocated with dust, he leaned in: “My partner is already sweeping the perimeter. You can either tell me what you know or enjoy a formal interrogation downtown.” A brief exchange revealed a list of local pickpockets, with names and addresses. The info came at a cost: one crisp hundred. Ahead lay a sleepless night and a long walk through the stink of the backstreets.",
+      "embed": [
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1421138513/size=small/bgcol=ffffff/linkcol=0687f5/track=1641946774/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-h"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1421138513/size=small/bgcol=ffffff/linkcol=0687f5/track=2338268853/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-h"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1421138513/size=small/bgcol=ffffff/linkcol=0687f5/track=2441744418/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-h"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1421138513/size=small/bgcol=ffffff/linkcol=0687f5/track=1677937669/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-h"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1421138513/size=small/bgcol=ffffff/linkcol=0687f5/track=208697820/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-h"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1421138513/size=small/bgcol=ffffff/linkcol=0687f5/track=650430999/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-h"
+        },
+        {
+          "src": "https://bandcamp.com/EmbeddedPlayer/album=1421138513/size=small/bgcol=ffffff/linkcol=0687f5/track=4284702940/transparent=true/",
+          "href": "https://spclnch.bandcamp.com/album/archive-h"
+        }
+      ],
+      "imageId": "SL82.jpg",
+      "remix": [""],
+      "type": "albums",
+      "id": "archive-h",
+      "social": {
+        "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_k82JHEDPKfT-wENXZsreAGvwJS-uqCXYY",
+        "spotify": "https://open.spotify.com/album/2V9ha3hD1fSLWCsEE3iwsi?go=1&nd=1&dlsi=a3953cd9de0e48a0",
+        "soundcloud": "",
+        "mixcloud": "null",
+        "junoRecords": "null",
+        "deejayDe": "null",
+        "flat.audio": "null",
+        "bandcamp": "https://spclnch.bandcamp.com/album/archive-h",
+        "beatport": "https://www.beatport.com/release/archive-h/5114922",
+        "appleMusic": "https://music.apple.com/nl/album/archive-h/1818070172",
+        "buyDownload": "null"
+      }
+    },
+    {
       "catalogue": "SL81",
       "date": "2025-05-22T00:00:00",
       "artist": "Root",
